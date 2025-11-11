@@ -386,9 +386,9 @@
       {
         "date": "Monday, Octo. 26, 1835",
         "location": {
-          "lat": 33.050833,
           "line": true,
-          "lon": -91.119444,
+          "lat": 33.05083,
+          "lon": -91.11944,
           "zoom": 10
         },
         "media": {
@@ -432,9 +432,9 @@
         },
         "location": {
           "line": true,
-          "lat": 33.069019,
-          "lon": -91.06042,
-          "zoom": 10
+          "lat": 33.05083,
+          "lon": -91.11944,
+          "zoom": 8
         }
       },
       {
@@ -760,7 +760,115 @@
           "lon": -90.41366,
           "zoom": 8
         }
-      }
+      },
+      {
+        "date": "Thursday, June 2, 1836",
+        "text": {
+          "headline": "Thursday, June 2, 1836.",
+          "text": "The Superior passes Natchez, Rodney, and Bruinsburg, all in Mississippi. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1cd0b19f-c118-3e82-b7ab-67e45c5a928c%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/1cd0b19f-c118-3e82-b7ab-67e45c5a928c/104,1051,2065,535/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 186"
+        },
+        "location": {
+          "line": true,
+          "lat": 31.5604,
+          "lon": -91.4032,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Friday, June 3, 1836",
+        "text": {
+          "headline": "Friday, June 3, 1836.",
+          "text": "The Superior arrived in Vicksburg, Mississippi at 2am. Gray boarded the Heroine at 11pm. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1cd0b19f-c118-3e82-b7ab-67e45c5a928c%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/1cd0b19f-c118-3e82-b7ab-67e45c5a928c/232,1578,1906,1014/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 186"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Saturday, June 4, 1836",
+        "text": {
+          "headline": "Saturday, June 4, 1836.",
+          "text": "Gray is on board the Heroine. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F513f60e3-aac4-3a51-bc2f-95abec4cb79a%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/513f60e3-aac4-3a51-bc2f-95abec4cb79a/52,376,2097,758/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 187"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Sunday, June 5, 1836",
+        "text": {
+          "headline": "Sunday, June 5, 1836.",
+          "text": "The Heroine passes the mouths of the Arkansaw River and the White River. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F513f60e3-aac4-3a51-bc2f-95abec4cb79a%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/513f60e3-aac4-3a51-bc2f-95abec4cb79a/115,1109,1969,455/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 187"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Monday, June 6, 1836",
+        "text": {
+          "headline": "Monday, June 6, 1836.",
+          "text": "The Heroine arrives in Memphis. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F513f60e3-aac4-3a51-bc2f-95abec4cb79a%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/513f60e3-aac4-3a51-bc2f-95abec4cb79a/156,1547,1906,1317/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 187"
+        },
+        "location": {
+          "line": true,
+          "lat": 35.1486,
+          "lon": -90.0519,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Tuesday, June 7, 1836",
+        "text": {
+          "headline": "Tuesday, June 7, 1836.",
+          "text": "The Heroine passes Randolph, Tennessee. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F513f60e3-aac4-3a51-bc2f-95abec4cb79a%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/513f60e3-aac4-3a51-bc2f-95abec4cb79a/174,2873,1874,423/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 187"
+        },
+        "location": {
+          "line": true,
+          "lat": 35.5165,
+          "lon": -89.8887,
+          "zoom": 8
+        }
+      }    
     ],
     "zoomify": false
   }
