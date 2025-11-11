@@ -55,7 +55,7 @@
           "url": "https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/128,575,1969,475/full/0/default.jpg"
         },
         "text": {
-          "headline": "Wednesday, Octo. 7, 1835. <a href='https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/info.json'>Read more</a>",
+          "headline": "Wednesday, Octo. 7, 1835. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2Finfo.json'>Read more</a>",
           "text": "Left Orange, VA"
         }
       },
@@ -74,7 +74,7 @@
         },
         "text": {
           "headline": "Thursday, Octo. 8, 1835.",
-          "text": "Left Staunton, VA. <a href='https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/info.json'>Read more</a>"
+          "text": "Left Staunton, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -92,11 +92,11 @@
         },
         "text": {
           "headline": "Friday, Octo. 9, 1835.",
-          "text": "Left Warm Springs, VA. <a href='https://api.library.tamu.edu/iiif/2/34ac85c4-ce23-32c0-85fa-a900c85143cb/info.json'>Read more</a>"
+          "text": "Left Warm Springs, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34ac85c4-ce23-32c0-85fa-a900c85143cb%2Finfo.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Saturday, Octo. 10, 1835",
         "location": {
           "lat": 37.801717,
           "line": true,
@@ -106,11 +106,11 @@
         "media": {
           "caption": "Vol 1, Pg. 5",
           "credit": "",
-          "url": "https://api.library.tamu.edu/iiif/2/25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb/147,701,1905,2602/full/0/default.jpg"
+          "url": "https://api.library.tamu.edu/iiif/2/25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb/67,2114,2049,1179/full/0/default.jpg"
         },
         "text": {
           "headline": "Saturday, Octo. 10, 1835.",
-          "text": "Left Lewisburg, WV"
+          "text": "Left Lewisburg, WV <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb%2Finfo.json'>Read more</a>"
         }
       },
       {
