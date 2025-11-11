@@ -405,7 +405,7 @@
         "date": "Tuesday, Octo. 27, 1835",
         "text": {
           "headline": "Tuesday, Octo. 27, 1835.",
-          "text": "Gray visited a mill on Lake Jackson and several plantations on the Lake Washington in Mississippi. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Ffc353f32-c9df-3684-aeec-a0872f30a4bc%2Finfo.json'>Read more</a>"
+          "text": "Gray visited a mill on Lake Jackson and several plantations on Lake Washington in Mississippi. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Ffc353f32-c9df-3684-aeec-a0872f30a4bc%2Finfo.json'>Read more</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/fc353f32-c9df-3684-aeec-a0872f30a4bc/148,427,2041,1547/full/0/default.jpg",
@@ -447,6 +447,222 @@
           "url": "https://api.library.tamu.edu/iiif/2/3740c140-9811-3144-be4c-6b487c25a817/122,1715,1953,1333/full/0/default.jpg",
           "credit": "",
           "caption": "Vol 1, Pg. 25"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Friday, Octo. 30, 1835",
+        "text": {
+          "headline": "Friday, Octo. 30, 1835.",
+          "text": "Gray spent the day looking at land in the area. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F44e13ac6-e9b0-3729-8162-9a9f8b8dc760%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/44e13ac6-e9b0-3729-8162-9a9f8b8dc760/94,361,2033,1349/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 26"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Saturday, Octo. 31, 1835",
+        "text": {
+          "headline": "Saturday, Octo. 31, 1835.",
+          "text": "Gray was introduced to the President of the Commercial and Railroad Bank. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F44e13ac6-e9b0-3729-8162-9a9f8b8dc760%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/44e13ac6-e9b0-3729-8162-9a9f8b8dc760/221,1704,1906,1589/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 26"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+            {
+        "date": "Sunday, Nov. 1, 1835",
+        "text": {
+          "headline": "Sunday, Nov. 1, 1835.",
+          "text": "Gray attended a Methodist service in Vicksburg. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F5ccc4f36-6641-3fac-9ca5-aa8583b21d41%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/5ccc4f36-6641-3fac-9ca5-aa8583b21d41/128,400,2001,1605/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 27"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Monday, Nov. 2, 1835",
+        "text": {
+          "headline": "Monday, Nov. 2, 1835.",
+          "text": "Gray spent the day copying maps. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fb6696c23-98e9-39d2-9d4b-508f68a1c1eb%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/b6696c23-98e9-39d2-9d4b-508f68a1c1eb/38,1199,2209,455/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 28"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Tuesday, Nov. 3, 1835",
+        "text": {
+          "headline": "Tuesday, Nov. 3, 1835.",
+          "text": "Gray spent the day copying maps. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fb6696c23-98e9-39d2-9d4b-508f68a1c1eb%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/b6696c23-98e9-39d2-9d4b-508f68a1c1eb/140,2232,2017,1046/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 28"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Wednesday, Nov. 4, 1835",
+        "text": {
+          "headline": "Wednesday, Nov. 4, 1835.",
+          "text": "Gray spent the day copying maps. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F7b15a096-ffd3-3131-9f5b-d685983601dc%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/7b15a096-ffd3-3131-9f5b-d685983601dc/11,576,2225,1445/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 29"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Thursday, Nov. 5, 1835",
+        "text": {
+          "headline": "Thursday, Nov. 5, 1835.",
+          "text": "Gray spent the day copying maps. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F7b15a096-ffd3-3131-9f5b-d685983601dc%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/7b15a096-ffd3-3131-9f5b-d685983601dc/78,1975,2081,694/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 29"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Friday, Nov. 6, 1835",
+        "text": {
+          "headline": "Friday, Nov. 6, 1835.",
+          "text": "Gray spent the day copying maps. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F7b15a096-ffd3-3131-9f5b-d685983601dc%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/7b15a096-ffd3-3131-9f5b-d685983601dc/84,2640,2081,694/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 29"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Saturday, Nov. 7, 1835",
+        "text": {
+          "headline": "Saturday, Nov. 7, 1835.",
+          "text": "Gray planned a trip for Clinton, Mississippi. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F44b2bf4b-b01a-325d-852c-2805f9db0a89%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/44b2bf4b-b01a-325d-852c-2805f9db0a89/12,1186,2193,1190/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 30"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Sunday, Nov. 8, 1835",
+        "text": {
+          "headline": "Sunday, Nov. 8, 1835.",
+          "text": "Gray attended a Presbyterian service in Vicksburg. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F44b2bf4b-b01a-325d-852c-2805f9db0a89%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/44b2bf4b-b01a-325d-852c-2805f9db0a89/140,2347,1969,998/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 30"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Monday, Nov. 9, 1835",
+        "text": {
+          "headline": "Monday, Nov. 9, 1835.",
+          "text": "Gray attended a dance in Vicksburg. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fc6a56007-ba92-3780-9d7f-6ad05732bd0f%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/c6a56007-ba92-3780-9d7f-6ad05732bd0f/89,364,2097,726/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 32"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Tuesday, Nov. 10, 1835",
+        "text": {
+          "headline": "Tuesday, Nov. 10, 1835.",
+          "text": "Gray attended a dinner. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fc6a56007-ba92-3780-9d7f-6ad05732bd0f%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/c6a56007-ba92-3780-9d7f-6ad05732bd0f/188,1378,1890,1397/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 32"
         },
         "location": {
           "line": true,
