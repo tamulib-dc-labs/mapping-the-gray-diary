@@ -34,11 +34,11 @@
         "media": {
           "caption": "Vol. 1., Page 1",
           "credit": "",
-          "url": "https://api.library.tamu.edu/iiif/2/7ef01848-ce8f-3ba6-bdd4-164a4b7a81be/117,570,2001,547/full/0/default.jpg"
+          "url": "https://api.library.tamu.edu/iiif/2/7ef01848-ce8f-3ba6-bdd4-164a4b7a81be/113,586,2009,515/full/0/default.jpg"
         },
         "text": {
           "headline": "Tuesday, Octo. 6th, 1835",
-          "text": "Gray Leaves Fredericksburg, VA"
+          "text": "Gray leaves Fredericksburg, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F7ef01848-ce8f-3ba6-bdd4-164a4b7a81be%2Finfo.json'>Read more</a>"
         }
       },
       {
