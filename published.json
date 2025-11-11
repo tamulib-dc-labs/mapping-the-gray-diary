@@ -38,7 +38,7 @@
         },
         "text": {
           "headline": "Tuesday, Octo. 6th, 1835",
-          "text": "Gray leaves Fredericksburg, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F7ef01848-ce8f-3ba6-bdd4-164a4b7a81be%2F/info.json'>Read more</a>"
+          "text": "Gray leaves Fredericksburg, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F7ef01848-ce8f-3ba6-bdd4-164a4b7a81be%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -55,8 +55,8 @@
           "url": "https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/128,575,1969,475/full/0/default.jpg"
         },
         "text": {
-          "headline": "Wednesday, Octo. 7, 1835. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2F/info.json'>Read more</a>",
-          "text": "Left Orange, VA"
+          "headline": "Wednesday, Octo. 7, 1835.",
+          "text": "Left Orange, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -74,7 +74,7 @@
         },
         "text": {
           "headline": "Thursday, Octo. 8, 1835.",
-          "text": "Left Staunton, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2F/info.json'>Read more</a>"
+          "text": "Left Staunton, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -92,7 +92,7 @@
         },
         "text": {
           "headline": "Friday, Octo. 9, 1835.",
-          "text": "Left Warm Springs, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34ac85c4-ce23-32c0-85fa-a900c85143cb%2F/info.json'>Read more</a>"
+          "text": "Left Warm Springs, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34ac85c4-ce23-32c0-85fa-a900c85143cb%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -110,7 +110,7 @@
         },
         "text": {
           "headline": "Saturday, Octo. 10, 1835.",
-          "text": "Left Lewisburg, WV <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb%2F/info.json'>Read more here</a> and <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F81fd84f2-7af8-3c02-ad8a-930b88779e40%2F/info.json'> here</a>"
+          "text": "Left Lewisburg, WV <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb%2Finfo.json'>Read more here</a> and <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F81fd84f2-7af8-3c02-ad8a-930b88779e40%2Finfo.json'> here</a>"
         }
       },
       {
@@ -128,7 +128,7 @@
         },
         "text": {
           "headline": "Sunday, Octo. 11th, 1835.",
-          "text": "Left Charleston, WV. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F81fd84f2-7af8-3c02-ad8a-930b88779e40%2F/info.json'>Read more</a>"
+          "text": "Left Charleston, WV. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F81fd84f2-7af8-3c02-ad8a-930b88779e40%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -146,11 +146,11 @@
         },
         "text": {
           "headline": "Monday, Octo. 12, 1835.",
-          "text": "Left Guyandotte, WV on a Steamboat down the Ohio <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34bfa342-7bbf-3333-9e63-9e8a2cdb4c74%2F/info.json'>Read more</a>"
+          "text": "Left Guyandotte, WV on a Steamboat down the Ohio <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34bfa342-7bbf-3333-9e63-9e8a2cdb4c74%2Finfo.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Tuesday, Octo. 13th, 1835",
         "location": {
           "lat": 38.732114,
           "line": true,
@@ -158,17 +158,17 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg 8.",
+          "caption": "Vol 1, Pg 9.",
           "credit": "",
-          "url": "https://api.library.tamu.edu/iiif/2/34bfa342-7bbf-3333-9e63-9e8a2cdb4c74/225,1633,1777,1699/full/0/default.jpg"
+          "url": "https://api.library.tamu.edu/iiif/2/e85ec24f-4a54-3424-b181-686d0feeb6b5/161,411,1841,747/full/0/default.jpg"
         },
         "text": {
-          "headline": "'I'uesday, Octo. 13th, 1835.",
-          "text": "Awoke in Portsmouth, OH"
+          "headline": "Tuesday, Octo. 13th, 1835.",
+          "text": "Awoke in Portsmouth, OH <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe85ec24f-4a54-3424-b181-686d0feeb6b5%2Finfo.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Wednesday, Octo. 14, 1835",
         "location": {
           "lat": 39.102438,
           "line": true,
@@ -176,13 +176,13 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1., Pg. 9",
+          "caption": "Vol 1., Pg. 10",
           "credit": "",
-          "url": "https://api.library.tamu.edu/iiif/2/e85ec24f-4a54-3424-b181-686d0feeb6b5/163,2062,1857,1243/full/0/default.jpg"
+          "url": "https://api.library.tamu.edu/iiif/2/93190f58-7f25-358c-b06e-f573dd30f4d8/162,409,1873,1123/full/0/default.jpg"
         },
         "text": {
           "headline": "Wednesday, Octo. 14, 1835.",
-          "text": "Arrived at Cincinnati in the night."
+          "text": "Arrived at Cincinnati in the night. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F93190f58-7f25-358c-b06e-f573dd30f4d8%2Finfo.json'>Read more</a>"
         }
       },
       {
