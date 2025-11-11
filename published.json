@@ -1,0 +1,497 @@
+{
+  "storymap": {
+    "attribution": "",
+    "call_to_action": true,
+    "call_to_action_text": "",
+    "map_as_image": false,
+    "map_subdomains": "",
+    "map_type": "osm:standard",
+    "slides": [
+      {
+        "date": "",
+        "location": {
+          "line": true
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/6f8d6d51-7c5c-3130-abf4-bf5daa8f027d/177,147,1681,2994/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Mapping the Gray Diary",
+          "text": "Explore the landscapes and communities William Fairfax Gray recorded in his diary. This map visualizes his travels through 1830s Texas, linking his firsthand observations to the places where history unfolded."
+        },
+        "type": "overview"
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 38.303298,
+          "line": true,
+          "lon": -77.460662,
+          "zoom": 12
+        },
+        "media": {
+          "caption": "Vol. 1., Page 1",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/21f8935a-1776-3f63-8bb2-6e733f9cc957/125,1849,1882,1533/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Tuesday, Octo. 6th, 1835",
+          "text": "Gray Leaves Fredericksburg, VA"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 38.245116,
+          "line": true,
+          "lon": -78.1111,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "Vol 1., Page 2",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/7ef01848-ce8f-3ba6-bdd4-164a4b7a81be/151,1173,1937,1507/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Wednesday, Octo. 7, 1835.",
+          "text": "Left Orange, VA"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 38.149496,
+          "line": true,
+          "lon": -79.072602,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "Vol 1, Page 3",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/41,1033,2129,2226/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "'Thursday, Octo. 8, 1835.",
+          "text": "Left Staunton, VA."
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 38.046116,
+          "line": true,
+          "lon": -79.790604,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "Vol 1, Pg. 4",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/34ac85c4-ce23-32c0-85fa-a900c85143cb/175,355,1873,2938/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Friday, Octo. 9, 1835.",
+          "text": "Left Warm Springs, VA."
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 37.801717,
+          "line": true,
+          "lon": -80.445396,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "Vol 1, Pg. 5",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb/147,701,1905,2602/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Saturday, Octo. 10, 1835.",
+          "text": "Left Lewisburg, WV"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 38.351704,
+          "line": true,
+          "lon": -81.634029,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "Vol 1., Pg. 6",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/81fd84f2-7af8-3c02-ad8a-930b88779e40/145,1513,1945,1755/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Sunday, Octo. 11th, 1835.",
+          "text": "Left Charleston, WV."
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 38.429825,
+          "line": true,
+          "lon": -82.38864,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "Vol 1, pg. 7",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/e2e573ad-590d-3bc6-82b0-c4f9061672e8/157,1509,1929,891/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Monday, Octo. 12, 1835.",
+          "text": "Left Guyandotte, WV on a Steamboat down the Ohio"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 38.732114,
+          "line": true,
+          "lon": -82.995642,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "Vol 1, Pg 8.",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/34bfa342-7bbf-3333-9e63-9e8a2cdb4c74/225,1633,1777,1699/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "'I'uesday, Octo. 13th, 1835.",
+          "text": "Awoke in Portsmouth, OH"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 39.102438,
+          "line": true,
+          "lon": -84.513301,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "Vol 1., Pg. 9",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/e85ec24f-4a54-3424-b181-686d0feeb6b5/163,2062,1857,1243/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Wednesday, Octo. 14, 1835.",
+          "text": "Arrived at Cincinnati in the night."
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 39.085838,
+          "line": true,
+          "lon": -84.51072,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "Vol 1, Pg. 10",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/93190f58-7f25-358c-b06e-f573dd30f4d8/137,1555,1961,1803/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Thursday, Octo. 15, 1835.",
+          "text": "Took passage on board the steamboat Algonquin, bound for New Orleans ..."
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 38.253246,
+          "line": true,
+          "lon": -85.758804,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "Vol 1, Pg. 11",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/e39cbb0d-6999-3883-81b6-38eb09225834/211,2434,1777,843/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Friday, Octo. 16, 1835.",
+          "text": "... at the wharf at Louisville"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 37.772672,
+          "line": true,
+          "lon": -87.111031,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "Sunday, Octo. 18, 1835.",
+          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>At 4 o'clock, came to at Owensboro, or Yellow Banks.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 37.468025,
+          "line": true,
+          "lon": -88.16625,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "Monday, Octo. 19, 1835.",
+          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>Came to on\nthe Illinois side, near the Cave in Rock.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 37.139721,
+          "line": true,
+          "lon": -88.404989,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "Tuesday, Octo. 20, 1835.",
+          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>... believing that it would deepen the\nchannel and open a direct route to the town of Smithland, at\nthe mouth of Cumberland River, which now lies in sight.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 36.572417,
+          "line": true,
+          "lon": -89.195047,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "Wednesday, Octo. 21, 1835.",
+          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>One 0 'clock, come to at Mill's Point, in Hickman County, Ky.,\nthe first settlrnent we have seen on the Mississippi.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 35.51671,
+          "line": true,
+          "lon": -89.88853,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "Thursday, Octo. 22nd, 1835.",
+          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>Stopt at the Town of Randolph,\nsituated on the 2nd Chickasaw Bluff, in Tipton County, Tennes\u00ad\nsee.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 35.149844,
+          "line": true,
+          "lon": -90.049566,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "Friday, Octo. 23rd, 1835.",
+          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>\n\t\t\n\t\n\t\n\t\t</p><div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>The boat did not get far from Memphis before <span>daylight.&nbsp;</span></p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 34.529157,
+          "line": true,
+          "lon": -90.584967,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "HELENA, Octo. 23rd, 1835.",
+          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>Put up at the home of Col. Wm. B. R. Horner, who keeps a\ntavern and practices law.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+        }
+      },
+      {
+        "date": "",
+        "location": {
+          "lat": 33.050833,
+          "line": true,
+          "lon": -91.119444,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "",
+          "credit": "",
+          "url": ""
+        },
+        "text": {
+          "headline": "Monday, Octo. 26, 1835.",
+          "text": "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>Monday afternoon, came to at Princeton, a new settlement of about seven or eight houses, in Washington County, Miss.</p>\n\t\t\t\t</div>\n\t\t\t</div>"
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Tuesday, Octo. 27, 1835.",
+          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>We went to several plantations on the Lake Washington ...</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "lat": 33.069019,
+          "lon": -91.06042,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Thursday, Octo. 29, 1835.",
+          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>Arrived at Vicksburg at 10 0 'clock.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Thursday, Nov. 12, 1835.",
+          "text": "Arrived at Clinton about 4 o'clok."
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "lat": 32.339161,
+          "lon": -90.330587,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Jackson, Friday, Nov. 13th, 1835.",
+          "text": ""
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "lat": 32.299689,
+          "lon": -90.184056,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Clinton, Saturday, Nov. 14, 1835.",
+          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>Returned to Clinton and adjusted my business at the land\noffice. \n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "lat": 32.339161,
+          "lon": -90.330587,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Monday, Nov. 16, 18:35.",
+          "text": "Arrived at Vicksburg to breakfast."
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "",
+        "text": {
+          "headline": "Saturday, Nov. 21, 1835.",
+          "text": "Arrived at Manchester"
+        },
+        "media": {
+          "url": "",
+          "credit": "",
+          "caption": ""
+        },
+        "location": {
+          "line": true,
+          "lat": 32.847219,
+          "lon": -90.41366,
+          "zoom": 8
+        }
+      }
+    ],
+    "zoomify": false
+  }
+}
