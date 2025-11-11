@@ -868,7 +868,349 @@
           "lon": -89.8887,
           "zoom": 8
         }
-      }    
+      },
+      {
+        "date": "Wednesday, June 8, 1836",
+        "text": {
+          "headline": "Wednesday, June 8, 1836.",
+          "text": "The Heroine passes Mill's Point and Paducah, both in Kentucky. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fc2d97664-af8a-3170-b04d-d2a49df8a805%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/c2d97664-af8a-3170-b04d-d2a49df8a805/326,719,1842,1349/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 188"
+        },
+        "location": {
+          "line": true,
+          "lat": 37.0842,
+          "lon": -88.5980,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Thursday, June 9, 1836",
+        "text": {
+          "headline": "Thursday, June 9, 1836.",
+          "text": "The Heroine passes Livingston County, Kentucky, Pope County, Illinois, and Cave in Rock, also in Illinois. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fc2d97664-af8a-3170-b04d-d2a49df8a805%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/c2d97664-af8a-3170-b04d-d2a49df8a805/308,2041,1858,599/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 188"
+        },
+        "location": {
+          "line": true,
+          "lat": 37.4692,
+          "lon": -88.1653,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Friday, June 10, 1836",
+        "text": {
+          "headline": "Friday, June 10, 1836.",
+          "text": "The Heroine passes Rockport, Illinois, Troy, Indiana, Cloverport and Stevensport, both in Kentucky, and Rome and Leavensworth, both in Indiana. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fc2d97664-af8a-3170-b04d-d2a49df8a805%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/c2d97664-af8a-3170-b04d-d2a49df8a805/262,2615,1890,311/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 188"
+        },
+        "location": {
+          "line": true,
+          "lat": 38.1998,
+          "lon": -86.3441,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Saturday, June 11, 1836",
+        "text": {
+          "headline": "Saturday, June 11, 1836.",
+          "text": "The Heroine arrives in Louisville, Kentucky. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fc2d97664-af8a-3170-b04d-d2a49df8a805%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/c2d97664-af8a-3170-b04d-d2a49df8a805/248,2917,1890,391/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 188"
+        },
+        "location": {
+          "line": true,
+          "lat": 38.2469,
+          "lon": -85.7664,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Sunday, June 12, 1836",
+        "text": {
+          "headline": "Sunday, June 12, 1836.",
+          "text": "Gray attends an Episcopal service in Louisville. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F957ad0f7-cf16-34c5-b2a1-9f8413df2755%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/957ad0f7-cf16-34c5-b2a1-9f8413df2755/129,576,1921,822/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 189"
+        },
+        "location": {
+          "line": true,
+          "lat": 38.2469,
+          "lon": -85.7664,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Monday, June 13, 1836",
+        "text": {
+          "headline": "Monday, June 13, 1836.",
+          "text": "Gray remains in Louisville. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F957ad0f7-cf16-34c5-b2a1-9f8413df2755%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/957ad0f7-cf16-34c5-b2a1-9f8413df2755/125,1407,1921,614/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 189"
+        },
+        "location": {
+          "line": true,
+          "lat": 38.2469,
+          "lon": -85.7664,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Tuesday, June 14, 1836",
+        "text": {
+          "headline": "Tuesday, June 14, 1836.",
+          "text": "Gray left Louisville in the Ben Franklin. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F957ad0f7-cf16-34c5-b2a1-9f8413df2755%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/957ad0f7-cf16-34c5-b2a1-9f8413df2755/104,2007,1906,710/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 189"
+        },
+        "location": {
+          "line": true,
+          "lat": 38.2469,
+          "lon": -85.7664,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Wednesday, June 15, 1836",
+        "text": {
+          "headline": "Wednesday, June 15, 1836.",
+          "text": "The Ben Franklin reaches Cincinnati. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F957ad0f7-cf16-34c5-b2a1-9f8413df2755%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/957ad0f7-cf16-34c5-b2a1-9f8413df2755/106,2705,1906,662/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 189"
+        },
+        "location": {
+          "line": true,
+          "lat": 39.1031,
+          "lon": -84.5120,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Thursday, June 16, 1836",
+        "text": {
+          "headline": "Thursday, June 16, 1836.",
+          "text": "Gray boards the Detroit, which reaches Maysville, Kentucky, Alexandria and Manchester, both in Ohio, Vanceburg, Kentucky, and Portsmouth, Ohio. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F957ad0f7-cf16-34c5-b2a1-9f8413df2755%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/fa3f13b4-038e-3a6a-8362-8490cba02b24/274,650,1921,455/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 190"
+        },
+        "location": {
+          "line": true,
+          "lat": 38.7317,
+          "lon": -82.9977,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Friday, June 17, 1836",
+        "text": {
+          "headline": "Friday, June 17, 1836.",
+          "text": "The Detroit passes Guyandotte, West Virginia, Gallipolis, Ohio, and Point Pleasant, West Virginia. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F957ad0f7-cf16-34c5-b2a1-9f8413df2755%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/fa3f13b4-038e-3a6a-8362-8490cba02b24/300,1113,1890,503/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 190"
+        },
+        "location": {
+          "line": true,
+          "lat": 38.8445,
+          "lon": -82.1371,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Saturday, June 18, 1836",
+        "text": {
+          "headline": "Saturday, June 18, 1836.",
+          "text": "The Detroit passes Elizabethtown, Virginia (now Moundsville, West Virginia). <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F957ad0f7-cf16-34c5-b2a1-9f8413df2755%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/fa3f13b4-038e-3a6a-8362-8490cba02b24/190,1596,2017,1493/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 190"
+        },
+        "location": {
+          "line": true,
+          "lat": 39.9204,
+          "lon": -80.7431,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Sunday, June 19, 1836",
+        "text": {
+          "headline": "Sunday, June 19, 1836.",
+          "text": "The Detroit passes Warren, Ohio, Wellsburg, West Virginia, Steubenville, Ohio, Beaver, Pennsylvania, New Philadelphia, Ohio, Freedom, Pennsylvania, and Shaw's Town. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fcc4fbcf9-3145-31f9-b730-d94c24c5c773%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/cc4fbcf9-3145-31f9-b730-d94c24c5c773/135,352,1921,790/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 191"
+        },
+        "location": {
+          "line": true,
+          "lat": 40.684444,
+          "lon": -80.251667,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Monday, June 20, 1836",
+        "text": {
+          "headline": "Monday, June 20, 1836.",
+          "text": "The Detroit arrives in Pittsburgh. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fcc4fbcf9-3145-31f9-b730-d94c24c5c773%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/cc4fbcf9-3145-31f9-b730-d94c24c5c773/87,1152,2017,1158/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 191"
+        },
+        "location": {
+          "line": true,
+          "lat": 40.4387,
+          "lon": -79.9972,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Tuesday, June 21, 1836",
+        "text": {
+          "headline": "Tuesday, June 21, 1836.",
+          "text": "Gray leaves Pittsburgh. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fcc4fbcf9-3145-31f9-b730-d94c24c5c773%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/cc4fbcf9-3145-31f9-b730-d94c24c5c773/100,2333,2017,1078/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 191"
+        },
+        "location": {
+          "line": true,
+          "lat": 40.4387,
+          "lon": -79.9972,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Wednesday, June 22, 1836",
+        "text": {
+          "headline": "Wednesday, June 22, 1836.",
+          "text": "Gray reaches Bedford, Pennsylvania by stagecoach. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F55eb6164-c6e1-30ae-b7db-9b24f150db08%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/55eb6164-c6e1-30ae-b7db-9b24f150db08/261,575,1826,1365/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 192"
+        },
+        "location": {
+          "line": true,
+          "lat": 40.0187,
+          "lon": -78.5039,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Thursday, June 23, 1836",
+        "text": {
+          "headline": "Thursday, June 23, 1836.",
+          "text": "Gray reaches Chambersburg, Pennsylvania by stagecoach. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F55eb6164-c6e1-30ae-b7db-9b24f150db08%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/55eb6164-c6e1-30ae-b7db-9b24f150db08/183,1947,1985,567/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 192"
+        },
+        "location": {
+          "line": true,
+          "lat": 39.9376,
+          "lon": -77.6611,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Friday, June 24, 1836",
+        "text": {
+          "headline": "Friday, June 24, 1836.",
+          "text": "Gray reaches Gettysburg, Pennsylvania at 2am and reached Baltimore at 11pm. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F55eb6164-c6e1-30ae-b7db-9b24f150db08%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/55eb6164-c6e1-30ae-b7db-9b24f150db08/194,2504,2001,662/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 192"
+        },
+        "location": {
+          "line": true,
+          "lat": 39.299236,
+          "lon": -76.609383,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Saturday, June 25, 1836",
+        "text": {
+          "headline": "Saturday, June 25, 1836.",
+          "text": "Gray reaches Washington DC by noon. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F47cdd856-4b88-3be4-8076-4909a8c499e8%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/47cdd856-4b88-3be4-8076-4909a8c499e8/216,1607,1810,726/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 193"
+        },
+        "location": {
+          "line": true,
+          "lat": 38.889805,
+          "lon": -77.009056,
+          "zoom": 8
+        }
+      },
+      {
+        "date": "Sunday, June 26, 1836",
+        "text": {
+          "headline": "Sunday, June 26, 1836.",
+          "text": "Gray reaches Potomac Creek by steamboat, then takes a stagecoach for Fredericksburg, Virginia. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F47cdd856-4b88-3be4-8076-4909a8c499e8%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/47cdd856-4b88-3be4-8076-4909a8c499e8/142,2359,1921,583/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 10, Pg. 193"
+        },
+        "location": {
+          "line": true,
+          "lat": 38.309875,
+          "lon": -77.466316,
+          "zoom": 8
+        }
+      }             
     ],
     "zoomify": false
   }
