@@ -55,7 +55,7 @@
           "url": "https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/128,575,1969,475/full/0/default.jpg"
         },
         "text": {
-          "headline": "Wednesday, Octo. 7, 1835. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2Finfo.json'>Read more</a>",
+          "headline": "Wednesday, Octo. 7, 1835. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2F/info.json'>Read more</a>",
           "text": "Left Orange, VA"
         }
       },
@@ -74,7 +74,7 @@
         },
         "text": {
           "headline": "Thursday, Octo. 8, 1835.",
-          "text": "Left Staunton, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2Finfo.json'>Read more</a>"
+          "text": "Left Staunton, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2F/info.json'>Read more</a>"
         }
       },
       {
@@ -92,7 +92,7 @@
         },
         "text": {
           "headline": "Friday, Octo. 9, 1835.",
-          "text": "Left Warm Springs, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34ac85c4-ce23-32c0-85fa-a900c85143cb%2Finfo.json'>Read more</a>"
+          "text": "Left Warm Springs, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34ac85c4-ce23-32c0-85fa-a900c85143cb%2F/info.json'>Read more</a>"
         }
       },
       {
@@ -106,15 +106,15 @@
         "media": {
           "caption": "Vol 1, Pg. 5",
           "credit": "",
-          "url": "https://api.library.tamu.edu/iiif/2/25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb/67,2114,2049,1179/full/0/default.jpg"
+          "url": ["https://api.library.tamu.edu/iiif/2/25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb/67,2114,2049,1179/full/0/default.jpg", "https://api.library.tamu.edu/iiif/2/81fd84f2-7af8-3c02-ad8a-930b88779e40/210,389,1897,555/full/0/default.jpg"]
         },
         "text": {
           "headline": "Saturday, Octo. 10, 1835.",
-          "text": "Left Lewisburg, WV <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb%2Finfo.json'>Read more</a>"
+          "text": "Left Lewisburg, WV <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb%2F/info.json'>Read more here</a> and <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F81fd84f2-7af8-3c02-ad8a-930b88779e40%2F/info.json'> here</a>"
         }
       },
       {
-        "date": "",
+        "date": "Sunday, Octo. 11th, 1835",
         "location": {
           "lat": 38.351704,
           "line": true,
@@ -124,15 +124,15 @@
         "media": {
           "caption": "Vol 1., Pg. 6",
           "credit": "",
-          "url": "https://api.library.tamu.edu/iiif/2/81fd84f2-7af8-3c02-ad8a-930b88779e40/145,1513,1945,1755/full/0/default.jpg"
+          "url": "https://api.library.tamu.edu/iiif/2/81fd84f2-7af8-3c02-ad8a-930b88779e40/106,1585,2009,691/full/0/default.jpg"
         },
         "text": {
           "headline": "Sunday, Octo. 11th, 1835.",
-          "text": "Left Charleston, WV."
+          "text": "Left Charleston, WV. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F81fd84f2-7af8-3c02-ad8a-930b88779e40%2F/info.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Monday, Octo. 12, 1835",
         "location": {
           "lat": 38.429825,
           "line": true,
@@ -140,13 +140,13 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, pg. 7",
+          "caption": "Vol 1, pg. 8",
           "credit": "",
-          "url": "https://api.library.tamu.edu/iiif/2/e2e573ad-590d-3bc6-82b0-c4f9061672e8/157,1509,1929,891/full/0/default.jpg"
+          "url": "https://api.library.tamu.edu/iiif/2/34bfa342-7bbf-3333-9e63-9e8a2cdb4c74/47,759,2033,827/full/0/default.jpg"
         },
         "text": {
           "headline": "Monday, Octo. 12, 1835.",
-          "text": "Left Guyandotte, WV on a Steamboat down the Ohio"
+          "text": "Left Guyandotte, WV on a Steamboat down the Ohio <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34bfa342-7bbf-3333-9e63-9e8a2cdb4c74%2F/info.json'>Read more</a>"
         }
       },
       {
