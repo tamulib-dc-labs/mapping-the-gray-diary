@@ -32,7 +32,7 @@
           "zoom": 12
         },
         "media": {
-          "caption": "Vol. 1., Page 1",
+          "caption": "Vol. 1., Page 2",
           "credit": "",
           "url": "https://api.library.tamu.edu/iiif/2/7ef01848-ce8f-3ba6-bdd4-164a4b7a81be/113,586,2009,515/full/0/default.jpg"
         },
@@ -50,7 +50,7 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1., Page 2",
+          "caption": "Vol 1., Page 3",
           "credit": "",
           "url": "https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/128,575,1969,475/full/0/default.jpg"
         },
@@ -60,7 +60,7 @@
         }
       },
       {
-        "date": "",
+        "date": "Thursday, Octo. 8, 1835",
         "location": {
           "lat": 38.149496,
           "line": true,
@@ -70,15 +70,15 @@
         "media": {
           "caption": "Vol 1, Page 3",
           "credit": "",
-          "url": "https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/41,1033,2129,2226/full/0/default.jpg"
+          "url": "https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/169,1518,1817,1027/full/0/default.jpg"
         },
         "text": {
           "headline": "Thursday, Octo. 8, 1835.",
-          "text": "Left Staunton, VA."
+          "text": "Left Staunton, VA. <a href='https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/info.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Friday, Octo. 9, 1835",
         "location": {
           "lat": 38.046116,
           "line": true,
@@ -88,11 +88,11 @@
         "media": {
           "caption": "Vol 1, Pg. 4",
           "credit": "",
-          "url": "https://api.library.tamu.edu/iiif/2/34ac85c4-ce23-32c0-85fa-a900c85143cb/175,355,1873,2938/full/0/default.jpg"
+          "url": "https://api.library.tamu.edu/iiif/2/34ac85c4-ce23-32c0-85fa-a900c85143cb/176,1485,1913,1834/full/0/default.jpg"
         },
         "text": {
           "headline": "Friday, Octo. 9, 1835.",
-          "text": "Left Warm Springs, VA."
+          "text": "Left Warm Springs, VA. <a href='https://api.library.tamu.edu/iiif/2/34ac85c4-ce23-32c0-85fa-a900c85143cb/info.json'>Read more</a>"
         }
       },
       {
