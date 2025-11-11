@@ -38,11 +38,11 @@
         },
         "text": {
           "headline": "Tuesday, Octo. 6th, 1835",
-          "text": "Gray leaves Fredericksburg, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F7ef01848-ce8f-3ba6-bdd4-164a4b7a81be%2Finfo.json'>Read more</a>"
+          "text": "Gray leaves Fredericksburg, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F7ef01848-ce8f-3ba6-bdd4-164a4b7a81be%2F/info.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Wednesday, Octo. 7, 1835",
         "location": {
           "lat": 38.245116,
           "line": true,
@@ -52,10 +52,10 @@
         "media": {
           "caption": "Vol 1., Page 2",
           "credit": "",
-          "url": "https://api.library.tamu.edu/iiif/2/7ef01848-ce8f-3ba6-bdd4-164a4b7a81be/151,1173,1937,1507/full/0/default.jpg"
+          "url": "https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/128,575,1969,475/full/0/default.jpg"
         },
         "text": {
-          "headline": "Wednesday, Octo. 7, 1835.",
+          "headline": "Wednesday, Octo. 7, 1835. <a href='https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/info.json'>Read more</a>",
           "text": "Left Orange, VA"
         }
       },
@@ -73,7 +73,7 @@
           "url": "https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/41,1033,2129,2226/full/0/default.jpg"
         },
         "text": {
-          "headline": "'Thursday, Octo. 8, 1835.",
+          "headline": "Thursday, Octo. 8, 1835.",
           "text": "Left Staunton, VA."
         }
       },
