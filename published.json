@@ -106,11 +106,11 @@
         "media": {
           "caption": "Vol 1, Pg. 5",
           "credit": "",
-          "url": ["https://api.library.tamu.edu/iiif/2/25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb/67,2114,2049,1179/full/0/default.jpg", "https://api.library.tamu.edu/iiif/2/81fd84f2-7af8-3c02-ad8a-930b88779e40/210,389,1897,555/full/0/default.jpg"]
+          "url": "https://api.library.tamu.edu/iiif/2/25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb/67,2114,2049,1179/full/0/default.jpg"
         },
         "text": {
           "headline": "Saturday, Octo. 10, 1835.",
-          "text": "Left Lewisburg, WV <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb%2Finfo.json'>Read more here</a> and <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F81fd84f2-7af8-3c02-ad8a-930b88779e40%2Finfo.json'> here</a>"
+          "text": "Left Lewisburg, WV <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -186,7 +186,7 @@
         }
       },
       {
-        "date": "",
+        "date": "Thursday, Octo. 15, 1835",
         "location": {
           "lat": 39.085838,
           "line": true,
@@ -194,13 +194,13 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 10",
+          "caption": "Vol 1, Pg. 11",
           "credit": "",
-          "url": "https://api.library.tamu.edu/iiif/2/93190f58-7f25-358c-b06e-f573dd30f4d8/137,1555,1961,1803/full/0/default.jpg"
+          "url": "https://api.library.tamu.edu/iiif/2/e39cbb0d-6999-3883-81b6-38eb09225834/170,934,1809,1515/full/0/default.jpg"
         },
         "text": {
           "headline": "Thursday, Octo. 15, 1835.",
-          "text": "Took passage on board the steamboat Algonquin, bound for New Orleans ..."
+          "text": "Took passage on board the steamboat Algonquin, bound for New Orleans. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe39cbb0d-6999-3883-81b6-38eb09225834%2Finfo.json'>Read more</a>"
         }
       },
       {
