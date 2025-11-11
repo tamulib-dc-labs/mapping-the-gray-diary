@@ -32,13 +32,13 @@
           "zoom": 12
         },
         "media": {
-          "caption": "Vol. 1., Page 2",
+          "caption": "Vol. 1, Page 2",
           "credit": "",
           "url": "https://api.library.tamu.edu/iiif/2/7ef01848-ce8f-3ba6-bdd4-164a4b7a81be/113,586,2009,515/full/0/default.jpg"
         },
         "text": {
           "headline": "Tuesday, Octo. 6th, 1835",
-          "text": "Gray leaves Fredericksburg, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F7ef01848-ce8f-3ba6-bdd4-164a4b7a81be%2Finfo.json'>Read more</a>"
+          "text": "Gray leaves Fredericksburg, Virginia. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F7ef01848-ce8f-3ba6-bdd4-164a4b7a81be%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -50,13 +50,13 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1., Page 3",
+          "caption": "Vol 1, Page 3",
           "credit": "",
           "url": "https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/128,575,1969,475/full/0/default.jpg"
         },
         "text": {
           "headline": "Wednesday, Octo. 7, 1835.",
-          "text": "Left Orange, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2Finfo.json'>Read more</a>"
+          "text": "Left Orange, Virginia. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -74,7 +74,7 @@
         },
         "text": {
           "headline": "Thursday, Octo. 8, 1835.",
-          "text": "Left Staunton, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2Finfo.json'>Read more</a>"
+          "text": "Left Staunton, Virginia. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F1f6433a3-cdc7-3ea9-898d-77b5237383e5%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -92,7 +92,7 @@
         },
         "text": {
           "headline": "Friday, Octo. 9, 1835.",
-          "text": "Left Warm Springs, VA. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34ac85c4-ce23-32c0-85fa-a900c85143cb%2Finfo.json'>Read more</a>"
+          "text": "Left Warm Springs, Virginia. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34ac85c4-ce23-32c0-85fa-a900c85143cb%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -110,7 +110,7 @@
         },
         "text": {
           "headline": "Saturday, Octo. 10, 1835.",
-          "text": "Left Lewisburg, WV <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb%2Finfo.json'>Read more</a>"
+          "text": "Left Lewisburg, West Virginia <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -122,13 +122,13 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1., Pg. 6",
+          "caption": "Vol 1, Pg. 6",
           "credit": "",
           "url": "https://api.library.tamu.edu/iiif/2/81fd84f2-7af8-3c02-ad8a-930b88779e40/106,1585,2009,691/full/0/default.jpg"
         },
         "text": {
           "headline": "Sunday, Octo. 11th, 1835.",
-          "text": "Left Charleston, WV. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F81fd84f2-7af8-3c02-ad8a-930b88779e40%2Finfo.json'>Read more</a>"
+          "text": "Left Charleston, West Virginia. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F81fd84f2-7af8-3c02-ad8a-930b88779e40%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -146,7 +146,7 @@
         },
         "text": {
           "headline": "Monday, Octo. 12, 1835.",
-          "text": "Left Guyandotte, WV on a Steamboat down the Ohio <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34bfa342-7bbf-3333-9e63-9e8a2cdb4c74%2Finfo.json'>Read more</a>"
+          "text": "Left Guyandotte, West Virginia on a Steamboat down the Ohio. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34bfa342-7bbf-3333-9e63-9e8a2cdb4c74%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -164,7 +164,7 @@
         },
         "text": {
           "headline": "Tuesday, Octo. 13th, 1835.",
-          "text": "Awoke in Portsmouth, OH <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe85ec24f-4a54-3424-b181-686d0feeb6b5%2Finfo.json'>Read more</a>"
+          "text": "Awoke in Portsmouth, Ohio. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe85ec24f-4a54-3424-b181-686d0feeb6b5%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -176,7 +176,7 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1., Pg. 10",
+          "caption": "Vol 1, Pg. 10",
           "credit": "",
           "url": "https://api.library.tamu.edu/iiif/2/93190f58-7f25-358c-b06e-f573dd30f4d8/162,409,1873,1123/full/0/default.jpg"
         },
@@ -204,7 +204,7 @@
         }
       },
       {
-        "date": "",
+        "date": "Friday, Octo. 16, 1835",
         "location": {
           "lat": 38.253246,
           "line": true,
@@ -218,11 +218,29 @@
         },
         "text": {
           "headline": "Friday, Octo. 16, 1835.",
-          "text": "... at the wharf at Louisville"
+          "text": "The Algonquin stops in Louisville, Kentucky. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe39cbb0d-6999-3883-81b6-38eb09225834%2Finfo.json'>Read more</a>"
+        }
+      },
+         {
+        "date": "Saturday, Octo. 17, 1835",
+        "location": {
+          "lat": 38.253246,
+          "line": true,
+          "lon": -85.758804,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "Vol 1, Pg. 13",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/02b19ec2-9109-31dd-8b60-6b58701e172e/111,1666,1873,1691/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Saturday, Octo. 17, 1835.",
+          "text": "Gray boards the Patrick Henry. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F02b19ec2-9109-31dd-8b60-6b58701e172e%2Finfo.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Sunday, Octo. 18, 1835",
         "location": {
           "lat": 37.772672,
           "line": true,
@@ -230,17 +248,17 @@
           "zoom": 10
         },
         "media": {
-          "caption": "",
+          "caption": "Vol 1, Pg. 14",
           "credit": "",
-          "url": ""
+          "url": "https://api.library.tamu.edu/iiif/2/e8ff5fec-ad7e-3cdb-aa0d-1f2fcc159091/199,808,1857,1667/full/0/default.jpg"
         },
         "text": {
           "headline": "Sunday, Octo. 18, 1835.",
-          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>At 4 o'clock, came to at Owensboro, or Yellow Banks.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+          "text": "At 4 o'clock, came to at Owensboro, or Yellow Banks. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe8ff5fec-ad7e-3cdb-aa0d-1f2fcc159091%2Finfo.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Monday, Octo. 19, 1835",
         "location": {
           "lat": 37.468025,
           "line": true,
@@ -248,17 +266,17 @@
           "zoom": 10
         },
         "media": {
-          "caption": "",
+          "caption": "Vol 1, Pg. 15",
           "credit": "",
-          "url": ""
+          "url": "https://api.library.tamu.edu/iiif/2/01ccd920-43d0-31e3-a129-9e1862327cc3/52,863,2033,1876/full/0/default.jpg"
         },
         "text": {
           "headline": "Monday, Octo. 19, 1835.",
-          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>Came to on\nthe Illinois side, near the Cave in Rock.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+          "text": "Visited Cave in Rock, near the border between Indiana and Illinois. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F01ccd920-43d0-31e3-a129-9e1862327cc3%2Finfo.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Tuesday, Octo. 20, 1835",
         "location": {
           "lat": 37.139721,
           "line": true,
@@ -266,17 +284,17 @@
           "zoom": 10
         },
         "media": {
-          "caption": "",
+          "caption": "Vol 1, Pg. 17",
           "credit": "",
-          "url": ""
+          "url": "https://api.library.tamu.edu/iiif/2/096d1adf-5223-3156-888e-4fed2e140dff/180,625,1778,1509/full/0/default.jpg"
         },
         "text": {
           "headline": "Tuesday, Octo. 20, 1835.",
-          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>... believing that it would deepen the\nchannel and open a direct route to the town of Smithland, at\nthe mouth of Cumberland River, which now lies in sight.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+          "text": "The Patrick Henry passes Cumberland Island and the town of Paducah, Kentucky. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F096d1adf-5223-3156-888e-4fed2e140dff%2Finfo.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Wednesday, Octo. 21, 1835",
         "location": {
           "lat": 36.572417,
           "line": true,
@@ -284,17 +302,17 @@
           "zoom": 10
         },
         "media": {
-          "caption": "",
+          "caption": "Vol 1, Pg. 18",
           "credit": "",
-          "url": ""
+          "url": "https://api.library.tamu.edu/iiif/2/ee6b2969-8e7d-3021-8c1e-a60e66e5fd21/191,840,1842,1685/full/0/default.jpg"
         },
         "text": {
           "headline": "Wednesday, Octo. 21, 1835.",
-          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>One 0 'clock, come to at Mill's Point, in Hickman County, Ky.,\nthe first settlrnent we have seen on the Mississippi.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+          "text": "The Ohio flows into the Mississippi River, and the Patrick Henry passes the town of Mill's Point, Kentucky. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fee6b2969-8e7d-3021-8c1e-a60e66e5fd21%2Finfo.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Thursday, Octo. 22nd, 1835",
         "location": {
           "lat": 35.51671,
           "line": true,
@@ -302,17 +320,17 @@
           "zoom": 10
         },
         "media": {
-          "caption": "",
+          "caption": "Vol 1, Pg. 19",
           "credit": "",
-          "url": ""
+          "url": "https://api.library.tamu.edu/iiif/2/ccdaa07a-f838-369c-acb6-777f69831a68/124,562,1889,755/full/0/default.jpg"
         },
         "text": {
           "headline": "Thursday, Octo. 22nd, 1835.",
-          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>Stopt at the Town of Randolph,\nsituated on the 2nd Chickasaw Bluff, in Tipton County, Tennes\u00ad\nsee.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+          "text": "The Patrick Henry passed through Randolph and Memphis, Tennessee. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fccdaa07a-f838-369c-acb6-777f69831a68%2Finfo.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Friday, Octo. 23rd, 1835",
         "location": {
           "lat": 35.149844,
           "line": true,
@@ -320,17 +338,17 @@
           "zoom": 10
         },
         "media": {
-          "caption": "",
+          "caption": "Vol 1, Pg. 19",
           "credit": "",
-          "url": ""
+          "url": "https://api.library.tamu.edu/iiif/2/ccdaa07a-f838-369c-acb6-777f69831a68/136,2542,1953,806/full/0/default.jpg"
         },
         "text": {
           "headline": "Friday, Octo. 23rd, 1835.",
-          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>\n\t\t\n\t\n\t\n\t\t</p><div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>The boat did not get far from Memphis before <span>daylight.&nbsp;</span></p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+          "text": "The Patrick Henry left Memphis for Helena. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fccdaa07a-f838-369c-acb6-777f69831a68%2Finfo.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Saturday, Octo. 24th, 1835",
         "location": {
           "lat": 34.529157,
           "line": true,
@@ -338,17 +356,35 @@
           "zoom": 10
         },
         "media": {
-          "caption": "",
+          "caption": "Vol 1, Pg. 21",
           "credit": "",
-          "url": ""
+          "url": "https://api.library.tamu.edu/iiif/2/e96959b1-0773-33a7-88db-5205c4e8c653/150,373,1969,375/full/0/default.jpg"
         },
         "text": {
-          "headline": "HELENA, Octo. 23rd, 1835.",
-          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>Put up at the home of Col. Wm. B. R. Horner, who keeps a\ntavern and practices law.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+          "headline": "Saturday, Octo. 24th, 1835.",
+          "text": "Gray stayed in Helena another day because his company did not board the next steamboat. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe96959b1-0773-33a7-88db-5205c4e8c653%2Finfo.json'>Read more</a>"
+        }
+      },
+           {
+        "date": "Sunday, Octo. 25th, 1835",
+        "location": {
+          "lat": 34.529157,
+          "line": true,
+          "lon": -90.584967,
+          "zoom": 10
+        },
+        "media": {
+          "caption": "Vol 1, Pg. 22",
+          "credit": "",
+          "url": "https://api.library.tamu.edu/iiif/2/4580a39b-243d-36a8-9ebb-2c8134033611/234,367,1794,2084/full/0/default.jpg"
+        },
+        "text": {
+          "headline": "Sunday, Octo. 25th, 1835.",
+          "text": "Gray boarded the Superior. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F4580a39b-243d-36a8-9ebb-2c8134033611%2Finfo.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Monday, Octo. 26, 1835",
         "location": {
           "lat": 33.050833,
           "line": true,
@@ -356,25 +392,43 @@
           "zoom": 10
         },
         "media": {
-          "caption": "",
+          "caption": "Vol 1, Pg. 22",
           "credit": "",
-          "url": ""
+          "url": "https://api.library.tamu.edu/iiif/2/4580a39b-243d-36a8-9ebb-2c8134033611/232,2444,1810,870/full/0/default.jpg"
         },
         "text": {
           "headline": "Monday, Octo. 26, 1835.",
-          "text": "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>Monday afternoon, came to at Princeton, a new settlement of about seven or eight houses, in Washington County, Miss.</p>\n\t\t\t\t</div>\n\t\t\t</div>"
+          "text": "The Superior stopped at Princeton, Mississippi. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F4580a39b-243d-36a8-9ebb-2c8134033611%2Finfo.json'>Read more</a>"
         }
       },
       {
-        "date": "",
+        "date": "Tuesday, Octo. 27, 1835",
         "text": {
           "headline": "Tuesday, Octo. 27, 1835.",
-          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>We went to several plantations on the Lake Washington ...</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+          "text": "Gray visited a mill on Lake Jackson and several plantations on the Lake Washington in Mississippi. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Ffc353f32-c9df-3684-aeec-a0872f30a4bc%2Finfo.json'>Read more</a>"
         },
         "media": {
-          "url": "",
+          "url": "https://api.library.tamu.edu/iiif/2/fc353f32-c9df-3684-aeec-a0872f30a4bc/148,427,2041,1547/full/0/default.jpg",
           "credit": "",
-          "caption": ""
+          "caption": "Vol 1, Pg. 23"
+        },
+        "location": {
+          "line": true,
+          "lat": 33.069019,
+          "lon": -91.06042,
+          "zoom": 10
+        }
+      },
+       {
+        "date": "Wednesday, Octo. 28, 1835",
+        "text": {
+          "headline": "Wednesday, Octo. 28, 1835.",
+          "text": "Gray visited more plantations and returned to Princeton, Mississippi. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F3740c140-9811-3144-be4c-6b487c25a817%2Finfo.json'>Read more</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/3740c140-9811-3144-be4c-6b487c25a817/120,426,1953,1285/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 25"
         },
         "location": {
           "line": true,
@@ -384,15 +438,15 @@
         }
       },
       {
-        "date": "",
+        "date": "Thursday, Octo. 29, 1835",
         "text": {
           "headline": "Thursday, Octo. 29, 1835.",
-          "text": "<div>\n\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t<p>Arrived at Vicksburg at 10 0 'clock.\n</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>"
+          "text": "Arrived at Vicksburg, Mississippi at 10 0 'clock. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F3740c140-9811-3144-be4c-6b487c25a817%2Finfo.json'>Read more</a>"
         },
         "media": {
-          "url": "",
+          "url": "https://api.library.tamu.edu/iiif/2/3740c140-9811-3144-be4c-6b487c25a817/122,1715,1953,1333/full/0/default.jpg",
           "credit": "",
-          "caption": ""
+          "caption": "Vol 1, Pg. 25"
         },
         "location": {
           "line": true,
