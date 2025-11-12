@@ -7252,7 +7252,7 @@ var KLStoryMap;
                 this.fire("removed", this.data)
             }
             _initLayout() {
-                if (this._el.content_container = N.create("div", "vco-text-content-container", this._el.container), this._el.date = N.create("h3", "vco-headline-date", this._el.content_container), "" != this.data.headline) {
+                if (this._el.content_container = N.create("div", "vco-text-content-container", this._el.container), this._el.date = N.create("p", "vco-headline-date", this._el.content_container), "" != this.data.headline) {
                     var t = "vco-headline";
                     this.options.title && (t = "vco-headline vco-headline-title"), this._el.headline = N.create("h2", t, this._el.content_container), this._el.headline.innerHTML = this.data.headline
                 }
