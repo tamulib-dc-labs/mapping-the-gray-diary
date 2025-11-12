@@ -882,8 +882,8 @@
         },
         "location": {
           "line": true,
-          "lat": 31.53,
-          "lon": -94.111389,
+          "lat": 31.63,
+          "lon": -94.628611,
           "zoom": 10
         }
       },
@@ -1305,10 +1305,10 @@
         "date": "Thursday, April 7, 1836",
         "text": {
           "headline": "Thursday, April 7, 1836.",
-          "text": "Arrived at Galveston, Texas. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTY2JTIzMTE2JTJDMTU3NSUyQzE4NzQlMkMxNDY5JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Arrived at Galveston, Texas. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTY3JTIzMjY3JTJDMTQ1NSUyQzE5MjElMkM5MTAlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
-          "url": "https://api.library.tamu.edu/iiif/2/1978be18-68eb-32b4-82dc-d776d0fed477/116,1575,1874,1469/full/0/default.jpg",
+          "url": "https://api.library.tamu.edu/iiif/2/015082bf-63c5-3de2-9986-5dd542ca7dbe/267,1455,1921,910/full/0/default.jpg",
           "credit": "",
           "caption": "Vol 1, Pg. 155"
         },
@@ -1316,6 +1316,96 @@
           "line": true,
           "lat": 29.301389,
           "lon": -94.797778,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Saturday, April 9, 1836",
+        "text": {
+          "headline": "Saturday, April 9, 1836.",
+          "text": "Arrived at Port Bolivar, Texas. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTY4JTIzMTMwJTJDMTQzMyUyQzE5NjklMkMxNzU3JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/85e56411-2131-3069-a2fa-d44229d2c489/130,1433,1969,1757/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 157"
+        },
+        "location": {
+          "line": true,
+          "lat": 29.380833,
+          "lon": -94.764444,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Sunday, April 10, 1836",
+        "text": {
+          "headline": "Sunday, April 10, 1836.",
+          "text": "Arrived at Clear Creek. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTY5JTIzMjE2JTJDMTQ1NyUyQzE5NTMlMkMyMDU0JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/fa6827c1-6896-3072-b618-cbbaa35daa99/216,1457,1953,2054/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 158"
+        },
+        "location": {
+          "line": true,
+          "lat": 29.5547,
+          "lon": -95.018,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Monday, April 11, 1836",
+        "text": {
+          "headline": "Monday, April 11, 1836.",
+          "text": "Returned to Clopper's Point, also called New Washington. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTcwJTIzMTA5JTJDMjcyNSUyQzE5MDYlMkMzMzUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/e9ec9775-98ab-3fb0-a580-3ee0992e823f/109,2725,1906,335/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 159"
+        },
+        "location": {
+          "line": true,
+          "lat": 29.676389,
+          "lon": -94.999444,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Tuesday, April 12, 1836",
+        "text": {
+          "headline": "Tuesday, April 12, 1836.",
+          "text": "Arrived at Routh's. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTcxJTIzMzA0JTJDNjcwJTJDMTg2NSUyQzM4MyUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/0581a1f3-8ea4-3fe9-8124-b16c603aa071/304,670,1865,383/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 160"
+        },
+        "location": {
+          "line": true,
+          "lat": 29.676389,
+          "lon": -94.999444,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Wednesday, April 13, 1836",
+        "text": {
+          "headline": "Wednesday, April 13, 1836.",
+          "text": "Arrived at Lynch's (now in Lynchburg, Texas), to take Lynch's Ferry. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTc0JTIzMTQ3JTJDNDcwJTJDMTk1MyUyQzEwNzAlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/24440284-b070-3e82-8851-f29ad982f4f8/147,470,1953,1070/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 163"
+        },
+        "location": {
+          "line": true,
+          "lat": 29.78717,
+          "lon": -95.055485,
           "zoom": 10
         }
       },
