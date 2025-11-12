@@ -1343,12 +1343,16 @@ var KLStoryMap;
                                 return this.options.attribution
                             },
                             _initImage: function() {
-                                this._image = d.DomUtil.create("img", "leaflet-image-layer"), this._map.options.zoomAnimation && d.Browser.any3d ? d.DomUtil.addClass(this._image, "leaflet-zoom-animated") : d.DomUtil.addClass(this._image, "leaflet-zoom-hide"), this._updateOpacity(), d.extend(this._image, {
+                                this._image = d.DomUtil.create("img", "leaflet-image-layer"),
+                                this._map.options.zoomAnimation && d.Browser.any3d ? d.DomUtil.addClass(this._image, "leaflet-zoom-animated") : d.DomUtil.addClass(this._image, "leaflet-zoom-hide"),
+                                this._updateOpacity(),
+                                d.extend(this._image, {
                                     galleryimg: "no",
                                     onselectstart: d.Util.falseFn,
                                     onmousemove: d.Util.falseFn,
                                     onload: d.bind(this._onImageLoad, this),
-                                    src: this._url
+                                    src: this._url,
+                                    alt: ""
                                 })
                             },
                             _animateZoom: function(t) {
