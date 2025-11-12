@@ -888,6 +888,24 @@
         }
       },
       {
+        "date": "Monday, Feb. 8, 1836",
+        "text": {
+          "headline": "Monday, Feb. 8, 1836.",
+          "text": "Arrived at McLean's, 18 miles west of Nacogdoches. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTA4JTIzODMlMkMxNTk4JTJDMjA2NSUyQzcxOCUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/8fa993ff-a886-3493-a5f6-4fb8927b401c/207,682,1841,511/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 99"
+        },
+        "location": {
+          "line": true,
+          "lat": 31.53,
+          "lon": -94.111389,
+          "zoom": 10
+        }
+      },
+      {
         "date": "Wednesday, June 1, 1836",
         "text": {
           "headline": "Wednesday, June 1, 1836.",
