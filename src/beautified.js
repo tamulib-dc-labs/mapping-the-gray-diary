@@ -1211,7 +1211,13 @@ var KLStoryMap;
                             _resetTile: function() {},
                             _createTile: function() {
                                 var t = d.DomUtil.create("img", "leaflet-tile");
-                                return t.style.width = t.style.height = this._getTileSize() + "px", t.galleryimg = "no", t.onselectstart = t.onmousemove = d.Util.falseFn, d.Browser.ielt9 && this.options.opacity !== r && d.DomUtil.setOpacity(t, this.options.opacity), d.Browser.mobileWebkit3d && (t.style.WebkitBackfaceVisibility = "hidden"), t
+                                return t.style.width = t.style.height = this._getTileSize() + "px",
+                                t.galleryimg = "no",
+                                t.alt = "",
+                                t.onselectstart = t.onmousemove = d.Util.falseFn,
+                                d.Browser.ielt9 && this.options.opacity !== r && d.DomUtil.setOpacity(t, this.options.opacity),
+                                d.Browser.mobileWebkit3d && (t.style.WebkitBackfaceVisibility = "hidden"),
+                                t
                             },
                             _loadTile: function(t, e) {
                                 t._layer = this, t.onload = this._tileOnLoad, t.onerror = this._tileOnError, this._adjustTilePoint(e), t.src = this.getTileUrl(e), this.fire("tileloadstart", {
@@ -1226,7 +1232,8 @@ var KLStoryMap;
                                 var t = this._layer;
                                 this.src !== d.Util.emptyImageUrl && (d.DomUtil.addClass(this, "leaflet-tile-loaded"), t.fire("tileload", {
                                     tile: this,
-                                    url: this.src
+                                    url: this.src,
+                                    alt: ""
                                 })), t._tileLoaded()
                             },
                             _tileOnError: function() {
