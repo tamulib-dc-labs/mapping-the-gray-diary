@@ -6797,10 +6797,24 @@ var KLStoryMap;
         class pt extends dt {
             _loadMedia() {
                 var t = this;
-                this.message.updateMessage(j.messages.loading + " " + this.options.media_name), this.data.link ? (this._el.content_link = N.create("a", "", this._el.content), this._el.content_link.href = this.data.link, this._el.content_link.target = "_blank", this._el.content_item = N.create("img", "vco-media-item vco-media-image vco-media-shadow", this._el.content_link)) : this._el.content_item = N.create("img", "vco-media-item vco-media-image vco-media-shadow", this._el.content), this._el.content_item.addEventListener("load", (function(e) {
+                this.message.updateMessage(j.messages.loading + " " + this.options.media_name),
+                this.data.link ? (
+                    this._el.content_link = N.create("a", "", this._el.content),
+                    this._el.content_link.href = this.data.link,
+                    this._el.content_link.target = "_blank",
+                    this._el.content_item = N.create("img", "vco-media-item vco-media-image vco-media-shadow", this._el.content_link),
+                    this._el.content_item.alt = "A fragment of a Journal Entity from William Fairfax Gray"
+                ) : (
+                    this._el.content_item = N.create("img", "vco-media-item vco-media-image vco-media-shadow", this._el.content),
+                    this._el.content_item.alt = "A fragment of a Journal Entity from William Fairfax Gray"
+                ),
+                this._el.content_item.addEventListener("load", (function(e) {
                     t.onMediaLoaded()
-                })), this._el.content_item.src = this.data.url, this.onLoaded()
+                })),
+                this._el.content_item.src = this.data.url,
+                this.onLoaded()
             }
+
             _updateMediaDisplay(t) {
                 w && (this._el.content_item.style.width = "auto")
             }
