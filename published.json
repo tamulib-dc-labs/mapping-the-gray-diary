@@ -154,7 +154,7 @@
         },
         "text": {
           "headline": "Monday, Octo. 12, 1835.",
-          "text": "Left Guyandotte on a steamboat down the Ohio. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34bfa342-7bbf-3333-9e63-9e8a2cdb4c74%2Finfo.json'>Read more</a>"
+          "text": "Left Guyandotte on the steamboat Wave down the Ohio. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34bfa342-7bbf-3333-9e63-9e8a2cdb4c74%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -166,14 +166,14 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Pg 9.",
+          "caption": "Vol. 1, Page 9 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/e85ec24f-4a54-3424-b181-686d0feeb6b5/161,411,1841,747/full/0/default.jpg"
         },
         "text": {
           "headline": "Tuesday, Octo. 13th, 1835.",
-          "text": "Awoke in Portsmouth, Ohio. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe85ec24f-4a54-3424-b181-686d0feeb6b5%2Finfo.json'>Read more</a>"
+          "text": "Arrived in Portsmouth, Ohio, passed Vanceburg, Kentucky, and Manchester and Rockville, both in Ohio. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe85ec24f-4a54-3424-b181-686d0feeb6b5%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -185,33 +185,33 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Page 10",
+          "caption": "Vol. 1, Page 10 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/93190f58-7f25-358c-b06e-f573dd30f4d8/162,409,1873,1123/full/0/default.jpg"
         },
         "text": {
           "headline": "Wednesday, Octo. 14, 1835.",
-          "text": "Arrived at Cincinnati in the night. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F93190f58-7f25-358c-b06e-f573dd30f4d8%2Finfo.json'>Read more</a>"
+          "text": "Arrived at Cincinnati at night. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F93190f58-7f25-358c-b06e-f573dd30f4d8%2Finfo.json'>Read more</a>"
         }
       },
       {
         "date": "Thursday, Octo. 15, 1835",
         "location": {
-          "lat": 39.085838,
+          "lat": 38.758333,
           "line": true,
-          "lon": -84.51072,
+          "lon": -85.397222,
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Page 11",
+          "caption": "Vol. 1, Page 11 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/e39cbb0d-6999-3883-81b6-38eb09225834/170,934,1809,1515/full/0/default.jpg"
         },
         "text": {
           "headline": "Thursday, Octo. 15, 1835.",
-          "text": "Took passage on board the steamboat Algonquin, bound for New Orleans. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe39cbb0d-6999-3883-81b6-38eb09225834%2Finfo.json'>Read more</a>"
+          "text": "Left Cincinnati on the steamboat Algonquin, bound for New Orleans. Passed Lawrenceburg and Vevay, both in Indiana, Ghent, Kentucky, and Madison, Indiana. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe39cbb0d-6999-3883-81b6-38eb09225834%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -223,14 +223,14 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Page 11",
+          "caption": "Vol. 1, Page 11 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/e39cbb0d-6999-3883-81b6-38eb09225834/211,2434,1777,843/full/0/default.jpg"
         },
         "text": {
           "headline": "Friday, Octo. 16, 1835.",
-          "text": "The Algonquin stopped in Louisville, Kentucky. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe39cbb0d-6999-3883-81b6-38eb09225834%2Finfo.json'>Read more</a>"
+          "text": "Arrived in Louisville, Kentucky. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe39cbb0d-6999-3883-81b6-38eb09225834%2Finfo.json'>Read more</a>"
         }
       },
          {
@@ -242,14 +242,14 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Page 13",
+          "caption": "Vol. 1, Page 13 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/02b19ec2-9109-31dd-8b60-6b58701e172e/111,1666,1873,1691/full/0/default.jpg"
         },
         "text": {
           "headline": "Saturday, Octo. 17, 1835.",
-          "text": "Boarded the Patrick Henry. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F02b19ec2-9109-31dd-8b60-6b58701e172e%2Finfo.json'>Read more</a>"
+          "text": "Left Louisville on board the steamboat Patrick Henry. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F02b19ec2-9109-31dd-8b60-6b58701e172e%2Finfo.json'>Read more</a>"
         }
       },
       {
