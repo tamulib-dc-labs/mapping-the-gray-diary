@@ -27,9 +27,9 @@
       {
         "date": "Tuesday, Octo. 6th, 1835",
         "location": {
-          "lat": 38.303298,
+          "lat": 38.245833,
           "line": true,
-          "lon": -77.460662,
+          "lon": -78.109722,
           "zoom": 12
         },
         "media": {
@@ -40,79 +40,83 @@
         },
         "text": {
           "headline": "Tuesday, Octo. 6th, 1835",
-          "text": "Left Fredericksburg, Virginia. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTMlMjN4eXdoJTNEMTEzJTJDNTg2JTJDMjAwOSUyQzUxNSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Left Fredericksburg, Virginia. Arrived in Orange, Virginia. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTMlMjN4eXdoJTNEMTEzJTJDNTg2JTJDMjAwOSUyQzUxNSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
         }
       },
       {
         "date": "Wednesday, Octo. 7, 1835",
         "location": {
-          "lat": 38.245116,
+          "lat": 38.158056,
           "line": true,
-          "lon": -78.1111,
+          "lon": -79.076389,
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Page 3",
+          "caption": "Vol. 1, Page 3 of the William Fairfax Gray Diary",
           "credit": "",
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTQlMjN4eXdoJTNEMTI4JTJDNTc1JTJDMTk2OSUyQzQ3NSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
           "url": "https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/128,575,1969,475/full/0/default.jpg"
         },
         "text": {
           "headline": "Wednesday, Octo. 7, 1835.",
-          "text": "Left Orange, Virginia. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTQlMjN4eXdoJTNEMTI4JTJDNTc1JTJDMTk2OSUyQzQ3NSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Left Orange, passed Barboursville, Charlottesville, and Waynesburg, and arrived at Staunton, Virginia at around 8 o'clock. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTQlMjN4eXdoJTNEMTI4JTJDNTc1JTJDMTk2OSUyQzQ3NSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
         }
       },
       {
         "date": "Thursday, Octo. 8, 1835",
         "location": {
-          "lat": 38.149496,
+          "lat": 38.046111,
           "line": true,
-          "lon": -79.072602,
+          "lon": -79.790556,
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Page 3",
+          "caption": "Vol. 1, Page 3 of the William Fairfax Gray Diary",
           "credit": "",
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTQlMjN4eXdoJTNEMTY5JTJDMTUxOCUyQzE4MTclMkMxMDI3JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
           "url": "https://api.library.tamu.edu/iiif/2/1f6433a3-cdc7-3ea9-898d-77b5237383e5/169,1518,1817,1027/full/0/default.jpg"
         },
         "text": {
           "headline": "Thursday, Octo. 8, 1835.",
-          "text": "Left Staunton, Virginia. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTQlMjN4eXdoJTNEMTY5JTJDMTUxOCUyQzE4MTclMkMxMDI3JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Left Staunton, passed Warm Springs at around 4 o'clock, and passed the Hot Springs around sunset. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTQlMjN4eXdoJTNEMTY5JTJDMTUxOCUyQzE4MTclMkMxMDI3JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
         }
       },
       {
         "date": "Friday, Octo. 9, 1835",
         "location": {
-          "lat": 38.046116,
+          "lat": 37.801667,
           "line": true,
-          "lon": -79.790604,
+          "lon": -80.445556,
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 4",
+          "caption": "Vol. 1, Page 4 of the William Fairfax Gray Diary",
           "credit": "",
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTUlMjN4eXdoJTNEMTc2JTJDMTQ4NSUyQzE5MTMlMkMxODM0JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
           "url": "https://api.library.tamu.edu/iiif/2/34ac85c4-ce23-32c0-85fa-a900c85143cb/176,1485,1913,1834/full/0/default.jpg"
         },
         "text": {
           "headline": "Friday, Octo. 9, 1835.",
-          "text": "Left Warm Springs, Virginia. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTUlMjN4eXdoJTNEMTc2JTJDMTQ4NSUyQzE5MTMlMkMxODM0JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Arrived in Lewisburg (now in West Virginia). <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTUlMjN4eXdoJTNEMTc2JTJDMTQ4NSUyQzE5MTMlMkMxODM0JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
         }
       },
       {
         "date": "Saturday, Octo. 10, 1835",
         "location": {
-          "lat": 37.801717,
+          "lat": 38.349819,
           "line": true,
-          "lon": -80.445396,
+          "lon": -81.632622,
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 5",
+          "caption": "Vol. 1, Page 5 of the William Fairfax Gray Diary",
           "credit": "",
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTclMjM2NyUyQzIxMTQlMkMyMDQ5JTJDMTE3OSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
           "url": "https://api.library.tamu.edu/iiif/2/25161d6f-a7b4-3ccb-a15b-9f14ee7aefbb/67,2114,2049,1179/full/0/default.jpg"
         },
         "text": {
           "headline": "Saturday, Octo. 10, 1835.",
-          "text": "Left Lewisburg, West Virginia <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTclMjM2NyUyQzIxMTQlMkMyMDQ5JTJDMTE3OSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Left Lewisburg, passed Hawksnest and Falls of Kenawha, reached Charleston (now in West Virginia) at around 9 o'clock. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTclMjM2NyUyQzIxMTQlMkMyMDQ5JTJDMTE3OSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
         }
       },
       {
@@ -124,13 +128,14 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 6",
+          "caption": "Vol. 1, Page 6 of the William Fairfax Gray Diary",
           "credit": "",
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTglMjMxMDYlMkMxNTg1JTJDMjAwOSUyQzY5MSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
           "url": "https://api.library.tamu.edu/iiif/2/81fd84f2-7af8-3c02-ad8a-930b88779e40/106,1585,2009,691/full/0/default.jpg"
         },
         "text": {
           "headline": "Sunday, Octo. 11th, 1835.",
-          "text": "Left Charleston, West Virginia. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTglMjMxMDYlMkMxNTg1JTJDMjAwOSUyQzY5MSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Left Charleston, arrived in Guyandotte at around 2 o'clock. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTglMjMxMDYlMkMxNTg1JTJDMjAwOSUyQzY5MSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
         }
       },
       {
@@ -142,13 +147,14 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, pg. 8",
+          "caption": "Vol. 1, Page 8 of the William Fairfax Gray Diary",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/34bfa342-7bbf-3333-9e63-9e8a2cdb4c74/47,759,2033,827/full/0/default.jpg"
         },
         "text": {
           "headline": "Monday, Octo. 12, 1835.",
-          "text": "Left Guyandotte, West Virginia on a steamboat down the Ohio. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34bfa342-7bbf-3333-9e63-9e8a2cdb4c74%2Finfo.json'>Read more</a>"
+          "text": "Left Guyandotte on a steamboat down the Ohio. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F34bfa342-7bbf-3333-9e63-9e8a2cdb4c74%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -160,8 +166,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg 9.",
+          "caption": "Vol. 1, Pg 9.",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/e85ec24f-4a54-3424-b181-686d0feeb6b5/161,411,1841,747/full/0/default.jpg"
         },
         "text": {
@@ -178,8 +185,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 10",
+          "caption": "Vol. 1, Page 10",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/93190f58-7f25-358c-b06e-f573dd30f4d8/162,409,1873,1123/full/0/default.jpg"
         },
         "text": {
@@ -196,8 +204,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 11",
+          "caption": "Vol. 1, Page 11",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/e39cbb0d-6999-3883-81b6-38eb09225834/170,934,1809,1515/full/0/default.jpg"
         },
         "text": {
@@ -214,8 +223,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 11",
+          "caption": "Vol. 1, Page 11",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/e39cbb0d-6999-3883-81b6-38eb09225834/211,2434,1777,843/full/0/default.jpg"
         },
         "text": {
@@ -232,8 +242,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 13",
+          "caption": "Vol. 1, Page 13",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/02b19ec2-9109-31dd-8b60-6b58701e172e/111,1666,1873,1691/full/0/default.jpg"
         },
         "text": {
@@ -250,8 +261,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 14",
+          "caption": "Vol. 1, Page 14",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/e8ff5fec-ad7e-3cdb-aa0d-1f2fcc159091/199,808,1857,1667/full/0/default.jpg"
         },
         "text": {
@@ -268,8 +280,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 15",
+          "caption": "Vol. 1, Page 15",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/01ccd920-43d0-31e3-a129-9e1862327cc3/52,863,2033,1876/full/0/default.jpg"
         },
         "text": {
@@ -286,8 +299,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 17",
+          "caption": "Vol. 1, Page 17",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/096d1adf-5223-3156-888e-4fed2e140dff/180,625,1778,1509/full/0/default.jpg"
         },
         "text": {
@@ -304,8 +318,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 18",
+          "caption": "Vol. 1, Page 18",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/ee6b2969-8e7d-3021-8c1e-a60e66e5fd21/191,840,1842,1685/full/0/default.jpg"
         },
         "text": {
@@ -322,8 +337,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 19",
+          "caption": "Vol. 1, Page 19",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/ccdaa07a-f838-369c-acb6-777f69831a68/124,562,1889,755/full/0/default.jpg"
         },
         "text": {
@@ -340,8 +356,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 19",
+          "caption": "Vol. 1, Page 19",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/ccdaa07a-f838-369c-acb6-777f69831a68/136,2542,1953,806/full/0/default.jpg"
         },
         "text": {
@@ -358,8 +375,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 21",
+          "caption": "Vol. 1, Page 21",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/e96959b1-0773-33a7-88db-5205c4e8c653/150,373,1969,375/full/0/default.jpg"
         },
         "text": {
@@ -376,8 +394,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 22",
+          "caption": "Vol. 1, Page 22",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/4580a39b-243d-36a8-9ebb-2c8134033611/234,367,1794,2084/full/0/default.jpg"
         },
         "text": {
@@ -394,8 +413,9 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol 1, Pg. 22",
+          "caption": "Vol. 1, Page 22",
           "credit": "",
+          "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/4580a39b-243d-36a8-9ebb-2c8134033611/232,2444,1810,870/full/0/default.jpg"
         },
         "text": {
@@ -412,7 +432,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/fc353f32-c9df-3684-aeec-a0872f30a4bc/148,427,2041,1547/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 23"
+          "content_state": "",
+          "caption": "Vol. 1, Page 23"
         },
         "location": {
           "line": true,
@@ -430,7 +451,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/3740c140-9811-3144-be4c-6b487c25a817/120,426,1953,1285/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 25"
+          "content_state": "",
+          "caption": "Vol. 1, Page 25"
         },
         "location": {
           "line": true,
@@ -448,7 +470,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/5ccc4f36-6641-3fac-9ca5-aa8583b21d41/128,400,2001,1605/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 27"
+          "content_state": "",
+          "caption": "Vol. 1, Page 27"
         },
         "location": {
           "line": true,
@@ -466,7 +489,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/b6696c23-98e9-39d2-9d4b-508f68a1c1eb/140,2232,2017,1046/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 28"
+          "content_state": "",
+          "caption": "Vol. 1, Page 28"
         },
         "location": {
           "line": true,
@@ -484,7 +508,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/0933fffc-3d7d-387c-9b2e-fc8921b7fea9/185,1470,1961,1443/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 34"
+          "content_state": "",
+          "caption": "Vol. 1, Page 34"
         },
         "location": {
           "line": true,
@@ -502,7 +527,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/a8c9198a-5db3-32b5-b360-03c89cc58fb0/29,569,2145,2082/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 35"
+          "content_state": "",
+          "caption": "Vol. 1, Page 35"
         },
         "location": {
           "line": true,
@@ -520,7 +546,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/ab15e630-83c1-3ef4-b27c-2e090d7285ae/197,2445,1961,947/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 36"
+          "content_state": "",
+          "caption": "Vol. 1, Page 36"
         },
         "location": {
           "line": true,
@@ -538,7 +565,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/69a92ed7-a797-3581-80fb-2e48054d8f88/268,1289,1817,299/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 38"
+          "content_state": "",
+          "caption": "Vol. 1, Page 38"
         },
         "location": {
           "line": true,
@@ -556,7 +584,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/72514b3f-f0f7-35af-9f5d-65d26ba9678b/176,696,1881,1563/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 41"
+          "content_state": "",
+          "caption": "Vol. 1, Page 41"
         },
         "location": {
           "line": true,
@@ -574,7 +603,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/02c4771e-3b2f-331b-bcfd-7e0c51a93c03/118,1454,1953,1355/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 43"
+          "content_state": "",
+          "caption": "Vol. 1, Page 43"
         },
         "location": {
           "line": true,
@@ -592,7 +622,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/291a4d6c-543d-31fc-9682-407f16429a5d/63,744,2097,1725/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 51"
+          "content_state": "",
+          "caption": "Vol. 1, Page 51"
         },
         "location": {
           "line": true,
@@ -610,7 +641,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/1d45b743-99c4-324d-9ddc-65ac2975aa94/191,402,1937,351/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 52"
+          "content_state": "",
+          "caption": "Vol. 1, Page 52"
         },
         "location": {
           "line": true,
@@ -628,7 +660,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/f7bef9f1-fa17-38b7-9192-915061c4e0f1/126,873,2017,1309/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 56"
+          "content_state": "",
+          "caption": "Vol. 1, Page 56"
         },
         "location": {
           "line": true,
@@ -646,7 +679,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/17c44962-bde7-3bc1-a8b8-11d880b0de73/36,1045,2145,878/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 57"
+          "content_state": "",
+          "caption": "Vol. 1, Page 57"
         },
         "location": {
           "line": true,
@@ -664,7 +698,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/17c44962-bde7-3bc1-a8b8-11d880b0de73/4,1922,2065,1022/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 57"
+          "content_state": "",
+          "caption": "Vol. 1, Page 57"
         },
         "location": {
           "line": true,
@@ -682,7 +717,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/d1f9d63a-c01d-3cc4-b0cc-f05f8bd48485/46,2008,2113,1022/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 58"
+          "content_state": "",
+          "caption": "Vol. 1, Page 58"
         },
         "location": {
           "line": true,
@@ -700,7 +736,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/60c252eb-d797-3cf2-86b9-59e702bd2664/106,2619,1937,766/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 59"
+          "content_state": "",
+          "caption": "Vol. 1, Page 59"
         },
         "location": {
           "line": true,
@@ -718,7 +755,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/db4ea27e-59c5-3133-bc69-53d748a39494/183,2570,1985,750/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 78"
+          "content_state": "",
+          "caption": "Vol. 1, Page 78"
         },
         "location": {
           "line": true,
@@ -736,7 +774,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/f039d167-9134-31cf-ac9d-bd90f1aab16f/229,2135,1890,766/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 80"
+          "content_state": "",
+          "caption": "Vol. 1, Page 80"
         },
         "location": {
           "line": true,
@@ -754,7 +793,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/f2e3b191-844d-3d60-863a-c2c90b3b854c/91,550,2017,1453/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 81"
+          "content_state": "",
+          "caption": "Vol. 1, Page 81"
         },
         "location": {
           "line": true,
@@ -772,7 +812,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/35486ec3-133f-336b-9e96-aa4f57ff1869/190,1617,1889,1255/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 82"
+          "content_state": "",
+          "caption": "Vol. 1, Page 82"
         },
         "location": {
           "line": true,
@@ -790,7 +831,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/068e85ab-dfb2-3685-b6b4-6b150000ebf3/169,1954,1953,1453/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 83"
+          "content_state": "",
+          "caption": "Vol. 1, Page 83"
         },
         "location": {
           "line": true,
@@ -808,7 +850,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/88fc6924-f28e-36e3-91ce-20fcef7a4084/138,996,1985,942/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 85"
+          "content_state": "",
+          "caption": "Vol. 1, Page 85"
         },
         "location": {
           "line": true,
@@ -826,7 +869,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/212f0d96-6fe7-3b03-a86a-b7a187b48a69/207,403,1890,782/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 86"
+          "content_state": "",
+          "caption": "Vol. 1, Page 86"
         },
         "location": {
           "line": true,
@@ -844,7 +888,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/033c55b3-bdf7-3c7f-8e2b-85155eed11ce/169,2049,1865,311/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 87"
+          "content_state": "",
+          "caption": "Vol. 1, Page 87"
         },
         "location": {
           "line": true,
@@ -862,7 +907,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/e6fb9c6a-713c-3383-a5af-990cbe286bbe/167,1381,1953,1900/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 88"
+          "content_state": "",
+          "caption": "Vol. 1, Page 88"
         },
         "location": {
           "line": true,
@@ -880,7 +926,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/8219bffa-1874-34e4-bd38-2021d5cecdf5/83,1598,2065,718/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 97"
+          "content_state": "",
+          "caption": "Vol. 1, Page 97"
         },
         "location": {
           "line": true,
@@ -898,7 +945,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/8fa993ff-a886-3493-a5f6-4fb8927b401c/207,682,1841,511/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 99"
+          "content_state": "",
+          "caption": "Vol. 1, Page 99"
         },
         "location": {
           "line": true,
@@ -916,7 +964,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/b2c71398-ae4a-3335-8af8-85dde44ebc8c/186,1544,1906,1245/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 102"
+          "content_state": "",
+          "caption": "Vol. 1, Page 102"
         },
         "location": {
           "line": true,
@@ -934,7 +983,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/ab3adb02-dca0-3cf5-8a66-4d416bb077e5/80,2260,2137,943/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 103"
+          "content_state": "",
+          "caption": "Vol. 1, Page 103"
         },
         "location": {
           "line": true,
@@ -952,7 +1002,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/690dd01e-8331-3f70-bcc4-423ca22c754c/275,1658,1817,831/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 104"
+          "content_state": "",
+          "caption": "Vol. 1, Page 104"
         },
         "location": {
           "line": true,
@@ -970,7 +1021,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/502ec716-26df-34c2-8aff-43e02111f001/269,386,1857,543/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 106"
+          "content_state": "",
+          "caption": "Vol. 1, Page 106"
         },
         "location": {
           "line": true,
@@ -988,7 +1040,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/98300d9c-ffb5-3d60-850f-e09abf3ec1b4/94,1131,2049,942/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 107"
+          "content_state": "",
+          "caption": "Vol. 1, Page 107"
         },
         "location": {
           "line": true,
@@ -1006,7 +1059,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/dc47cfa9-5f31-3f8d-a1b2-d216075958e6/156,2678,2049,622/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 108"
+          "content_state": "",
+          "caption": "Vol. 1, Page 108"
         },
         "location": {
           "line": true,
@@ -1024,7 +1078,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/0eb7ab82-45ca-3827-9ded-ed15340cbd67/152,1808,1873,695/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 109"
+          "content_state": "",
+          "caption": "Vol. 1, Page 109"
         },
         "location": {
           "line": true,
@@ -1042,7 +1097,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/451e474a-6001-3524-9757-ec103accd4fa/137,1017,1858,1261/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 111"
+          "content_state": "",
+          "caption": "Vol. 1, Page 111"
         },
         "location": {
           "line": true,
@@ -1060,7 +1116,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/8a8ee41f-d314-3fca-b23f-19e5bd31a15b/240,1447,1761,1455/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 115"
+          "content_state": "",
+          "caption": "Vol. 1, Page 115"
         },
         "location": {
           "line": true,
@@ -1078,7 +1135,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/0e6c2bd1-39ba-3727-9b5d-604ec3a5e5bd/258,377,1809,431/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 116"
+          "content_state": "",
+          "caption": "Vol. 1, Page 116"
         },
         "location": {
           "line": true,
@@ -1096,7 +1154,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/871c8271-0518-344f-9862-942b23ec24c5/215,394,1889,879/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 118"
+          "content_state": "",
+          "caption": "Vol. 1, Page 118"
         },
         "location": {
           "line": true,
@@ -1114,7 +1173,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/871c8271-0518-344f-9862-942b23ec24c5/219,1259,1881,1175/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 118"
+          "content_state": "",
+          "caption": "Vol. 1, Page 118"
         },
         "location": {
           "line": true,
@@ -1132,7 +1192,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/ec139380-ef0c-3fad-9154-004146957503/91,596,2033,383/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 119"
+          "content_state": "",
+          "caption": "Vol. 1, Page 119"
         },
         "location": {
           "line": true,
@@ -1150,7 +1211,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/d0915b1e-b082-35a5-8a34-db413123ed50/215,1178,1890,591/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 124"
+          "content_state": "",
+          "caption": "Vol. 1, Page 124"
         },
         "location": {
           "line": true,
@@ -1168,7 +1230,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/827605fc-c114-3e87-972c-c0572f0515d2/266,2786,1817,583/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 136"
+          "content_state": "",
+          "caption": "Vol. 1, Page 136"
         },
         "location": {
           "line": true,
@@ -1186,7 +1249,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/e58646cf-98c0-3a22-b0f8-2e90a9563f70/23,391,2161,591/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 143"
+          "content_state": "",
+          "caption": "Vol. 1, Page 143"
         },
         "location": {
           "line": true,
@@ -1204,7 +1268,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/e58646cf-98c0-3a22-b0f8-2e90a9563f70/70,1459,1985,1102/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 143"
+          "content_state": "",
+          "caption": "Vol. 1, Page 143"
         },
         "location": {
           "line": true,
@@ -1222,7 +1287,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/ce64e6e9-a0cc-3e15-8f4b-8ac71c1c3562/174,594,1841,1087/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 145"
+          "content_state": "",
+          "caption": "Vol. 1, Page 145"
         },
         "location": {
           "line": true,
@@ -1240,7 +1306,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/27919cc2-b150-3e26-8c75-a1075c4971f2/138,599,1969,727/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 147"
+          "content_state": "",
+          "caption": "Vol. 1, Page 147"
         },
         "location": {
           "line": true,
@@ -1258,7 +1325,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/1c9c29c1-31b6-31de-99a2-252e91238896/138,2606,2065,575/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 150"
+          "content_state": "",
+          "caption": "Vol. 1, Page 150"
         },
         "location": {
           "line": true,
@@ -1276,7 +1344,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/7a1c8fc0-a57e-33ac-8380-a91b2a9b1244/226,2792,1921,559/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 152"
+          "content_state": "",
+          "caption": "Vol. 1, Page 152"
         },
         "location": {
           "line": true,
@@ -1294,7 +1363,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/00264bab-fc08-3814-bc69-74aa7d853162/115,729,1985,1118/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 153"
+          "content_state": "",
+          "caption": "Vol. 1, Page 153"
         },
         "location": {
           "line": true,
@@ -1312,7 +1382,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/015082bf-63c5-3de2-9986-5dd542ca7dbe/267,1455,1921,910/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 155"
+          "content_state": "",
+          "caption": "Vol. 1, Page 155"
         },
         "location": {
           "line": true,
@@ -1330,7 +1401,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/85e56411-2131-3069-a2fa-d44229d2c489/130,1433,1969,1757/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 157"
+          "content_state": "",
+          "caption": "Vol. 1, Page 157"
         },
         "location": {
           "line": true,
@@ -1348,7 +1420,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/fa6827c1-6896-3072-b618-cbbaa35daa99/216,1457,1953,2054/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 158"
+          "content_state": "",
+          "caption": "Vol. 1, Page 158"
         },
         "location": {
           "line": true,
@@ -1366,7 +1439,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/e9ec9775-98ab-3fb0-a580-3ee0992e823f/109,2725,1906,335/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 159"
+          "content_state": "",
+          "caption": "Vol. 1, Page 159"
         },
         "location": {
           "line": true,
@@ -1384,7 +1458,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/0581a1f3-8ea4-3fe9-8124-b16c603aa071/304,670,1865,383/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 160"
+          "content_state": "",
+          "caption": "Vol. 1, Page 160"
         },
         "location": {
           "line": true,
@@ -1402,7 +1477,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/24440284-b070-3e82-8851-f29ad982f4f8/147,470,1953,1070/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 163"
+          "content_state": "",
+          "caption": "Vol. 1, Page 163"
         },
         "location": {
           "line": true,
@@ -1420,7 +1496,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/24440284-b070-3e82-8851-f29ad982f4f8/153,2340,1953,894/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 163"
+          "content_state": "",
+          "caption": "Vol. 1, Page 163"
         },
         "location": {
           "line": true,
@@ -1438,7 +1515,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/d5a0701d-8d28-306d-bb1c-6b783823389e/250,1768,1906,1341/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 164"
+          "content_state": "",
+          "caption": "Vol. 1, Page 164"
         },
         "location": {
           "line": true,
@@ -1456,7 +1534,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/bd072b67-49db-3960-b758-8af94d9c38a7/105,943,2017,1990/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 165"
+          "content_state": "",
+          "caption": "Vol. 1, Page 165"
         },
         "location": {
           "line": true,
@@ -1474,7 +1553,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/13ac95b0-2331-3b56-b400-d1291c1ebbd2/265,914,1833,751/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 166"
+          "content_state": "",
+          "caption": "Vol. 1, Page 166"
         },
         "location": {
           "line": true,
@@ -1492,7 +1572,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/7209967e-456b-34ef-9ffe-aeb131d49c27/144,1564,1921,463/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 167"
+          "content_state": "",
+          "caption": "Vol. 1, Page 167"
         },
         "location": {
           "line": true,
@@ -1510,7 +1591,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/11231414-76ab-3ee3-a2af-79935709fb8f/166,1220,2001,958/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 168"
+          "content_state": "",
+          "caption": "Vol. 1, Page 168"
         },
         "location": {
           "line": true,
@@ -1528,7 +1610,8 @@
         "media": {
           "url": "hhttps://api.library.tamu.edu/iiif/2/6199682a-38e4-371c-8d0e-4f9dc8406d39/280,713,1890,1453/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 170"
+          "content_state": "",
+          "caption": "Vol. 1, Page 170"
         },
         "location": {
           "line": true,
@@ -1546,7 +1629,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/6199682a-38e4-371c-8d0e-4f9dc8406d39/267,2162,1890,846/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 170"
+          "content_state": "",
+          "caption": "Vol. 1, Page 170"
         },
         "location": {
           "line": true,
@@ -1564,7 +1648,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/4a1a9a8e-c93c-3c65-98e2-df90a14c43d2/183,1285,1842,654/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 171"
+          "content_state": "",
+          "caption": "Vol. 1, Page 171"
         },
         "location": {
           "line": true,
@@ -1582,7 +1667,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/4a1a9a8e-c93c-3c65-98e2-df90a14c43d2/180,2282,1826,1086/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 171"
+          "content_state": "",
+          "caption": "Vol. 1, Page 171"
         },
         "location": {
           "line": true,
@@ -1600,7 +1686,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/ccd2e85c-0aab-3ff5-96f3-2e452fac660a/275,1069,1953,718/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 172"
+          "content_state": "",
+          "caption": "Vol. 1, Page 172"
         },
         "location": {
           "line": true,
@@ -1618,7 +1705,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/ccd2e85c-0aab-3ff5-96f3-2e452fac660a/199,2428,1969,846/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 172"
+          "content_state": "",
+          "caption": "Vol. 1, Page 172"
         },
         "location": {
           "line": true,
@@ -1636,7 +1724,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/d0fd6426-220d-3645-bf0a-49a878c7876a/104,1167,1865,575/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 173"
+          "content_state": "",
+          "caption": "Vol. 1, Page 173"
         },
         "location": {
           "line": true,
@@ -1654,7 +1743,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/ed023e86-34a1-3d03-9747-f36fe72f4bd8/127,392,2049,862/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 174"
+          "content_state": "",
+          "caption": "Vol. 1, Page 174"
         },
         "location": {
           "line": true,
@@ -1672,7 +1762,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/ed023e86-34a1-3d03-9747-f36fe72f4bd8/181,1232,2001,654/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 174"
+          "content_state": "",
+          "caption": "Vol. 1, Page 174"
         },
         "location": {
           "line": true,
@@ -1690,7 +1781,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/f8dd4f09-2436-3901-b903-7113e1b64e57/146,2784,1801,543/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 175"
+          "content_state": "",
+          "caption": "Vol. 1, Page 175"
         },
         "location": {
           "line": true,
@@ -1708,7 +1800,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/076f5219-2a28-3c9a-b0da-879b436be2ab/153,399,1921,782/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 177"
+          "content_state": "",
+          "caption": "Vol. 1, Page 177"
         },
         "location": {
           "line": true,
@@ -1726,7 +1819,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/076f5219-2a28-3c9a-b0da-879b436be2ab/141,1411,1921,447/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 177"
+          "content_state": "",
+          "caption": "Vol. 1, Page 177"
         },
         "location": {
           "line": true,
@@ -1744,7 +1838,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/8d0bb954-718f-332c-b505-e51bd7ff85e2/157,618,2017,750/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 178"
+          "content_state": "",
+          "caption": "Vol. 1, Page 178"
         },
         "location": {
           "line": true,
@@ -1762,7 +1857,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/19ca7808-7ee2-3a64-acdb-b31e6fbe45df/96,737,2001,447/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 179"
+          "content_state": "",
+          "caption": "Vol. 1, Page 179"
         },
         "location": {
           "line": true,
@@ -1780,7 +1876,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/f0576dd7-382c-3fee-b8de-2a2cd7b8ac90/189,1313,1937,415/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 180"
+          "content_state": "",
+          "caption": "Vol. 1, Page 180"
         },
         "location": {
           "line": true,
@@ -1798,7 +1895,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/f0576dd7-382c-3fee-b8de-2a2cd7b8ac90/226,2108,1921,511/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 180"
+          "content_state": "",
+          "caption": "Vol. 1, Page 180"
         },
         "location": {
           "line": true,
@@ -1816,7 +1914,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/cca2417f-7bfe-332b-ba9b-d6ee4a145c81/148,1727,1906,1070/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 1, Pg. 185"
+          "content_state": "",
+          "caption": "Vol. 1, Page 185"
         },
         "location": {
           "line": true,
@@ -1834,7 +1933,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/1cd0b19f-c118-3e82-b7ab-67e45c5a928c/302,563,1842,239/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 186"
+          "content_state": "",
+          "caption": "Vol. 10, Page 186"
         },
         "location": {
           "line": true,
@@ -1852,7 +1952,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/1cd0b19f-c118-3e82-b7ab-67e45c5a928c/104,1051,2065,535/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 186"
+          "content_state": "",
+          "caption": "Vol. 10, Page 186"
         },
         "location": {
           "line": true,
@@ -1870,7 +1971,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/1cd0b19f-c118-3e82-b7ab-67e45c5a928c/232,1578,1906,1014/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 186"
+          "content_state": "",
+          "caption": "Vol. 10, Page 186"
         },
         "location": {
           "line": true,
@@ -1888,7 +1990,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/513f60e3-aac4-3a51-bc2f-95abec4cb79a/52,376,2097,758/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 187"
+          "content_state": "",
+          "caption": "Vol. 10, Page 187"
         },
         "location": {
           "line": true,
@@ -1906,7 +2009,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/513f60e3-aac4-3a51-bc2f-95abec4cb79a/115,1109,1969,455/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 187"
+          "content_state": "",
+          "caption": "Vol. 10, Page 187"
         },
         "location": {
           "line": true,
@@ -1924,7 +2028,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/513f60e3-aac4-3a51-bc2f-95abec4cb79a/156,1547,1906,1317/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 187"
+          "content_state": "",
+          "caption": "Vol. 10, Page 187"
         },
         "location": {
           "line": true,
@@ -1942,7 +2047,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/513f60e3-aac4-3a51-bc2f-95abec4cb79a/174,2873,1874,423/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 187"
+          "content_state": "",
+          "caption": "Vol. 10, Page 187"
         },
         "location": {
           "line": true,
@@ -1960,7 +2066,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/c2d97664-af8a-3170-b04d-d2a49df8a805/326,719,1842,1349/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 188"
+          "content_state": "",
+          "caption": "Vol. 10, Page 188"
         },
         "location": {
           "line": true,
@@ -1978,7 +2085,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/c2d97664-af8a-3170-b04d-d2a49df8a805/270,2053,1921,563/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 188"
+          "content_state": "",
+          "caption": "Vol. 10, Page 188"
         },
         "location": {
           "line": true,
@@ -1996,7 +2104,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/c2d97664-af8a-3170-b04d-d2a49df8a805/262,2615,1890,311/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 188"
+          "content_state": "",
+          "caption": "Vol. 10, Page 188"
         },
         "location": {
           "line": true,
@@ -2014,7 +2123,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/c2d97664-af8a-3170-b04d-d2a49df8a805/248,2917,1890,391/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 188"
+          "content_state": "",
+          "caption": "Vol. 10, Page 188"
         },
         "location": {
           "line": true,
@@ -2032,7 +2142,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/957ad0f7-cf16-34c5-b2a1-9f8413df2755/129,576,1921,822/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 189"
+          "content_state": "",
+          "caption": "Vol. 10, Page 189"
         },
         "location": {
           "line": true,
@@ -2050,7 +2161,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/957ad0f7-cf16-34c5-b2a1-9f8413df2755/125,1407,1921,614/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 189"
+          "content_state": "",
+          "caption": "Vol. 10, Page 189"
         },
         "location": {
           "line": true,
@@ -2068,7 +2180,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/957ad0f7-cf16-34c5-b2a1-9f8413df2755/104,2007,1906,710/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 189"
+          "content_state": "",
+          "caption": "Vol. 10, Page 189"
         },
         "location": {
           "line": true,
@@ -2086,7 +2199,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/957ad0f7-cf16-34c5-b2a1-9f8413df2755/106,2705,1906,662/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 189"
+          "content_state": "",
+          "caption": "Vol. 10, Page 189"
         },
         "location": {
           "line": true,
@@ -2104,7 +2218,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/fa3f13b4-038e-3a6a-8362-8490cba02b24/274,650,1921,455/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 190"
+          "content_state": "",
+          "caption": "Vol. 10, Page 190"
         },
         "location": {
           "line": true,
@@ -2122,7 +2237,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/fa3f13b4-038e-3a6a-8362-8490cba02b24/300,1113,1890,503/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 190"
+          "content_state": "",
+          "caption": "Vol. 10, Page 190"
         },
         "location": {
           "line": true,
@@ -2140,7 +2256,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/fa3f13b4-038e-3a6a-8362-8490cba02b24/233,1607,1913,1451/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 190"
+          "content_state": "",
+          "caption": "Vol. 10, Page 190"
         },
         "location": {
           "line": true,
@@ -2158,7 +2275,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/cc4fbcf9-3145-31f9-b730-d94c24c5c773/135,352,1921,790/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 191"
+          "content_state": "",
+          "caption": "Vol. 10, Page 191"
         },
         "location": {
           "line": true,
@@ -2176,7 +2294,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/cc4fbcf9-3145-31f9-b730-d94c24c5c773/87,1152,2017,1158/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 191"
+          "content_state": "",
+          "caption": "Vol. 10, Page 191"
         },
         "location": {
           "line": true,
@@ -2194,7 +2313,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/cc4fbcf9-3145-31f9-b730-d94c24c5c773/100,2333,2017,1078/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 191"
+          "content_state": "",
+          "caption": "Vol. 10, Page 191"
         },
         "location": {
           "line": true,
@@ -2212,7 +2332,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/55eb6164-c6e1-30ae-b7db-9b24f150db08/261,575,1826,1365/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 192"
+          "content_state": "",
+          "caption": "Vol. 10, Page 192"
         },
         "location": {
           "line": true,
@@ -2230,7 +2351,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/55eb6164-c6e1-30ae-b7db-9b24f150db08/183,1947,1985,567/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 192"
+          "content_state": "",
+          "caption": "Vol. 10, Page 192"
         },
         "location": {
           "line": true,
@@ -2248,7 +2370,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/55eb6164-c6e1-30ae-b7db-9b24f150db08/268,1935,1833,563/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 192"
+          "content_state": "",
+          "caption": "Vol. 10, Page 192"
         },
         "location": {
           "line": true,
@@ -2266,7 +2389,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/47cdd856-4b88-3be4-8076-4909a8c499e8/216,1607,1810,726/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 193"
+          "content_state": "",
+          "caption": "Vol. 10, Page 193"
         },
         "location": {
           "line": true,
@@ -2284,7 +2408,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/47cdd856-4b88-3be4-8076-4909a8c499e8/142,2359,1921,583/full/0/default.jpg",
           "credit": "",
-          "caption": "Vol 10, Pg. 193"
+          "content_state": "",
+          "caption": "Vol. 10, Page 193"
         },
         "location": {
           "line": true,
