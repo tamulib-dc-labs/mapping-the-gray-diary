@@ -236,9 +236,9 @@
          {
         "date": "Saturday, Octo. 17, 1835",
         "location": {
-          "lat": 38.253246,
+          "lat": 37.992778,
           "line": true,
-          "lon": -85.758804,
+          "lon": -86.174722,
           "zoom": 10
         },
         "media": {
@@ -249,7 +249,7 @@
         },
         "text": {
           "headline": "Saturday, Octo. 17, 1835.",
-          "text": "Left Louisville on board the steamboat Patrick Henry. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F02b19ec2-9109-31dd-8b60-6b58701e172e%2Finfo.json'>Read more</a>"
+          "text": "Left Louisville on board the steamboat Patrick Henry. Passed Sleeping Port, Kentucky, New Albany, Indiana, West Point, Kentucky, Buck Creek, Northampton, and Indian Creek, all in Indiana, and Brandenburg, Kentucky. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F02b19ec2-9109-31dd-8b60-6b58701e172e%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -261,14 +261,14 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Page 14",
+          "caption": "Vol. 1, Page 14 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/e8ff5fec-ad7e-3cdb-aa0d-1f2fcc159091/199,808,1857,1667/full/0/default.jpg"
         },
         "text": {
           "headline": "Sunday, Octo. 18, 1835.",
-          "text": "The Patrick Henry arrived at Owensboro, or Yellow Banks. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe8ff5fec-ad7e-3cdb-aa0d-1f2fcc159091%2Finfo.json'>Read more</a>"
+          "text": "Arrived at Owensboro, Kentucky. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fe8ff5fec-ad7e-3cdb-aa0d-1f2fcc159091%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -280,7 +280,7 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Page 15",
+          "caption": "Vol. 1, Page 15 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/01ccd920-43d0-31e3-a129-9e1862327cc3/52,863,2033,1876/full/0/default.jpg"
@@ -299,7 +299,7 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Page 17",
+          "caption": "Vol. 2, Page 17 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/096d1adf-5223-3156-888e-4fed2e140dff/180,625,1778,1509/full/0/default.jpg"
@@ -318,14 +318,14 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Page 18",
+          "caption": "Vol. 2, Page 18 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/ee6b2969-8e7d-3021-8c1e-a60e66e5fd21/191,840,1842,1685/full/0/default.jpg"
         },
         "text": {
           "headline": "Wednesday, Octo. 21, 1835.",
-          "text": "The Ohio flows into the Mississippi River, and the Patrick Henry passed the town of Mill's Point, Kentucky. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fee6b2969-8e7d-3021-8c1e-a60e66e5fd21%2Finfo.json'>Read more</a>"
+          "text": "Passed Mill's Point, Kentucky. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fee6b2969-8e7d-3021-8c1e-a60e66e5fd21%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -337,45 +337,45 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Page 19",
+          "caption": "Vol. 2, Page 19 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/ccdaa07a-f838-369c-acb6-777f69831a68/124,562,1889,755/full/0/default.jpg"
         },
         "text": {
           "headline": "Thursday, Octo. 22nd, 1835.",
-          "text": "The Patrick Henry passed through Randolph and Memphis, both in Tennessee. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fccdaa07a-f838-369c-acb6-777f69831a68%2Finfo.json'>Read more</a>"
+          "text": "Passed Randolph and Memphis, both in Tennessee. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fccdaa07a-f838-369c-acb6-777f69831a68%2Finfo.json'>Read more</a>"
         }
       },
       {
         "date": "Friday, Octo. 23rd, 1835",
         "location": {
-          "lat": 35.149844,
+          "lat": 34.529167,
           "line": true,
-          "lon": -90.049566,
+          "lon": -90.586111,
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Page 19",
+          "caption": "Vol. 2, Page 19 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/ccdaa07a-f838-369c-acb6-777f69831a68/136,2542,1953,806/full/0/default.jpg"
         },
         "text": {
           "headline": "Friday, Octo. 23rd, 1835.",
-          "text": "The Patrick Henry left Memphis for Helena. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fccdaa07a-f838-369c-acb6-777f69831a68%2Finfo.json'>Read more</a>"
+          "text": "Left Memphis and arrived in Helena, Arkansas. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fccdaa07a-f838-369c-acb6-777f69831a68%2Finfo.json'>Read more</a>"
         }
       },
       {
         "date": "Saturday, Octo. 24th, 1835",
         "location": {
-          "lat": 34.529157,
+          "lat": 34.529167,
           "line": true,
-          "lon": -90.584967,
+          "lon": -90.586111,
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Page 21",
+          "caption": "Vol. 2, Page 21 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/e96959b1-0773-33a7-88db-5205c4e8c653/150,373,1969,375/full/0/default.jpg"
@@ -388,20 +388,20 @@
            {
         "date": "Sunday, Octo. 25th, 1835",
         "location": {
-          "lat": 34.529157,
+          "lat": 34.529167,
           "line": true,
-          "lon": -90.584967,
+          "lon": -90.586111,
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Page 22",
+          "caption": "Vol. 2, Page 22 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/4580a39b-243d-36a8-9ebb-2c8134033611/234,367,1794,2084/full/0/default.jpg"
         },
         "text": {
           "headline": "Sunday, Octo. 25th, 1835.",
-          "text": "Boarded the Superior. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F4580a39b-243d-36a8-9ebb-2c8134033611%2Finfo.json'>Read more</a>"
+          "text": "Boarded the steamboat Superior. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F4580a39b-243d-36a8-9ebb-2c8134033611%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -413,14 +413,14 @@
           "zoom": 10
         },
         "media": {
-          "caption": "Vol. 1, Page 22",
+          "caption": "Vol. 2, Page 22 of the William Fairfax Gray Diary",
           "credit": "",
           "content_state": "",
           "url": "https://api.library.tamu.edu/iiif/2/4580a39b-243d-36a8-9ebb-2c8134033611/232,2444,1810,870/full/0/default.jpg"
         },
         "text": {
           "headline": "Monday, Octo. 26, 1835.",
-          "text": "The Superior stopped at Princeton, Mississippi. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F4580a39b-243d-36a8-9ebb-2c8134033611%2Finfo.json'>Read more</a>"
+          "text": "Arrived at Princeton, Mississippi. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2F4580a39b-243d-36a8-9ebb-2c8134033611%2Finfo.json'>Read more</a>"
         }
       },
       {
@@ -433,7 +433,7 @@
           "url": "https://api.library.tamu.edu/iiif/2/fc353f32-c9df-3684-aeec-a0872f30a4bc/148,427,2041,1547/full/0/default.jpg",
           "credit": "",
           "content_state": "",
-          "caption": "Vol. 1, Page 23"
+          "caption": "Vol. 2, Page 23 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -452,7 +452,7 @@
           "url": "https://api.library.tamu.edu/iiif/2/3740c140-9811-3144-be4c-6b487c25a817/120,426,1953,1285/full/0/default.jpg",
           "credit": "",
           "content_state": "",
-          "caption": "Vol. 1, Page 25"
+          "caption": "Vol. 2, Page 25 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -471,7 +471,7 @@
           "url": "https://api.library.tamu.edu/iiif/2/5ccc4f36-6641-3fac-9ca5-aa8583b21d41/128,400,2001,1605/full/0/default.jpg",
           "credit": "",
           "content_state": "",
-          "caption": "Vol. 1, Page 27"
+          "caption": "Vol. 2, Page 27 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -484,13 +484,13 @@
         "date": "Tuesday, Nov. 3, 1835",
         "text": {
           "headline": "Tuesday, Nov. 3, 1835.",
-          "text": "Spent the day copying maps. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fb6696c23-98e9-39d2-9d4b-508f68a1c1eb%2Finfo.json'>Read more</a>"
+          "text": "Spent the day copying maps in Vicksburg. <a href='https://theseusviewer.org/?iiif-content=https%3A%2F%2Fapi.library.tamu.edu%2Fiiif%2F2%2Fb6696c23-98e9-39d2-9d4b-508f68a1c1eb%2Finfo.json'>Read more</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/b6696c23-98e9-39d2-9d4b-508f68a1c1eb/140,2232,2017,1046/full/0/default.jpg",
           "credit": "",
           "content_state": "",
-          "caption": "Vol. 1, Page 28"
+          "caption": "Vol. 2, Page 28 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -503,13 +503,13 @@
         "date": "Thursday, Nov. 12, 1835",
         "text": {
           "headline": "Thursday, Nov. 12, 1835.",
-          "text": "Arrived at Clinton, Mississippi at about 4 o'clock."
+          "text": "Arrived at Clinton, Mississippi at about 4 o'clock. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNDUlMjMxODUlMkMxNDcwJTJDMTk2MSUyQzE0NDMlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/0933fffc-3d7d-387c-9b2e-fc8921b7fea9/185,1470,1961,1443/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 34"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNDUlMjMxODUlMkMxNDcwJTJDMTk2MSUyQzE0NDMlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE",
+          "caption": "Vol. 3, Page 34 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -522,13 +522,13 @@
         "date": "Friday, Nov. 13th, 1835",
         "text": {
           "headline": "Jackson, Friday, Nov. 13th, 1835.",
-          "text": "Arrived at Jackson, Mississippi."
+          "text": "Arrived at Jackson, Mississippi. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNDYlMjMyOSUyQzU2OSUyQzIxNDUlMkMyMDgyJTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/a8c9198a-5db3-32b5-b360-03c89cc58fb0/29,569,2145,2082/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 35"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNDYlMjMyOSUyQzU2OSUyQzIxNDUlMkMyMDgyJTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
+          "caption": "Vol. 3, Page 35 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -541,13 +541,13 @@
         "date": "Saturday, Nov. 14, 1835",
         "text": {
           "headline": "Clinton, Saturday, Nov. 14, 1835.",
-          "text": "Returned to Clinton."
+          "text": "Returned to Clinton. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNDclMjMxOTclMkMyNDQ1JTJDMTk2MSUyQzk0NyUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/ab15e630-83c1-3ef4-b27c-2e090d7285ae/197,2445,1961,947/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 36"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNDclMjMxOTclMkMyNDQ1JTJDMTk2MSUyQzk0NyUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 3, Page 36 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -560,13 +560,13 @@
         "date": "Monday, Nov. 16, 1835",
         "text": {
           "headline": "Monday, Nov. 16, 1835.",
-          "text": "Arrived at Vicksburg, Mississippi."
+          "text": "Arrived at Vicksburg, Mississippi. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNDklMjMyNjglMkMxMjg5JTJDMTgxNyUyQzI5OSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/69a92ed7-a797-3581-80fb-2e48054d8f88/268,1289,1817,299/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 38"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNDklMjMyNjglMkMxMjg5JTJDMTgxNyUyQzI5OSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 3, Page 38 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -579,13 +579,13 @@
         "date": "Saturday, Nov. 21, 1835",
         "text": {
           "headline": "Saturday, Nov. 21, 1835.",
-          "text": "Arrived six miles from Manchester, Mississippi."
+          "text": "Arrived six miles from Manchester, Mississippi. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNDUlMjMxODUlMkMxNDcwJTJDMTk2MSUyQzE0NDMlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/72514b3f-f0f7-35af-9f5d-65d26ba9678b/176,696,1881,1563/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 41"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNTIlMjMxNzYlMkM2OTYlMkMxODgxJTJDMTU2MyUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 3, Page 41 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -603,8 +603,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/02c4771e-3b2f-331b-bcfd-7e0c51a93c03/118,1454,1953,1355/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 43"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNTQlMjMxMTglMkMxNDU0JTJDMTk1MyUyQzEzNTUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE",
+          "caption": "Vol. 3, Page 43 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -622,8 +622,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/291a4d6c-543d-31fc-9682-407f16429a5d/63,744,2097,1725/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 51"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjIlMjM2MyUyQzc0NCUyQzIwOTclMkMxNzI1JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
+          "caption": "Vol. 3, Page 51 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -641,8 +641,27 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/1d45b743-99c4-324d-9ddc-65ac2975aa94/191,402,1937,351/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 52"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjMlMjMxOTElMkM0MDIlMkMxOTM3JTJDMzUxJTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
+          "caption": "Vol. 3, Page 52 of the William Fairfax Gray Diary"
+        },
+        "location": {
+          "line": true,
+          "lat": 32.350117,
+          "lon": -90.882133,
+          "zoom": 6
+        }
+      },
+      {
+        "date": "Monday, Dec. 21, 1835",
+        "text": {
+          "headline": "Monday, Dec. 21, 1835.",
+          "text": "Left Vicksburg for Clinton. Arrived in Bridgeport, Mississippi. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjYlMjMxMTAlMkMyNDU3JTJDMTkzNyUyQzYwNyUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/98998488-b89a-3e33-a7da-748866214f88/110,2457,1937,607/full/0/default.jpg",
+          "credit": "",
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjYlMjMxMTAlMkMyNDU3JTJDMTkzNyUyQzYwNyUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 4, Page 55 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -660,8 +679,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/f7bef9f1-fa17-38b7-9192-915061c4e0f1/126,873,2017,1309/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 56"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjclMjMxMjYlMkM4NzMlMkMyMDE3JTJDMTMwOSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 4, Page 56 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -674,13 +693,13 @@
         "date": "Thursday, Dec. 24, 1835",
         "text": {
           "headline": "Thursday, Dec. 24, 1835.",
-          "text": "Arrived in Vicksburg, Mississippi. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjglMjMzNiUyQzEwNDUlMkMyMTQ1JTJDODc4JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Left Clinton and returned to Vicksburg. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjglMjMzNiUyQzEwNDUlMkMyMTQ1JTJDODc4JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/17c44962-bde7-3bc1-a8b8-11d880b0de73/36,1045,2145,878/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 57"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjglMjMzNiUyQzEwNDUlMkMyMTQ1JTJDODc4JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
+          "caption": "Vol. 4, Page 57 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -693,13 +712,13 @@
         "date": "Saturday, Dec. 26, 1835",
         "text": {
           "headline": "Saturday, Dec. 26, 1835.",
-          "text": "Arrived in Warrenton, Mississippi. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjglMjM0JTJDMTkyMiUyQzIwNjUlMkMxMDIyJTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Boarded the steamboat Chancellor and arrived in Warrenton, Mississippi. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjglMjM0JTJDMTkyMiUyQzIwNjUlMkMxMDIyJTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/17c44962-bde7-3bc1-a8b8-11d880b0de73/4,1922,2065,1022/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 57"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjglMjM0JTJDMTkyMiUyQzIwNjUlMkMxMDIyJTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
+          "caption": "Vol. 4, Page 57 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -712,18 +731,18 @@
         "date": "Sunday, Dec. 27, 1835",
         "text": {
           "headline": "Sunday, Dec. 27, 1835.",
-          "text": "Arrived in Natchez, Mississippi. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjklMjM0NiUyQzIwMDglMkMyMTEzJTJDMTAyMiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Arrived in Natchez, Mississippi. Passed St. Francisville, Point Coupee, Port Hudson, Baton Rogue, Iberville, and Placquemine, all in Louisiana. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjklMjM0NiUyQzIwMDglMkMyMTEzJTJDMTAyMiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/d1f9d63a-c01d-3cc4-b0cc-f05f8bd48485/46,2008,2113,1022/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 58"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNjklMjM0NiUyQzIwMDglMkMyMTEzJTJDMTAyMiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 4, Page 58 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
-          "lat": 31.554444,
-          "lon": -91.3875,
+          "lat": 30.281389,
+          "lon": -91.248889,
           "zoom": 12
         }
       },
@@ -731,18 +750,18 @@
         "date": "Monday, Dec. 28, 1835",
         "text": {
           "headline": "Monday, Dec. 28, 1835.",
-          "text": "Arrived in Donaldsonville, Louisiana. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNzAlMjMxMDYlMkMyNjE5JTJDMTkzNyUyQzc2NiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Passed Donaldsonville, Louisiana and the plantation of Mde. Toureau. Arrived in New Orleans. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNzAlMjMxMDYlMkMyNjE5JTJDMTkzNyUyQzc2NiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/60c252eb-d797-3cf2-86b9-59e702bd2664/106,2619,1937,766/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 59"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfNzAlMjMxMDYlMkMyNjE5JTJDMTkzNyUyQzc2NiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 4, Page 59 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
-          "lat": 30.1,
-          "lon": -90.994167,
+          "lat": 29.976111,
+          "lon": -90.078333,
           "zoom": 10
         }
       },
@@ -750,13 +769,13 @@
         "date": "Tuesday, Dec. 29, 1835",
         "text": {
           "headline": "Tuesday, Dec. 29, 1835.",
-          "text": "Arrived in New Orleans. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfODklMjMxODMlMkMyNTcwJTJDMTk4NSUyQzc1MCUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Remained in New Orleans. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfODklMjMxODMlMkMyNTcwJTJDMTk4NSUyQzc1MCUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/db4ea27e-59c5-3133-bc69-53d748a39494/183,2570,1985,750/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 78"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfODklMjMxODMlMkMyNTcwJTJDMTk4NSUyQzc1MCUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 5, Page 78 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -774,8 +793,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/f039d167-9134-31cf-ac9d-bd90f1aab16f/229,2135,1890,766/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 80"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfOTElMjMyMjklMkMyMTM1JTJDMTg5MCUyQzc2NiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 5, Page 80 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -788,13 +807,13 @@
         "date": "Wednesday, Jan. 20, 1836",
         "text": {
           "headline": "Wednesday, Jan. 20, 1836.",
-          "text": "Passed Donaldsonville and St. Francisville, both in Louisiana. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfOTIlMjM5MSUyQzU1MCUyQzIwMTclMkMxNDUzJTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Passed Donaldsonville, Placquemine, and St. Francisville, all in Louisiana. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfOTIlMjM5MSUyQzU1MCUyQzIwMTclMkMxNDUzJTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/f2e3b191-844d-3d60-863a-c2c90b3b854c/91,550,2017,1453/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 81"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfOTIlMjM5MSUyQzU1MCUyQzIwMTclMkMxNDUzJTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
+          "caption": "Vol. 5, Page 81 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -812,8 +831,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/35486ec3-133f-336b-9e96-aa4f57ff1869/190,1617,1889,1255/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 82"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfOTMlMjMxOTAlMkMxNjE3JTJDMTg4OSUyQzEyNTUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE",
+          "caption": "Vol. 5, Page 82 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -831,8 +850,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/068e85ab-dfb2-3685-b6b4-6b150000ebf3/169,1954,1953,1453/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 83"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfOTQlMjMxNjklMkMxOTU0JTJDMTk1MyUyQzE0NTMlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE",
+          "caption": "Vol. 5, Page 83 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -850,8 +869,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/88fc6924-f28e-36e3-91ce-20fcef7a4084/138,996,1985,942/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 85"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfOTYlMjMxMzglMkM5OTYlMkMxOTg1JTJDOTQyJTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
+          "caption": "Vol. 5, Page 85 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -869,8 +888,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/212f0d96-6fe7-3b03-a86a-b7a187b48a69/207,403,1890,782/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 86"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfOTclMjMyMDclMkM0MDMlMkMxODkwJTJDNzgyJTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
+          "caption": "Vol. 5, Page 86 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -888,8 +907,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/033c55b3-bdf7-3c7f-8e2b-85155eed11ce/169,2049,1865,311/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 87"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfOTglMjMxNjklMkMyMDQ5JTJDMTg2NSUyQzMxMSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 5, Page 87 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -907,8 +926,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/e6fb9c6a-713c-3383-a5af-990cbe286bbe/167,1381,1953,1900/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 88"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfOTklMjMxNjclMkMxMzgxJTJDMTk1MyUyQzE5MDAlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE",
+          "caption": "Vol. 5, Page 88 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -926,8 +945,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/8219bffa-1874-34e4-bd38-2021d5cecdf5/83,1598,2065,718/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 97"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTA4JTIzODMlMkMxNTk4JTJDMjA2NSUyQzcxOCUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 6, Page 97 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -945,8 +964,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/8fa993ff-a886-3493-a5f6-4fb8927b401c/207,682,1841,511/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 99"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTEyJTIzMjA3JTJDNjgyJTJDMTg0MSUyQzUxMSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 6, Page 99 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -959,13 +978,13 @@
         "date": "Tuesday, Feb. 9, 1836",
         "text": {
           "headline": "Tuesday, Feb. 9, 1836.",
-          "text": "Arrived at Aldridge's on Caney Creek in what is now Trinity County, Texas. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTEzJTIzMTg2JTJDMTU0NCUyQzE5MDYlMkMxMjQ1JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Arrived at Colin Aldridge's on Caney Creek in what is now Trinity County, Texas. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTEzJTIzMTg2JTJDMTU0NCUyQzE5MDYlMkMxMjQ1JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/b2c71398-ae4a-3335-8af8-85dde44ebc8c/186,1544,1906,1245/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 102"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTEzJTIzMTg2JTJDMTU0NCUyQzE5MDYlMkMxMjQ1JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
+          "caption": "Vol. 6, Page 102 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -983,8 +1002,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/ab3adb02-dca0-3cf5-8a66-4d416bb077e5/80,2260,2137,943/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 103"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTE0JTIzODAlMkMyMjYwJTJDMjEzNyUyQzk0MyUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 6, Page 103 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1002,8 +1021,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/690dd01e-8331-3f70-bcc4-423ca22c754c/275,1658,1817,831/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 104"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTE1JTIzMjc1JTJDMTY1OCUyQzE4MTclMkM4MzElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE",
+          "caption": "Vol. 6, Page 104 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1021,8 +1040,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/502ec716-26df-34c2-8aff-43e02111f001/269,386,1857,543/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 106"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTE3JTIzMjY5JTJDMzg2JTJDMTg1NyUyQzU0MyUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 6, Page 106 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1040,8 +1059,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/98300d9c-ffb5-3d60-850f-e09abf3ec1b4/94,1131,2049,942/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 107"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTE4JTIzOTQlMkMxMTMxJTJDMjA0OSUyQzk0MiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 6, Page 107 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1059,8 +1078,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/dc47cfa9-5f31-3f8d-a1b2-d216075958e6/156,2678,2049,622/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 108"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTE5JTIzMTU2JTJDMjY3OCUyQzIwNDklMkM2MjIlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE",
+          "caption": "Vol. 6, Page 108 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1073,13 +1092,13 @@
         "date": "Monday, Feb. 15, 1836",
         "text": {
           "headline": "Monday, Feb. 15, 1836.",
-          "text": "Arrived at Cummins'. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTIwJTIzMTUyJTJDMTgwOCUyQzE4NzMlMkM2OTUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Arrived at Col. Edward's and Cummins'. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTIwJTIzMTUyJTJDMTgwOCUyQzE4NzMlMkM2OTUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/0eb7ab82-45ca-3827-9ded-ed15340cbd67/152,1808,1873,695/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 109"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTIwJTIzMTUyJTJDMTgwOCUyQzE4NzMlMkM2OTUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE",
+          "caption": "Vol. 6, Page 109 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1097,8 +1116,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/451e474a-6001-3524-9757-ec103accd4fa/137,1017,1858,1261/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 111"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTIyJTIzMTM3JTJDMTAxNyUyQzE4NTglMkMxMjYxJTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
+          "caption": "Vol. 6, Page 111 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1116,8 +1135,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/8a8ee41f-d314-3fca-b23f-19e5bd31a15b/240,1447,1761,1455/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 115"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTI2JTIzMjQwJTJDMTQ0NyUyQzE3NjElMkMxNDU1JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
+          "caption": "Vol. 6, Page 115 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1130,13 +1149,13 @@
         "date": "Sunday, Feb. 21, 1836",
         "text": {
           "headline": "Sunday, Feb. 21, 1836.",
-          "text": "Left Col. Edwards', went to visit Gary. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTI3JTIzMjU4JTJDMzc3JTJDMTgwOSUyQzQzMSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
+          "text": "Left Col. Edwards', went to visit Harry Davis Gary. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTI3JTIzMjU4JTJDMzc3JTJDMTgwOSUyQzQzMSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q' target=\"_blank\">Read more from this entry.</a>"
         },
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/0e6c2bd1-39ba-3727-9b5d-604ec3a5e5bd/258,377,1809,431/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 116"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTI3JTIzMjU4JTJDMzc3JTJDMTgwOSUyQzQzMSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 6, Page 116 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1154,8 +1173,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/871c8271-0518-344f-9862-942b23ec24c5/215,394,1889,879/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 118"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTI5JTIzMjE1JTJDMzk0JTJDMTg4OSUyQzg3OSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJDYW52YXMlMjIlMkMlMjJwYXJ0T2YlMjIlM0ElNUIlN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGdGFtdWxpYi1kYy1sYWJzLmdpdGh1Yi5pbyUyRmN1c3RvbS1paWlmLW1hbmlmZXN0cyUyRm1hbmlmZXN0cyUyRmdyYXktZGlhcnklMkZncmF5LXYzLmpzb24lMjIlMkMlMjJ0eXBlJTIyJTNBJTIyTWFuaWZlc3QlMjIlN0QlNUQlN0QlN0Q",
+          "caption": "Vol. 7, Page 118 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1173,8 +1192,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/871c8271-0518-344f-9862-942b23ec24c5/219,1259,1881,1175/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 118"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTI5JTIzMjE5JTJDMTI1OSUyQzE4ODElMkMxMTc1JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
+          "caption": "Vol. 7, Page 118 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1192,8 +1211,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/ec139380-ef0c-3fad-9154-004146957503/91,596,2033,383/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 119"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTMwJTIzOTElMkM1OTYlMkMyMDMzJTJDMzgzJTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA",
+          "caption": "Vol. 7, Page 119 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1211,8 +1230,8 @@
         "media": {
           "url": "https://api.library.tamu.edu/iiif/2/d0915b1e-b082-35a5-8a34-db413123ed50/215,1178,1890,591/full/0/default.jpg",
           "credit": "",
-          "content_state": "",
-          "caption": "Vol. 1, Page 124"
+          "content_state": "https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTM1JTIzMjE1JTJDMTE3OCUyQzE4OTAlMkM1OTElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE",
+          "caption": "Vol. 7, Page 124 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1231,7 +1250,7 @@
           "url": "https://api.library.tamu.edu/iiif/2/827605fc-c114-3e87-972c-c0572f0515d2/266,2786,1817,583/full/0/default.jpg",
           "credit": "",
           "content_state": "",
-          "caption": "Vol. 1, Page 136"
+          "caption": "Vol. 1, Page 136 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1250,7 +1269,7 @@
           "url": "https://api.library.tamu.edu/iiif/2/e58646cf-98c0-3a22-b0f8-2e90a9563f70/23,391,2161,591/full/0/default.jpg",
           "credit": "",
           "content_state": "",
-          "caption": "Vol. 1, Page 143"
+          "caption": "Vol. 1, Page 143 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1269,7 +1288,7 @@
           "url": "https://api.library.tamu.edu/iiif/2/e58646cf-98c0-3a22-b0f8-2e90a9563f70/70,1459,1985,1102/full/0/default.jpg",
           "credit": "",
           "content_state": "",
-          "caption": "Vol. 1, Page 143"
+          "caption": "Vol. 1, Page 143 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1288,7 +1307,7 @@
           "url": "https://api.library.tamu.edu/iiif/2/ce64e6e9-a0cc-3e15-8f4b-8ac71c1c3562/174,594,1841,1087/full/0/default.jpg",
           "credit": "",
           "content_state": "",
-          "caption": "Vol. 1, Page 145"
+          "caption": "Vol. 1, Page 145 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
@@ -1307,7 +1326,7 @@
           "url": "https://api.library.tamu.edu/iiif/2/27919cc2-b150-3e26-8c75-a1075c4971f2/138,599,1969,727/full/0/default.jpg",
           "credit": "",
           "content_state": "",
-          "caption": "Vol. 1, Page 147"
+          "caption": "Vol. 1, Page 147 of the William Fairfax Gray Diary"
         },
         "location": {
           "line": true,
