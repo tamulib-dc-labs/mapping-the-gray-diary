@@ -1502,6 +1502,132 @@
         }
       },
       {
+        "date": "Thursday, April 21, 1836",
+        "text": {
+          "headline": "Thursday, April 21, 1836.",
+          "text": "Arrived in Beaumont, Texas. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTc5JTIzMTY2JTJDMTIyMCUyQzIwMDElMkM5NTglMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/11231414-76ab-3ee3-a2af-79935709fb8f/166,1220,2001,958/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 168"
+        },
+        "location": {
+          "line": true,
+          "lat": 30.08,
+          "lon": -94.126667,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Saturday, April 23, 1836",
+        "text": {
+          "headline": "Saturday, April 23, 1836.",
+          "text": "Arrived at Ballou's ferry. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTgxJTIzMjgwJTJDNzEzJTJDMTg5MCUyQzE0NTMlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "hhttps://api.library.tamu.edu/iiif/2/6199682a-38e4-371c-8d0e-4f9dc8406d39/280,713,1890,1453/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 170"
+        },
+        "location": {
+          "line": true,
+          "lat": 30.08,
+          "lon": -94.126667,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Monday, April 25, 1836",
+        "text": {
+          "headline": "Monday, April 25, 1836.",
+          "text": "Crossed into Louisiana and arrived at Hardy Cowherd's. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTgxJTIzMjY3JTJDMjE2MiUyQzE4OTAlMkM4NDYlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/6199682a-38e4-371c-8d0e-4f9dc8406d39/267,2162,1890,846/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 170"
+        },
+        "location": {
+          "line": true,
+          "lat": 30.08,
+          "lon": -94.126667,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Tuesday, April 26, 1836",
+        "text": {
+          "headline": "Tuesday, April 26, 1836.",
+          "text": "Arrived at Arsen le Blue Comarsac's. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTgyJTIzMTgzJTJDMTI4NSUyQzE4NDIlMkM2NTQlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/4a1a9a8e-c93c-3c65-98e2-df90a14c43d2/183,1285,1842,654/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 171"
+        },
+        "location": {
+          "line": true,
+          "lat": 30.08,
+          "lon": -94.126667,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Wednesday, April 27, 1836",
+        "text": {
+          "headline": "Wednesday, April 27, 1836.",
+          "text": "Arrived at Bayou Mermentau. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTgyJTIzMTgwJTJDMjI4MiUyQzE4MjYlMkMxMDg2JTIyJTJDJTIydHlwZSUyMiUzQSUyMkNhbnZhcyUyMiUyQyUyMnBhcnRPZiUyMiUzQSU1QiU3QiUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ0YW11bGliLWRjLWxhYnMuZ2l0aHViLmlvJTJGY3VzdG9tLWlpaWYtbWFuaWZlc3RzJTJGbWFuaWZlc3RzJTJGZ3JheS1kaWFyeSUyRmdyYXktdjMuanNvbiUyMiUyQyUyMnR5cGUlMjIlM0ElMjJNYW5pZmVzdCUyMiU3RCU1RCU3RCU3RA' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/4a1a9a8e-c93c-3c65-98e2-df90a14c43d2/180,2282,1826,1086/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 171"
+        },
+        "location": {
+          "line": true,
+          "lat": 30.08,
+          "lon": -94.126667,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Thursday, April 28, 1836",
+        "text": {
+          "headline": "Thursday, April 28, 1836.",
+          "text": "Left for Vermilion River, arrived at Abshear's, near Nunez, Louisiana. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTgzJTIzMjc1JTJDMTA2OSUyQzE5NTMlMkM3MTglMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/ccd2e85c-0aab-3ff5-96f3-2e452fac660a/275,1069,1953,718/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 172"
+        },
+        "location": {
+          "line": true,
+          "lat": 29.991389,
+          "lon": -92.228611,
+          "zoom": 10
+        }
+      },
+      {
+        "date": "Friday, April 29, 1836",
+        "text": {
+          "headline": "Friday, April 29, 1836.",
+          "text": "Arrived at Nunez's, near Perry, Louisiana. <a href='https://theseusviewer.org/?iiif-content=JTdCJTIyJTQwY29udGV4dCUyMiUzQSUyMmh0dHAlM0ElMkYlMkZpaWlmLmlvJTJGYXBpJTJGcHJlc2VudGF0aW9uJTJGMyUyRmNvbnRleHQuanNvbiUyMiUyQyUyMmlkJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZleGFtcGxlLm9yZyUyRmltcG9ydCUyRjElMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQW5ub3RhdGlvbiUyMiUyQyUyMm1vdGl2YXRpb24lMjIlM0ElNUIlMjJjb250ZW50U3RhdGUlMjIlNUQlMkMlMjJ0YXJnZXQlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYXBpLmxpYnJhcnkudGFtdS5lZHUlMkZpaWlmLXNlcnZpY2UlMkZmZWRvcmElMkZjYW52YXMlMkYzYiUyRjZmJTJGYzMlMkYyNSUyRjNiNmZjMzI1LWY2Y2EtNDFkOC1iOTFlLThjNWRiM2JlOGMxMyUyRmdyYXlkaWFyeS1zYWZfb2JqZWN0cyUyRjIlMkZwYWdlcyUyRnBhZ2VfMTgzJTIzMTk5JTJDMjQyOCUyQzE5NjklMkM4NDYlMjIlMkMlMjJ0eXBlJTIyJTNBJTIyQ2FudmFzJTIyJTJDJTIycGFydE9mJTIyJTNBJTVCJTdCJTIyaWQlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnRhbXVsaWItZGMtbGFicy5naXRodWIuaW8lMkZjdXN0b20taWlpZi1tYW5pZmVzdHMlMkZtYW5pZmVzdHMlMkZncmF5LWRpYXJ5JTJGZ3JheS12My5qc29uJTIyJTJDJTIydHlwZSUyMiUzQSUyMk1hbmlmZXN0JTIyJTdEJTVEJTdEJTdE' target=\"_blank\">Read more from this entry.</a>"
+        },
+        "media": {
+          "url": "https://api.library.tamu.edu/iiif/2/ccd2e85c-0aab-3ff5-96f3-2e452fac660a/199,2428,1969,846/full/0/default.jpg",
+          "credit": "",
+          "caption": "Vol 1, Pg. 172"
+        },
+        "location": {
+          "line": true,
+          "lat": 29.951944,
+          "lon": -92.153889,
+          "zoom": 10
+        }
+      },
+      {
         "date": "Wednesday, June 1, 1836",
         "text": {
           "headline": "Wednesday, June 1, 1836.",
