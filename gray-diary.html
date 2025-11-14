@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>William Fairfax Gray Diary</title>
+  <script src="https://unpkg.com/mirador/dist/mirador.min.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/mirador/dist/mirador.min.css">
+
+  <style>
+    body, html {
+      margin: 0;
+      height: 100%;
+      width: 100%;
+    }
+    #mirador {
+      height: 100vh;
+      width: 100vw;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="mirador"></div>
+
+  <script>
+    Mirador.viewer({
+      id: 'mirador',
+
+      windows: [
+        {
+          manifestId: 'https://tamulib-dc-labs.github.io/custom-iiif-manifests/manifests/gray-diary/graydiary-search.json',
+          thumbnailNavigationPosition: 'off-canvas',
+          thumbnailNavigationDisplay: 'visible'
+        }
+      ],
+     window: {
+        allowClose: false,
+        defaultSideBarPanel: 'search',
+        sideBarOpenByDefault: true,
+      },
+      workspace: {
+        type: 'mosaic'
+      }
+    });
+  </script>
+
+</body>
+</html>
