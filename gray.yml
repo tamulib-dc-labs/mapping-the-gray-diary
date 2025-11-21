@@ -502,3 +502,237 @@ Vol 4:
     -label: "New Orleans, Louisiana"
     longitude: 29.976111
     latitude: -90.078333
+Vol 5:
+  -label: "Tuesday, January 19, 1836"
+  start: 91
+  end: 92
+  locations: 
+    -label: "New Orleans, Louisiana"
+    longitude: 29.976111
+    latitude: -90.078333
+  -label: "Wednesday, January 20, 1836"
+  start: 92
+  end: 93
+  locations:
+    -label: "Donaldsonville, Louisiana"
+    longitude: 30.1
+    latitude: -90.994167
+    -label: "Placquemine, Louisiana"
+    longitude: 30.281389
+    latitude: -91.248889
+    -label: "Baton Rouge, Louisiana"
+    longitude: 30.4475
+    latitude: -91.178611
+    -label: "Pointe Coupee Parish, Louisiana"
+    longitude: 30.71
+    latitude: -91.6
+    -label: "St. Francisville, Louisiana"
+    longitude: 30.784722
+    latitude: -91.380556
+  -label: "Thursday, January 21, 1836"
+  start: 93
+  end: 95
+  locations: 
+    -label: "Avoyelles Parish"
+    longitude: 31
+    latitude: -92
+  -label: "Friday, January 22, 1836"
+  start: 95
+  end: 96
+  locations:
+    -label: "Alexandria, Lousiana"  
+    longitude: 31.291667
+    latitude: -92.47
+  -label: "Saturday, January 23, 1836"
+  start: 96
+  end: 96
+  locations:
+    -label: "Natchitoches, Louisiana"
+    longitude: 31.747222
+    latitude: -93.113889
+  -label: "Tuesday, January 26, 1836"
+  start: 98
+  end: 98
+  locations:
+    -label: "Natchitoches, Louisiana"
+    longitude: 31.747222
+    latitude: -93.113889
+    -label: "Fort Jesup"
+    longitude: 31.611389
+    latitude: -93.400833
+  -label: "Thursday, January 28, 1836"
+  start: 98
+  end: 99
+  locations: 
+    -label: "Fort Jesup"
+    longitude: 31.611389
+    latitude: -93.400833
+    -label: "Gaines' Ferry"
+    longitude: 31.34
+    latitude: -93.85
+  -label: "Friday, January 29, 1836"
+  start: 99
+  end: 100
+  locations:
+    -label: "Gaines' Ferry"
+    longitude: 31.34
+    latitude: -93.85
+    # -label: "Maximillian's"
+    # -label: "Robert's"
+  -label: "Saturday, January 30, 1836"
+  start: 100
+  end: 100
+  locations: 
+    # -label: "Robert's"
+    -label: "San Augustine, Texas"
+    longitude: 31.53
+    latitude: -94.111389
+    # -label: "General McFarland's"
+    # -label: "Dr. Lawhon's"
+  -label: "Sunday, January 31, 1836"
+  start: 101
+  end: 101
+  locations:
+    # -label: "Dr. Lawhon's"
+    -label: "Ayish Bayou"
+    longitude: 31.066667
+    latitude: -94.083333
+    -label: "Attoyac River"
+    longitude: 31.711
+    latitude: -94.4145
+    # -label: "Morel"
+    -label: "Nacogdoches, Texas"
+    longitude: 31.63
+    latitude: -94.628611
+Vol 6:
+  -label: "Sunday, February 7, 1836"
+  start: 109
+  end: 111
+  locations:
+    -label: "Nacogdoches, Texas"
+    longitude: 31.63
+    latitude: -94.628611
+    # -label: "Col. John Durst's"
+  -label: "Monday, February 8, 1836"
+  start: 111
+  end: 113
+  locations: 
+    # -label: "Col. John Durst's"
+    -label: "Angelina River"
+    longitude: 30.894644
+    latitude: -94.197693
+    # -label: "Col. Peter Ellis Bean's"
+    # -label: "McLean's"
+  -label: "Tuesday, February 9, 1836"
+  start: 113
+  end: 114
+  locations:
+    # -label: "McLean's"
+    # -label: "Jacob Master's"
+    -label: "Hurricane Bayou"
+    longitude: 31.35304769495766
+    latitude: -95.51101643980655
+    # -label: "Henry Master's"
+    # -label: "Colin Aldridge's"
+  -label: "Wednesday, February 10, 1836"
+  start: 114
+  end: 116
+  locations: 
+    # -label: "Colin Aldridge's"
+    # -label: "Larrison's"
+  -label: "Thursday, February 11, 1836"
+  start: 116
+  end: 117
+  locations:
+    # -label: "Larrison's"
+    # -label: "Sims'"
+    -label: "Anderson, Texas"
+    longitude: 30.487222
+    latitude: -95.99
+  -label: "Friday, February 12, 1836"
+  start: 117
+  end: 118
+  locations: 
+    -label: "Anderson, Texas"
+    longitude: 30.487222
+    latitude: -95.99
+    # -label: "Boatwright's" 
+  -label: "Saturday, February 13, 1836"
+  start: 118
+  end: 120
+  locations: 
+    # -label: "Boatwright's"
+    # -label: "Lot's"
+    -label: "Washington-on-the-Brazos, Texas"
+    longitude: 30.325278
+    latitude: -96.156667
+  -label: "Sunday, February 14, 1836"
+  start: 120
+  end: 120
+  locations:
+    -label: "Washington-on-the-Brazos, Texas"
+    longitude: 30.325278
+    latitude: -96.156667
+    # -label: "Lakey's"
+  -label: "Monday, February 15, 1836"
+  start: 121
+  end: 122
+  locations:
+    # -label: "Lakey's"
+    # -label: "Colonel Edwards'" 
+    # -label: "Cummins'"
+  -label: "Tuesday, February 16, 1836"
+  start: 122
+  end: 124
+  locations: 
+    # -label: "Cummins'"
+    -label: "San Felipe, Texas"
+    longitude: 29.794444
+    latitude: -96.104722
+  -label: "Thursday, February 18, 1836"
+  start: 125
+  end: 126
+  locations: 
+    -label: "San Felipe, Texas"
+    longitude: 29.794444
+    latitude: -96.104722
+    # -label: "Cummins'"
+  -label: "Friday, February 19, 1836"
+  start: 126
+  end: 127
+  locations: 
+    # -label: "Cummins'"
+    # -label: "Colonel Edwards'" 
+  -label: "Sunday, February 21, 1836"
+  start: 128
+  end: 128
+  locations:  
+    # -label: "Colonel Edwards'" 
+    # -label: "Harry Davis Gary's"
+Vol 7:
+  -label: "Tuesday, February 23, 1836"
+  start: 129
+  end: 130
+  locations: 
+    # -label: "Harry Davis Gary's"
+    # -label: "Gideon Walker's"
+    # -label: "James Walker's"
+    -label: "Washington-on-the-Brazos, Texas"
+    longitude: 30.325278
+    latitude: -96.156667
+  -label: "Wednesday, February 24, 1836"
+  start: 130
+  end: 130
+  locations: 
+    -label: "Washington-on-the-Brazos, Texas"
+    longitude: 30.325278
+    latitude: -96.156667
+    # -label: "Foster's"
+  -label: "Thursday, February 25, 1836"
+  start: 130
+  end: 131
+  locations: 
+    # -label: "Foster's"
+    # -label: "Col. Edwards'"
+    # -label: "Cummins'"
+    # -label: "Borden's"
