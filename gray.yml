@@ -253,5 +253,252 @@ locations:
   -label: "Princeton, Mississippi"
   longitude: 33.050833
   latitude: -91.119444
-
-  
+-label: "Thursday, Octo. 29, 1835"
+start: 37
+end: 38
+locations: 
+  -label: "Princeton, Mississippi"
+  longitude: 33.050833
+  latitude: -91.119444
+  -label: "Vicksburg, Mississippi"
+  longitude: 32.3525
+  latitude: -90.8775
+Vol 3:
+  -label: "Wednesday, Nov. 11, 1835"
+  start: 45
+  end: 46
+  locations:
+    -label: "Vicksburg, Mississippi"
+    longitude: 32.3525
+    latitude: -90.8775
+  #  -label: "Cowan's"
+  -label: "Thursday, Nov. 12, 1835"
+  start: 46
+  end: 47
+  locations: 
+  #  -label: "Cowan's"
+  #  -label: "Moore's"
+    -label: "Clinton, Mississippi"
+    longitude: 32.358333
+    latitude: -90.355556
+  -label: "Friday, Nov. 13th, 1835"
+  start: 47
+  end: 47
+  locations: 
+    -label: "Clinton, Mississippi"
+    longitude: 32.358333
+    latitude: -90.355556
+    -label: "Jackson, Mississippi"
+    longitude: 32.298889
+    latitude: -90.184722
+  -label: Saturday, Nov. 14, 1835
+  start: 47
+  end: 49
+  locations:
+    -label: "Jackson, Mississippi"
+    longitude: 32.298889
+    latitude: -90.184722
+    # -label: "William Morrison's"
+    -label: "Clinton, Mississippi"
+    longitude: 32.358333
+    latitude: -90.355556
+  -label: "Sunday, Nov. 15, 1835"
+  start: 49
+  end: 50
+  locations: 
+    -label: "Clinton, Mississippi"
+    longitude: 32.358333
+    latitude: -90.355556
+    # -label: "Peebles'"
+    # -label: "Hensley's"
+  -label: "Monday, Nov. 16, 1835"
+  start: 50
+  end: 50
+  locations: 
+    # -label: "Hensley's"
+    -label: "Vicksburg, Mississippi"
+    longitude: 32.3525
+    latitude: -90.8775
+  -label: "Tuesday, Nov. 17, 1835"
+  start: 50
+  end: 50
+  locations:
+    -label: "Vicksburg, Mississippi"
+    longitude: 32.3525
+    latitude: -90.8775
+    # -label: "Dr. George Smith's plantation"
+  -label: "Thursday, Nov. 19, 1835"
+  start: 51
+  end: 52 
+  locations: 
+    # -label: "Dr. George Smith's plantation"
+    # -label: "Ridge Road"
+    # -label: "Chambers'"
+  -label: "Friday, Nov. 20, 1835"
+  start: 52
+  end: 53
+  locations:
+    # -label: "Chambers'"
+    # -label: "Ridge Road"
+    # -label: "Stamply's"
+  -label: "Saturday, Nov. 21, 1835"
+  start: 53
+  end: 54
+  locations: 
+    # -label: "Stamply's"
+    # -label: "Dr. Clarkson's"
+    # -label: "Cullen's"
+  -label: "Monday, Nov. 23, 1835"
+  start: 54
+  end: 54
+  locations: 
+    # -label: "Cullen's"
+    -label: "Yazoo City, Mississippi"
+    longitude: 32.866667
+    latitude: -90.403333
+    # -label: "Cullen's"
+  -label: "Tuesday, Nov. 24, 1835"
+  start: 54
+  end: 56
+  locations:
+    # -label: "Cullen's"
+    -label: "Yazoo City, Mississippi"
+    longitude: 32.866667
+    latitude: -90.403333
+    # -label: "Joseph J. B. White's"
+  -label: "Wednesday, Nov. 25, 1835"
+  start: 56
+  end: 57
+  locations: 
+    # -label: "Joseph J. B. White's"
+    -label: "Panther Creek"
+    longitude: 32.724303935253495
+    latitude: -89.99210370447642
+    # -label: "Lee's plantation"
+    # -label: "George Callahan's, on the plantation of Mr. Hughes"
+  -label: "Thursday, Nov. 26, 1835"
+  start: 57
+  end: 58
+  locations:
+    # -label: "George Callahan's, on the plantation of Mr. Hughes"
+    -label: "Near Silver Creek"
+    longitude: 31.52640039697558 
+    latitude: -90.04213656237795
+  -label: "Saturday, Dec. 5, 1835"
+  start: 62
+  end: 62
+  locations: 
+    -label: "Near Silver Creek"
+    longitude: 31.52640039697558 
+    latitude: -90.04213656237795
+    # -label: "George Callahan's, on the plantation of Mr. Hughes"
+  -label: "Sunday, Dec. 6, 1835"
+  start: 62
+  end: 63
+  locations: 
+    # -label: "George Callahan's, on the plantation of Mr. Hughes"
+    -label: "Panther Creek"
+    longitude: 32.724303935253495
+    latitude: -89.99210370447642 
+    # -label: "Joseph J. B. White's"
+  -label: "Monday, Dec. 7, 1835"
+  start: 63
+  end: 63
+  locations: 
+    # -label: "Joseph J. B. White's"
+    -label: "Liverpool, Mississippi"
+    longitude: 32.713056
+    latitude: -90.501389
+  -label: "Tuesday, Dec. 8, 1835"
+  start: 63
+  end: 64
+  locations:
+    -label: "Liverpool, Mississippi"
+    longitude: 32.713056
+    latitude: -90.501389 
+    -label: "Vicksburg, Mississippi"
+    longitude: 32.3525
+    latitude: -90.8775
+Vol 4:
+  -label: "Monday, Dec. 21, 1835"
+  start: 67
+  end: 67
+  locations: 
+    -label: "Vicksburg, Mississippi"
+    longitude: 32.3525
+    latitude: -90.8775
+    -label: "Bridgeport, Mississippi"
+    longitude: 32.86009953758176
+    latitude: -89.83202209027436
+  -label: "Tuesday, Dec. 22, 1835"
+  start: 67
+  end: 68
+  locations:
+    -label: "Bridgeport, Mississippi"
+    longitude: 32.86009953758176
+    latitude: -89.83202209027436
+    -label: "Clinton, Mississippi"
+    longitude: 32.358333
+    latitude: -90.355556
+  -label: "Thursday, Dec. 24, 1835"
+  start: 68
+  end: 69
+  locations:
+    -label: "Clinton, Mississippi"
+    longitude: 32.358333
+    latitude: -90.355556
+    -label: "Vicksburg, Mississippi"
+    longitude: 32.3525
+    latitude: -90.8775
+  -label: "Saturday, Dec. 26, 1835"
+  start: 69
+  end: 70
+  locations: 
+    -label: "Vicksburg, Mississippi"
+    longitude: 32.3525
+    latitude: -90.8775
+    -label: "Warrenton, Mississippi"
+    longitude: 32.2475
+    latitude: -90.928333
+    -label: "Grand Gulph, Mississippi"
+    longitude: 32.033333
+    latitude: -91.0525
+  -label: "Sunday, Dec. 27, 1835"
+  start: 70
+  end: 70
+  locations:
+    -label: "Natchez, Mississippi"
+    longitude: 31.554444
+    latitude: -91.3875
+    -label: "Fort Adams, Mississippi"
+    longitude: 31.086667
+    latitude: -91.548056
+    -label: "St. Francisville, Louisiana"
+    longitude: 30.784722
+    latitude: -91.380556
+    -label: "Pointe Coupee Parish, Louisiana"
+    longitude: 30.71
+    latitude: -91.6
+    -label: "Port Hudson, Louisiana"
+    longitude: 30.678056
+    latitude: -91.268889
+    -label: "Baton Rouge, Louisiana"
+    longitude: 30.4475
+    latitude: -91.178611
+    # -label: "Iberville Parish, Louisiana"
+    # longitude: 30.26
+    # latitude: -91.35
+    -label: "Placquemine, Louisiana"
+    longitude: 30.281389
+    latitude: -91.248889
+  -label: "Monday, Dec. 28, 1835"
+  start: 70
+  end: 72
+  locations: 
+    -label: "Donaldsonville, Louisiana"
+    longitude: 30.1
+    latitude: -90.994167
+    # -label: "Madame Toureau's plantation"
+    -label: "New Orleans, Louisiana"
+    longitude: 29.976111
+    latitude: -90.078333
