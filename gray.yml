@@ -84,4 +84,174 @@ Vol 1:
     -label: "Guyandotte, West Virginia"
     longitude: 38.426944
     latitude: -82.385278
+  -label: "Monday, Octo. 12, 1835"
+  start: 19
+  end: 20
+  locations:
+    -label: "Guyandotte, West Virginia"
+    longitude: 38.426944
+    latitude: -82.385278
+  -label: "Tuesday, Octo. 13th, 1835"
+  start: 20
+  end: 21
+  locations: 
+    -label: "Portsmouth, Ohio"
+    longitude: 38.739444
+    latitude: -82.944444
+    -label: "Vanceburg, Kentucky"
+    longitude: 38.594444
+    latitude: -83.324444
+    -label: "Manchester, Ohio"
+    longitude: 38.684722
+    latitude: -83.614722
+    -label: "Rockville, Ohio"
+    longitude: 38.617222
+    latitude: -83.271667
+  -label: "Wednesday, Octo. 14, 1835"
+  start: 21
+  end: 22
+  locations:
+    -label: "Cincinnati, Ohio"
+    longitude: 39.102438
+    latitude: -84.513301
+  -label: "Thursday, Octo. 15, 1835"
+  start: 22
+  end: 23
+  locations: 
+    -label: "Cincinnati, Ohio"
+    longitude: 39.102438
+    latitude: -84.513301
+    -label: "Lawrenceburg, Indiana"
+    longitude: 39.118333
+    latitude: -84.885
+    -label: "Vevay, Indiana"
+    longitude: 38.745833
+    latitude: -85.071111
+    -label: "Ghent, Kentucky"
+    longitude: 38.733889
+    latitude: -85.061389
+    -label: "Madison, Indiana"
+    longitude: 38.758333
+    latitude: -85.397222
+  -label: "Friday, Octo. 16, 1835"
+  start: 23
+  end: 24
+  locations:
+    -label: "Louisville, Kentucky"
+    longitude: 38.256111
+    latitude: -85.751389
+  -label: "Saturday, Octo. 17, 1835"
+  start: 24
+  end: 26
+  locations: 
+    -label: "Louisville, Kentucky"
+    longitude: 38.256111
+    latitude: -85.751389
+    -label: "Shippingport, Kentucky"
+    longitude: 38.2751
+    latitude: -85.7786
+    -label: "New Albany, Indiana"
+    longitude: 38.309167
+    latitude: -85.823333
+    -label: "West Point, Kentucky"
+    longitude: 37.998889
+    latitude: -85.9525
+   # -label: "Buck Creek, Indiana"
+   # -label: "Northampton, Indiana"
+    -label: "Indian Creek, Indiana"
+    longitude: 38.866389
+    latitude: -86.602778
+    -label: "Brandenburg, Kentucky"
+    longitude: 37.992778
+    latitude: -86.174722
+  -label: "Sunday, Octo. 18, 1835"
+  start: 26
+  end: 26
+  locations: 
+    -label: "Owensboro, Kentucky"
+    lontitude: 37.757778
+    latitude: -87.118333
+  -label: "Monday, Octo. 19, 1835"
+  start: 26
+  end: 27
+  locations: 
+    -label: "Cave in Rock State Park"
+    longitude: 37.468611
+    latitude: -88.155833
+Vol 2: 
+  -label: "Tuesday, Octo. 20, 1835"
+  start: 28
+  end: 29
+  locations: 
+    -label: "Smithland, Kentucky"
+    longitude: 37.138611
+    latitude: -88.403889
+    -label: "Paducah, Kentucky"
+    longitude: 37.072222
+    latitude: -88.6275
+  -label: "Wednesday, Octo. 21, 1835"
+  start: 29
+  end: 30
+  locations: 
+    -label: "Hickman, Kentucky"
+    longitude: 36.567222
+    latitude: -89.186389
+  -label: "Thursday, Octo. 22nd, 1835"
+  start: 30
+  end: 31
+  locations: 
+    -label: "Randolph, Tennessee"
+    longitude: 35.516389
+    latitude: -89.888611
+    -label: "Memphis, Tennessee"
+    longitude: 35.146111
+    latitude: -90.051944
+  -label: "Friday, Octo. 23rd, 1835"
+  start: 31
+  end: 32
+  locations:
+    -label: "Memphis, Tennessee"
+    longitude: 35.146111
+    latitude: -90.051944
+    -label: "Helena, Arkansas"
+    longitude: 34.529167
+    latitude: -90.586111
+  -label: "Sunday, Octo. 25th, 1835"
+  start: 33
+  end: 34
+  locations:
+    -label: "Helena, Arkansas"
+    longitude: 34.529167
+    latitude: -90.586111
+  -label: "Monday, Octo. 26, 1835"
+  start: 34
+  end: 34
+  locations:
+    -label: "Princeton, Mississippi"
+    longitude: 33.050833
+    latitude: -91.119444
+  -label: "Tuesday, Octo. 27, 1835"
+  start: 35
+  end: 36
+  locations: 
+    -label: "Princeton, Mississippi"
+    longitude: 33.050833
+    latitude: -91.119444
+    -label: "Lake Jackson"
+    longitude: 33.050878
+    latitude: -91.107175
+    -label: "Lake Washington"
+    longitude: 33.0667
+    latitude: 91.046772
+-label: Wednesday, Octo. 28, 1835
+start: 36
+end: 37
+locations: 
+  -label: "Lake Washington"
+  longitude: 33.0667
+  latitude: 91.046772
+  -label: "Princeton, Mississippi"
+  longitude: 33.050833
+  latitude: -91.119444
+
   
