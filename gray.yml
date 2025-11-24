@@ -735,4 +735,302 @@ Vol 7:
     # -label: "Foster's"
     # -label: "Col. Edwards'"
     # -label: "Cummins'"
-    # -label: "Borden's"
+    # -label: "Gail Borden's"
+  -label: "Friday, February 26, 1836"
+  start: 131
+  end: 131
+  locations:
+    # -label: "Gail Borden's"
+    # -label: "Cummins'"
+    # -label: "Dr. Peebles' plantation"
+    # -label: "Col. Edwards'"
+  -label: "Saturday, February 27, 1836"
+  start: 132
+  end: 132
+  locations:
+    # -label: "Col. Edwards'"
+    # -label: "Mrs. Panky's"
+    -label: "Washington-on-the-Brazos, Texas"
+    longitude: 30.325278
+    latitude: -96.156667
+  -label: "Thursday, March 17, 1836"
+  start: 145
+  end: 147
+  locations:
+    -label: "Washington-on-the-Brazos, Texas"
+    longitude: 30.325278
+    latitude: -96.156667
+    # -label: "Whiteside's"
+  -label: "Friday, March 17, 1836"
+  start: 147
+  end: 148
+  locations: 
+    # -label: "Whiteside's"
+    # -label: "Groce's"
+Vol 8:
+  -label: "Monday, March 21, 1836"
+  start: 154
+  end: 155
+  locations: 
+    # -label: "Groce's"
+    # -label: "McEarly's"
+  -label: "Tuesday, March 22, 1836"
+  start: 155
+  end: 156
+  locations:
+    # -label: "McEarly's"
+    # -label: "Roberts'"
+    label: "Harrisburg, Texas"
+    longitude: 29.7162
+    latitude: 95.2776
+  -label: "Wednesday, March 23, 1836"
+  start: 156
+  end: 158
+  locations:
+    label: "Harrisburg, Texas"
+    longitude: 29.7162
+    latitude: 95.2776
+    # -label: "Atkins'"
+    -label: "House of Lorenzo de Zavala"
+    longitude: 29.73740767679599
+    latitude: -95.28951072883515
+  -label: "Thursday, March 24, 1836"
+  start: 158
+  end: 159
+  locations:
+    -label: "House of Lorenzo de Zavala"
+    longitude: 29.73740767679599
+    latitude: -95.28951072883515
+    -label: "Lynchburg, Texas"
+    longitude: 29.78717
+    latitude: -95.055485
+    # -label: "Atkins'"
+    # -label: "Earle's"
+  -label: "Friday, March 25, 1836"
+  start: 159
+  end: 160
+  locations:
+    # -label: "Earle's"
+    # -label: "William Vince's"
+    label: "Harrisburg, Texas"
+    longitude: 29.7162
+    latitude: 95.2776
+  -label: "Monday, April 4, 1836"
+  start: 164
+  end: 165
+  locations:
+    # -label: "Earle's"
+    # -label: "Atkins'"
+    -label: "Lynchburg, Texas"
+    longitude: 29.78717
+    latitude: -95.055485
+    -label: "Morgan's Point, Texas"
+    longitude: 29.676389
+    latitude: -94.999444
+  -label: "Thursday, April 7, 1936"
+  start: 166
+  end: 167
+  locations:
+    -label: "Morgan's Point, Texas"
+    longitude: 29.676389
+    latitude: -94.999444
+    -label: "Galveston, Texas"
+    longitude: 29.301389
+    latitude: -94.797778
+  -label: "Saturday, April 9, 1836"
+  start: 169
+  end: 170
+  locations: 
+    -label: "Galveston, Texas"
+    longitude: 29.301389
+    latitude: -94.797778
+    -label: "Point Bolivar, Texas"
+    longitude: 29.380833
+    latitude: -94.764444
+  -label: "Sunday, April 10, 1836"
+  start: 170
+  end: 171
+  locations: 
+    -label: "Point Bolivar, Texas"
+    longitude: 29.380833
+    latitude: -94.764444
+    -label: "Clear Creek"
+    longitude: 29.5547
+    latitude: -95.018
+  -label: "Monday, April 11, 1836"
+  start: 171
+  end: 171
+  locations: 
+    -label: "Clear Creek"
+    longitude: 29.5547
+    latitude: -95.018
+    -label: "Morgan's Point, Texas"
+    longitude: 29.676389
+    latitude: -94.999444
+  -label: "Tuesday, April 12, 1836"
+  start: 171
+  end: 172
+  locations: 
+    -label: "Morgan's Point, Texas"
+    longitude: 29.676389
+    latitude: -94.999444
+    # -label: "Routh's"
+  -label: "Wednesday, April 13, 1836"
+  start: 172
+  end: 173
+  locations: 
+    # -label: "Routh's"
+    -label: "Lynchburg, Texas"
+    longitude: 29.78717
+    latitude: -95.055485
+Vol 9:
+  -label: "Saturday, April 16, 1836"
+  start: 175
+  end: 176
+  locations: 
+    -label: "Lynchburg, Texas"
+    longitude: 29.78717
+    latitude: -95.055485
+    # -label: Twelve miles from Jacob Winfree's
+  -label: "Sunday, April 17, 1836"
+  start: 176
+  end: 177
+  locations: 
+    # -label: "Jacob Winfree's"
+    # -label: "Barrow's"
+    # -label: "Wallace's"
+  -label:  "Monday, April 18, 1836"
+  start: 177
+  end: 178
+  locations:
+    # -label: "Wallace's"
+    -label: "Anahauc, Texas"
+    longitude: 29.756944
+    latitude: -94.681389
+    # -label: "Taylor White's"
+  -label: "Tuesday, April 19, 1836"
+  start: 178
+  end: 178
+  locations:
+    -label: "Pine Island, Texas"
+    longitude: 30.063333
+    latitude: -96.023056
+    # -label: "Shoats'"
+    # -label: "Williams'"
+  -label: "Wednesday, April 20, 1836"
+  start: 178
+  end: 179
+  locations: 
+    # -label: "Williams'"
+    # -label: "Joseph Grigsby's"
+  -label: "Thursday, April 21, 1836"
+  start: 179
+  end: 180
+  locations:
+    # -label: "Joseph Grigsby's"
+    -label: "Beaumont, Texas"
+    longitude: 30.08
+    latitude: -94.126667
+  -label: "Friday, April 22, 1836"
+  start: 180
+  end: 181
+  locations: 
+    -label: "Beaumont, Texas"
+    longitude: 30.08
+    latitude: -94.126667
+    # -label: "Ashworth's ferry"
+  -label: "Saturday, April 23, 1836"
+  start: 181
+  end: 182
+  locations: 
+    # -label: "Ashworth's ferry"
+    # -label: "Hatton's"
+    # -label: "Patillo's"
+    -label: "Cow Bayou"
+    longitude: 30.021944
+    latitude: -93.745278
+    -label: "Adams' Bayou"
+    longitude: 30.11219635374182
+    latitude: -93.76602133730434
+    # -label: "Cypress Bayou"
+    # -label: "Ballow's ferry"
+  -label: "Monday, April 25, 1836"
+  start: 182
+  end: 183
+  locations: 
+    # -label: "Ballow's ferry"
+    # -label: "James Lyons'"
+    # -label: "Hardy Cowherd's"
+  -label: "Tuesday, April 26, 1836"
+  start: 183
+  end: 183
+  locations:
+    # -label: "Hardy Cowherd's"
+    # -label: "Dr. R. Neblett's"
+    # -label: "Rees Perkins'"
+    # -label: "Arsen Le Blue Comarsac's"
+  -label: "Wednesday, April 27, 1836"
+  start: 183
+  end: 184
+  locations: 
+    # -label: "Arsen Le Blue Comarsac's"
+    # -label: "Miles Welch's"
+    -label: "Mermentau, Louisiana"
+    longitude: 30.1875
+    latitude: -92.583889
+  -label: "Thursday, April 28, 1836"
+  start: 184
+  end: 184
+  locations:
+    -label: "Mermentau, Louisiana"
+    longitude: 30.1875
+    latitude: -92.583889
+    # -label: "Asa Abshear's"
+  -label: "Friday, April 29, 1836"
+  start: 184
+  end: 184
+  locations:
+    # -label: "Asa Abshear's"
+    # -label: "Sebastian Nunez's"
+  -label: "Saturday, April 30, 1836"
+  start: 185
+  end: 185
+  locations: 
+    # -label: "Sebastian Nunez's"
+    # -label: "Perry's ferry"
+    # -label: "Madame Cigout's plantation"
+    # -label: "Caesar Dublanc's plantation"
+    # -label: "St. Mark Darby's mansion"
+    -label: "New Iberia, Louisiana"
+    longitude: 30.003611
+    latitude: -91.818333
+  -label: "Sunday, May 1, 1836"
+  start: 186
+  end: 186
+  locations:  
+    -label: "New Iberia, Louisiana"
+    longitude: 30.003611
+    latitude: -91.818333
+    # -label: John D. Wilkins'"
+  -label: "Monday, May 2, 1836"
+  start: 186
+  end: 187
+  locations:
+    # -label: John D. Wilkins'"
+    -label: "New Iberia, Louisiana"
+    longitude: 30.003611
+    latitude: -91.818333
+  -label: "Tuesday, May 3, 1836"
+  start: 187
+  end: 188
+  locations:
+    -label: "New Iberia, Louisiana"
+    longitude: 30.003611
+    latitude: -91.818333
+    # -label: "Baron Bayard's"
+    # -label: "Major Fusillier's"
+    # -label: "Winthrop Hardin's"
+    # -label: "Monsieur Preyeaur's"
+    -label: Franklin, Louisiana
+    longitude: 29.791667
+    latitude: -91.508333
