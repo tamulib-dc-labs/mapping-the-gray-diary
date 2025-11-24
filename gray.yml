@@ -1034,3 +1034,370 @@ Vol 9:
     -label: Franklin, Louisiana
     longitude: 29.791667
     latitude: -91.508333
+  -label: "Wednesday, May 4, 1836"
+  start: 188
+  end: 189
+  locations:
+    -label: Franklin, Louisiana
+    longitude: 29.791667
+    latitude: -91.508333
+    -label: "Bayou Teche"
+    longitude: 29.721667
+    latitude: -91.299167
+  -label: "Thursday, May 5, 1836"
+  start: 189
+  end: 190
+  locations:
+    -label: "Placquemine, Louisiana"
+    longitude: 30.281389
+    latitude: -91.248889
+    -label: "New Orleans, Louisiana"
+    longitude: 29.976111
+    latitude: -90.078333
+  -label: "Saturday, May 21, 1836"
+  start: 194
+  end: 194
+  locations:
+    -label: "New Orleans, Louisiana"
+    longitude: 29.976111
+    latitude: -90.078333
+    -label: "Lake Pontchartrain"
+    longitude: 30.188889
+    latitude: -90.101389
+    -label: "The Rigolets"
+    longitude: 30.154444
+    latitude: -89.625278
+    -label: "Lake Borgne"
+    longitude: 30.028056
+    latitude: -89.6175
+    -label: "Biloxi, Mississippi"
+    longitude: 30.411944
+    latitude: -88.927778
+  -label: "Sunday, May 22, 1836"
+  start: 194
+  end: 195
+  locations:
+    -label: "Mississippi Sound"
+    longitude: 30.266667
+    latitude: -88.516667
+    -label: "Mobile Bay"
+    longitude: 30.442778
+    latitude: -88.009167
+    -label: "Mobile, Alabama"
+    longitude: 30.6675
+    latitude: -88.101111
+  -label: "Tuesday, May 24, 1836"
+  start: 195
+  end: 196
+  locations:
+    -label: "Mobile, Alabama"
+    longitude: 30.6675
+    latitude: -88.101111
+    # -label: "Labuzan's"
+    -label: "Mobile, Alabama"
+    longitude: 30.6675
+    latitude: -88.101111
+  -label: "Wednesday, May 25, 1836"
+  start: 196
+  end: 196
+  locations:
+    -label: "Lake Borgne"
+    longitude: 30.028056
+    latitude: -89.6175
+    -label: "New Orleans, Louisiana"
+    longitude: 29.976111
+    latitude: -90.078333
+  -label: "Monday, May 30, 1836"
+  start: 197
+  end: 197
+  locations:
+    -label: "New Orleans, Louisiana"
+    longitude: 29.976111
+    latitude: -90.078333
+  -label: "Tuesday, May 31, 1836"
+  start: 197
+  end: 198
+  locations:
+    -label: "Bonnet Carre Spillway"
+    longitude: 30.002222
+    latitude: -90.441389
+    # -label: "General Hampton's"
+    -label: "Donaldsonville, Louisiana"
+    longitude: 30.1
+    latitude: -90.994167
+  -label: "Wednesday, June 1, 1836"
+  start: 198
+  end: 198
+  locations:
+    -label: "Port Hudson, Louisiana"
+    longitude: 30.678056
+    latitude: -91.268889
+    -label: "Pointe Coupee Parish, Louisiana"
+    longitude: 30.71
+    latitude: -91.6
+    -label: "St. Francisville, Louisiana"
+    longitude: 30.784722
+    latitude: -91.380556
+    -label: "Tunica Bend"
+    longitude: 30.92140342219356
+    latitude: -91.53540205459458
+    -label: "Fort Adams, Mississippi"
+    longitude: 31.086667
+    latitude: -91.548056
+Vol 10:
+  -label: "Thursday, June 2, 1836"
+  start: 198
+  end: 198
+  locations:
+    -label: "Natchez, Mississippi"
+    longitude: 31.554444
+    latitude: -91.3875
+    -label: "Rodney, Mississippi"
+    longitude: 31.861278
+    latitude: -91.199833
+    -label: "Bruinsburg, Mississippi"
+    longitude: 31.9425
+    latitude: -91.157222
+  -label: "Friday, June 3, 1836"
+  start: 198
+  end: 198
+  locations:
+    -label: "Vicksburg, Mississippi"
+    longitude: 32.3525
+    latitude: -90.8775
+  -label: "Saturday, June 4, 1836"
+  start: 198
+  end: 199
+  locations:
+    -label: "Vicksburg, Mississippi"
+    longitude: 32.3525
+    latitude: -90.8775
+  -label: "Monday, June 6, 1836"
+  start: 199
+  end: 199
+  locations:
+    -label: "Memphis, Tennessee"
+    longitude: 35.146111
+    latitude: -90.051944
+  -label: "Tuesday, June 7, 1836"
+  start: 199
+  end: 200
+  locations:
+    -label: "Randolph, Tennessee"
+    longitude: 35.516389
+    latitude: -89.888611
+  -label: "Wednesday, June 8, 1836"
+  start: 200
+  end: 200
+  locations:
+    -label: "New Madrid, Missouri"
+    longitude: 36.587778
+    latitude: -89.550556
+    -label: "Hickman, Kentucky"
+    longitude: 36.567222
+    latitude: -89.186389
+    -label: "Paducah, Kentucky"
+    longitude: 37.072222
+    latitude: -88.6275
+    -label: "Smithland, Kentucky"
+    longitude: 37.138611
+    latitude: -88.403889
+  -label: "Thursday, June 9, 1836"
+  start: 200
+  end: 200
+  locations:
+    -label: "Livingston County, Kentucky"
+    longitude: 37.21
+    latitude: -88.35
+    -label: "Pope County, Illinois"
+    longitude: 37.41
+    latitude: -88.57
+    -label: "Cave in Rock State Park"
+    longitude: 37.468611
+    latitude: -88.155833
+  -label: "Friday, June 10, 1836"
+  start: 200
+  end: 200
+  locations:
+    -label: "Rockport, Indiana"
+    longitude: 37.889444
+    latitude: -87.054167
+    -label: "Troy, Indiana"
+    longitude: 37.999444
+    latitude: -86.793889
+    -label: "Cloverport, Kentucky"
+    longitude: 37.834167
+    latitude: -86.631944
+    -label: "Stephensport, Kentucky"
+    longitude: 37.9125
+    latitude: -86.527222
+    -label: "Rome, Indiana"
+    longitude: 37.923333
+    latitude: -86.523611
+    -label: "Leavenworth, Indiana"
+    longitude: 38.199722
+    latitude: -86.345556
+  -label: "Saturday, June 11, 1836"
+  start: 200
+  end: 201
+  locations:
+    -label: "Portland, Kentucky"
+    longitude: 38.2692
+    latitude: -85.8108
+    -label: "Louisville, Kentucky"
+    longitude: 38.256111
+    latitude: -85.751389
+  -label: "Tuesday, June 14, 1836"
+  start: 201
+  end: 201
+  locations:
+    -label: "Louisville, Kentucky"
+    longitude: 38.256111
+    latitude: -85.751389
+  -label: "Wednesday, June 15, 1836"
+  start: 201
+  end: 202
+  locations:
+    -label: "Cincinnati, Ohio"
+    longitude: 39.102438
+    latitude: -84.513301
+  -label: "Thursday, June 16, 1836"
+  start: 202
+  end: 202
+  locations:
+    -label: "Maysville, Kentucky"
+    longitude: 38.643889
+    latitude: -83.775833
+    -label: "Alexandria, Ohio"
+    longitude: 40.09
+    latitude: -82.611944
+    -label: "Manchester, Ohio"
+    longitude: 38.684722
+    latitude: -83.614722
+    -label: "Vanceburg, Kentucky"
+    longitude: 38.594444
+    latitude: -83.324444 
+    -label: "Portsmouth, Ohio"
+    longitude: 38.739444
+    latitude: -82.944444
+    # -label: "Greenupsburg"
+  -label: "Friday, June 17, 1836"
+  start: 202
+  end: 202
+  locations:
+    -label: "Guyandotte, West Virginia"
+    longitude: 38.426944
+    latitude: -82.385278
+    -label: "Gallipolis, Ohio"
+    longitude: 38.818611
+    latitude: -82.193333
+    -label: Point Pleasant, West Virginia
+    longitude: 38.8575
+    latitude: -82.128611
+  -label: "Saturday, June 18, 1836"
+  start: 202
+  end: 202
+  locations:
+    -label: "Marietta, Ohio"
+    longitude: 39.424167
+    latitude: -81.446389
+    -label: "Moundsville, West Virginia"
+    longitude: 39.916667
+    latitude: -80.733333
+    -label: "Wheeling, West Virginia"
+    longitude: 40.070278
+    latitude: -80.698611
+  -label: "Sunday, June 19, 1836"
+  start: 202
+  end: 203
+  locations:
+    -label: "Wheeling, West Virginia"
+    longitude: 40.070278
+    latitude: -80.698611
+    -label: "Warren, Ohio"
+    longitude: 41.238333
+    latitude: -80.814444
+    -label: "Wellsburg, West Virginia"
+    longitude: 40.27737
+    latitude: -80.609349
+    -label: "Steubenville, Ohio"
+    longitude: 40.365278
+    latitude: -80.633333
+    -label: "Wellsville, Ohio"
+    longitude: 40.604167
+    latitude: -80.655
+    -label: "East Liverpool, Ohio"
+    longitude: 40.628611
+    latitude: -80.571944
+    -label: "Beaver, Pennsylvania"
+    longitude: 40.694722
+    latitude: -80.3075
+    # -label: "New Philadelphia"
+    -label: "Freedom, Pennsylvania"
+    longitude: 40.684444
+    latitude: -80.251667
+    # -label: "Shaw's Town, Pennsylvania"
+  -label: "Monday, June 20, 1836"
+  start: 203
+  end: 203
+  locations:
+    -label: "Pittsburgh, Pennsylvania"
+    longitude: 40.439722
+    latitude: -79.976389
+  -label: "Tuesday, June 21, 1836"
+  start: 203
+  end: 204
+  locations: 
+    -label: "Pittsburgh, Pennsylvania"
+    longitude: 40.439722
+    latitude: -79.976389
+  -label: "Wednesday, June 22, 1836"
+  start: 204
+  end: 204
+  locations:
+    # -label: "Natton's"
+    # -label: "John Lambert's"
+    -label: "Beford, Pennsylvania"
+    longitude: 40.016389
+    latitude: -78.504167
+  -label: "Thursday, June 23, 1836"
+  start: 204
+  end: 204
+  locations:
+    -label: "Beford, Pennsylvania"
+    longitude: 40.016389
+    latitude: -78.504167
+    -label: "Chambersburg, Pennsylvania"
+    longitude: 39.9375
+    latitude: -77.661111
+  -label: "Friday, June 24, 1836"
+  start: 204
+  end: 205
+  locations:
+    -label: "Gettysburg, Pennsylvania"
+    longitude: 39.828333
+    latitude: -77.232222
+    -label: "Baltimore, Maryland"
+    longitude: 39.289444
+    latitude: -76.615278
+  -label: "Saturday, June 25, 1836"
+  start: 205
+  end: 205
+  locations:
+    -label: "Baltimore, Maryland"
+    longitude: 39.289444
+    latitude: -76.615278
+    -label: "Washington, DC"
+    longitude: 38.904722
+    latitude: -77.016389
+  -label: "Sunday, June 26, 1836"
+  start: 205
+  end: 205
+  locations:
+    -label: "Potomac Creek"
+    longitude: 38.347347
+    latitude: -77.286369
+    -label: "Fredericksburg, Virginia"
+    longitude: 38.301829
+    latitude: -77.470778
+    
