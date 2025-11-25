@@ -1,1523 +1,1523 @@
 Vol 1:
-  -label: "Tuesday, Octo. 6th, 1835"
-  start: 13
-  end: 14
-  locations:
-    -label: "Fredericksburg, Virginia"
-    longitude: 38.301829
-    latitude: -77.470778
-    -label: "Orange, Virginia"
-    longitude: 38.245833
-    latitude: -78.109722
-  -label: "Wednesday, Octo. 7, 1835"
-  start: 14
-  end: 15
-  locations: 
-    -label: "Orange, Virginia"
-    longitude: 38.245833
-    latitude: -78.109722
-    -label: "Barboursville, Virginia"
-    longitude: 38.162375
-    latitude: -78.280689
-    -label: "Charlottesville, Virginia"
-    longitude: 38.0299
-    latitude: -78.479
-    -label: "Waynesburg, Virginia"
-    longitude: 38.07
-    latitude: -78.894444
-    -label: "Staunton, Virginia"
-    longitude: 38.158056
-    latitude: -79.076389
-  -label: "Thursday, Octo. 8, 1835"
-  start: 15
-  end: 15
-  locations:
-    -label: "Staunton, Virginia"
-    longitude: 38.158056
-    latitude: -79.076389
-    -label: "Warm Springs, Virginia"
-    longitude: 38.046111
-    latitude: -79.790556
-    -label: "Hot Springs, Virginia"
-    longitude: 37.999722
-    latitude: -79.832222
-  -label: "Friday, Octo. 9, 1835"
-  start: 16
-  end: 17
-  locations: 
-    -label: "Hot Springs, Virginia"
-    longitude: 37.999722
-    latitude: -79.832222
-    # -label: "Pat Callahan's at the east foot of the Alleghanys"
-    -label: "White Sulphur Springs, West Virginia"
-    latitude: 37.798333
-    longitude: -80.300278
-    -label: "Lewisburg, West Virginia"
-    longitude: 37.801667
-    latitude: -80.445556
-  -label: "Saturday, Octo. 10, 1835"
-  start: 17
-  end: 18
-  locations:
-    -label: "Lewisburg, West Virginia"
-    longitude: 37.801667
-    latitude: -80.445556
-    -label: "New Haven, West Virginia"
-    longitude: 38.987778
-    latitude: -81.964167
-    -label: "Hawksnest, West Virginia"
-    longitude: 38.116934
-    latitude: -81.115108
-    -label: "Falls of Kenawha"
-    longitude: 38.1425
-    latitude: -81.206389
-    -label: "Charleston, West Virginia"
-    longitude: 38.349819
-    latitude: -81.632622
-  -label: "Sunday, Octo. 11th, 1835"
-  start: 18
-  end: 19
-  locations:
-    -label: "Charleston, West Virginia"
-    longitude: 38.349819
-    latitude: -81.632622
-    -label: "Guyandotte, West Virginia"
-    longitude: 38.426944
-    latitude: -82.385278
-  -label: "Monday, Octo. 12, 1835"
-  start: 19
-  end: 20
-  locations:
-    -label: "Guyandotte, West Virginia"
-    longitude: 38.426944
-    latitude: -82.385278
-  -label: "Tuesday, Octo. 13th, 1835"
-  start: 20
-  end: 21
-  locations: 
-    -label: "Portsmouth, Ohio"
-    longitude: 38.739444
-    latitude: -82.944444
-    -label: "Vanceburg, Kentucky"
-    longitude: 38.594444
-    latitude: -83.324444
-    -label: "Manchester, Ohio"
-    longitude: 38.684722
-    latitude: -83.614722
-    -label: "Rockville, Ohio"
-    longitude: 38.617222
-    latitude: -83.271667
-  -label: "Wednesday, Octo. 14, 1835"
-  start: 21
-  end: 22
-  locations:
-    -label: "Cincinnati, Ohio"
-    longitude: 39.102438
-    latitude: -84.513301
-  -label: "Thursday, Octo. 15, 1835"
+  Tuesday, Octo. 6th, 1835:
+    start: 13
+    end: 14
+    locations:
+      Fredericksburg, Virginia:
+        longitude: 38.301829
+        latitude: -77.470778
+      Orange, Virginia:
+        longitude: 38.245833
+        latitude: -78.109722
+  Wednesday, Octo. 7, 1835:
+    start: 14
+    end: 15
+    locations: 
+      Orange, Virginia:
+        longitude: 38.245833
+        latitude: -78.109722
+      Barboursville, Virginia:
+        longitude: 38.162375
+        latitude: -78.280689
+      Charlottesville, Virginia:
+        longitude: 38.0299
+        latitude: -78.479
+      Waynesburg, Virginia:
+        longitude: 38.07
+        latitude: -78.894444
+      Staunton, Virginia:
+        longitude: 38.158056
+        latitude: -79.076389
+  Thursday, Octo. 8, 1835:
+    start: 15
+    end: 15
+    locations:
+      Staunton, Virginia:
+        longitude: 38.158056
+        latitude: -79.076389
+      Warm Springs, Virginia:
+        longitude: 38.046111
+        latitude: -79.790556
+      Hot Springs, Virginia:
+        longitude: 37.999722
+        latitude: -79.832222
+  Friday, Octo. 9, 1835:
+    start: 16
+    end: 17
+    locations: 
+      Hot Springs, Virginia:
+        longitude: 37.999722
+        latitude: -79.832222
+      # Pat Callahan's at the east foot of the Alleghanys:
+      White Sulphur Springs, West Virginia:
+        latitude: 37.798333
+        longitude: -80.300278
+      Lewisburg, West Virginia:
+        longitude: 37.801667
+        latitude: -80.445556
+  Saturday, Octo. 10, 1835:
+    start: 17
+    end: 18
+    locations:
+      Lewisburg, West Virginia:
+        longitude: 37.801667
+        latitude: -80.445556
+      New Haven, West Virginia:
+        longitude: 38.987778
+        latitude: -81.964167
+      Hawksnest, West Virginia:
+        longitude: 38.116934
+        latitude: -81.115108
+      Falls of Kenawha:
+        longitude: 38.1425
+        latitude: -81.206389
+      Charleston, West Virginia:
+        longitude: 38.349819
+        latitude: -81.632622
+  Sunday, Octo. 11th, 1835:
+    start: 18
+    end: 19
+    locations:
+      Charleston, West Virginia:
+        longitude: 38.349819
+        latitude: -81.632622
+      Guyandotte, West Virginia:
+        longitude: 38.426944
+        latitude: -82.385278
+  Monday, Octo. 12, 1835:
+    start: 19
+    end: 20
+    locations:
+      Guyandotte, West Virginia:
+        longitude: 38.426944
+        latitude: -82.385278
+  Tuesday, Octo. 13th, 1835:
+    start: 20
+    end: 21
+    locations: 
+      Portsmouth, Ohio:
+        longitude: 38.739444
+        latitude: -82.944444
+      Vanceburg, Kentucky:
+        longitude: 38.594444
+        latitude: -83.324444
+      Manchester, Ohio:
+        longitude: 38.684722
+        latitude: -83.614722
+      Rockville, Ohio:
+        longitude: 38.617222
+        latitude: -83.271667
+  Wednesday, Octo. 14, 1835:
+    start: 21
+    end: 22
+    locations:
+      Cincinnati, Ohio:
+        longitude: 39.102438
+        latitude: -84.513301
+  Thursday, Octo. 15, 1835:
   start: 22
   end: 23
   locations: 
-    -label: "Cincinnati, Ohio"
-    longitude: 39.102438
-    latitude: -84.513301
-    -label: "Lawrenceburg, Indiana"
-    longitude: 39.118333
-    latitude: -84.885
-    -label: "Vevay, Indiana"
-    longitude: 38.745833
-    latitude: -85.071111
-    -label: "Ghent, Kentucky"
-    longitude: 38.733889
-    latitude: -85.061389
-    -label: "Madison, Indiana"
-    longitude: 38.758333
-    latitude: -85.397222
-  -label: "Friday, Octo. 16, 1835"
-  start: 23
-  end: 24
-  locations:
-    -label: "Louisville, Kentucky"
-    longitude: 38.256111
-    latitude: -85.751389
-  -label: "Saturday, Octo. 17, 1835"
-  start: 24
-  end: 26
-  locations: 
-    -label: "Louisville, Kentucky"
-    longitude: 38.256111
-    latitude: -85.751389
-    -label: "Shippingport, Kentucky"
-    longitude: 38.2751
-    latitude: -85.7786
-    -label: "New Albany, Indiana"
-    longitude: 38.309167
-    latitude: -85.823333
-    -label: "West Point, Kentucky"
-    longitude: 37.998889
-    latitude: -85.9525
-   # -label: "Buck Creek, Indiana"
-   # -label: "Northampton, Indiana"
-    -label: "Indian Creek, Indiana"
-    longitude: 38.866389
-    latitude: -86.602778
-    -label: "Brandenburg, Kentucky"
-    longitude: 37.992778
-    latitude: -86.174722
-  -label: "Sunday, Octo. 18, 1835"
-  start: 26
-  end: 26
-  locations: 
-    -label: "Owensboro, Kentucky"
-    lontitude: 37.757778
-    latitude: -87.118333
-  -label: "Monday, Octo. 19, 1835"
-  start: 26
-  end: 27
-  locations: 
-    -label: "Cave in Rock State Park"
-    longitude: 37.468611
-    latitude: -88.155833
+    Cincinnati, Ohio:
+      longitude: 39.102438
+      latitude: -84.513301
+    Lawrenceburg, Indiana:
+      longitude: 39.118333
+      latitude: -84.885
+    Vevay, Indiana:
+      longitude: 38.745833
+      latitude: -85.071111
+    Ghent, Kentucky:
+      longitude: 38.733889
+      latitude: -85.061389
+    Madison, Indiana:
+      longitude: 38.758333
+      latitude: -85.397222
+  Friday, Octo. 16, 1835:
+    start: 23
+    end: 24
+    locations:
+      Louisville, Kentucky:
+        longitude: 38.256111
+        latitude: -85.751389
+  Saturday, Octo. 17, 1835:
+    start: 24
+    end: 26
+    locations: 
+      Louisville, Kentucky:
+        longitude: 38.256111
+        latitude: -85.751389
+      Shippingport, Kentucky:
+        longitude: 38.2751
+        latitude: -85.7786
+      New Albany, Indiana:
+        longitude: 38.309167
+        latitude: -85.823333
+      West Point, Kentucky:
+        longitude: 37.998889
+        latitude: -85.9525
+    # Buck Creek, Indiana:
+    # Northampton, Indiana:
+      Indian Creek, Indiana:
+        longitude: 38.866389
+        latitude: -86.602778
+      Brandenburg, Kentucky:
+        longitude: 37.992778
+        latitude: -86.174722
+  Sunday, Octo. 18, 1835:
+    start: 26
+    end: 26
+    locations: 
+      Owensboro, Kentucky:
+        lontitude: 37.757778
+        latitude: -87.118333
+  Monday, Octo. 19, 1835:
+    start: 26
+    end: 27
+    locations: 
+      Cave in Rock State Park:
+        longitude: 37.468611
+        latitude: -88.155833
 Vol 2: 
-  -label: "Tuesday, Octo. 20, 1835"
-  start: 28
-  end: 29
-  locations: 
-    -label: "Smithland, Kentucky"
-    longitude: 37.138611
-    latitude: -88.403889
-    -label: "Paducah, Kentucky"
-    longitude: 37.072222
-    latitude: -88.6275
-  -label: "Wednesday, Octo. 21, 1835"
-  start: 29
-  end: 30
-  locations: 
-    -label: "Hickman, Kentucky"
-    longitude: 36.567222
-    latitude: -89.186389
-  -label: "Thursday, Octo. 22nd, 1835"
-  start: 30
-  end: 31
-  locations: 
-    -label: "Randolph, Tennessee"
-    longitude: 35.516389
-    latitude: -89.888611
-    -label: "Memphis, Tennessee"
-    longitude: 35.146111
-    latitude: -90.051944
-  -label: "Friday, Octo. 23rd, 1835"
-  start: 31
-  end: 32
-  locations:
-    -label: "Memphis, Tennessee"
-    longitude: 35.146111
-    latitude: -90.051944
-    -label: "Helena, Arkansas"
-    longitude: 34.529167
-    latitude: -90.586111
-  -label: "Sunday, Octo. 25th, 1835"
-  start: 33
-  end: 34
-  locations:
-    -label: "Helena, Arkansas"
-    longitude: 34.529167
-    latitude: -90.586111
-  -label: "Monday, Octo. 26, 1835"
-  start: 34
-  end: 34
-  locations:
-    -label: "Princeton, Mississippi"
-    longitude: 33.050833
-    latitude: -91.119444
-  -label: "Tuesday, Octo. 27, 1835"
-  start: 35
-  end: 36
-  locations: 
-    -label: "Princeton, Mississippi"
-    longitude: 33.050833
-    latitude: -91.119444
-    -label: "Lake Jackson"
-    longitude: 33.050878
-    latitude: -91.107175
-    -label: "Lake Washington"
-    longitude: 33.0667
-    latitude: 91.046772
--label: Wednesday, Octo. 28, 1835
-start: 36
-end: 37
-locations: 
-  -label: "Lake Washington"
-  longitude: 33.0667
-  latitude: 91.046772
-  -label: "Princeton, Mississippi"
-  longitude: 33.050833
-  latitude: -91.119444
--label: "Thursday, Octo. 29, 1835"
-start: 37
-end: 38
-locations: 
-  -label: "Princeton, Mississippi"
-  longitude: 33.050833
-  latitude: -91.119444
-  -label: "Vicksburg, Mississippi"
-  longitude: 32.3525
-  latitude: -90.8775
+  Tuesday, Octo. 20, 1835:
+    start: 28
+    end: 29
+    locations: 
+      Smithland, Kentucky:
+        longitude: 37.138611
+        latitude: -88.403889
+      Paducah, Kentucky:
+        longitude: 37.072222
+        latitude: -88.6275
+  Wednesday, Octo. 21, 1835:
+    start: 29
+    end: 30
+    locations: 
+      Hickman, Kentucky:
+        longitude: 36.567222
+        latitude: -89.186389
+  Thursday, Octo. 22nd, 1835:
+    start: 30
+    end: 31
+    locations: 
+      Randolph, Tennessee:
+        longitude: 35.516389
+        latitude: -89.888611
+      Memphis, Tennessee:
+        longitude: 35.146111
+        latitude: -90.051944
+  Friday, Octo. 23rd, 1835:
+    start: 31
+    end: 32
+    locations:
+      Memphis, Tennessee:
+        longitude: 35.146111
+        latitude: -90.051944
+      Helena, Arkansas:
+        longitude: 34.529167
+        latitude: -90.586111
+  Sunday, Octo. 25th, 1835:
+    start: 33
+    end: 34
+    locations:
+      Helena, Arkansas:
+        longitude: 34.529167
+        latitude: -90.586111
+  Monday, Octo. 26, 1835:
+    start: 34
+    end: 34
+    locations:
+      Princeton, Mississippi:
+        longitude: 33.050833
+        latitude: -91.119444
+  Tuesday, Octo. 27, 1835:
+    start: 35
+    end: 36
+    locations: 
+      Princeton, Mississippi:
+        longitude: 33.050833
+        latitude: -91.119444
+      Lake Jackson:
+        longitude: 33.050878
+        latitude: -91.107175
+      Lake Washington:
+        longitude: 33.0667
+        latitude: 91.046772
+  Wednesday, Octo. 28, 1835:
+    start: 36
+    end: 37
+    locations: 
+      Lake Washington:
+        longitude: 33.0667
+        latitude: 91.046772
+      Princeton, Mississippi:
+        longitude: 33.050833
+        latitude: -91.119444
+  Thursday, Octo. 29, 1835:
+    start: 37
+    end: 38
+    locations: 
+      Princeton, Mississippi:
+        longitude: 33.050833
+        latitude: -91.119444
+      Vicksburg, Mississippi:
+        longitude: 32.3525
+        latitude: -90.8775
 Vol 3:
-  -label: "Wednesday, Nov. 11, 1835"
-  start: 45
-  end: 46
-  locations:
-    -label: "Vicksburg, Mississippi"
-    longitude: 32.3525
-    latitude: -90.8775
-  #  -label: "Cowan's"
-  -label: "Thursday, Nov. 12, 1835"
-  start: 46
-  end: 47
-  locations: 
-  #  -label: "Cowan's"
-  #  -label: "Moore's"
-    -label: "Clinton, Mississippi"
-    longitude: 32.358333
-    latitude: -90.355556
-  -label: "Friday, Nov. 13th, 1835"
-  start: 47
-  end: 47
-  locations: 
-    -label: "Clinton, Mississippi"
-    longitude: 32.358333
-    latitude: -90.355556
-    -label: "Jackson, Mississippi"
-    longitude: 32.298889
-    latitude: -90.184722
-  -label: Saturday, Nov. 14, 1835
-  start: 47
-  end: 49
-  locations:
-    -label: "Jackson, Mississippi"
-    longitude: 32.298889
-    latitude: -90.184722
-    # -label: "William Morrison's"
-    -label: "Clinton, Mississippi"
-    longitude: 32.358333
-    latitude: -90.355556
-  -label: "Sunday, Nov. 15, 1835"
-  start: 49
-  end: 50
-  locations: 
-    -label: "Clinton, Mississippi"
-    longitude: 32.358333
-    latitude: -90.355556
-    # -label: "Peebles'"
-    # -label: "Hensley's"
-  -label: "Monday, Nov. 16, 1835"
-  start: 50
-  end: 50
-  locations: 
-    # -label: "Hensley's"
-    -label: "Vicksburg, Mississippi"
-    longitude: 32.3525
-    latitude: -90.8775
-  -label: "Tuesday, Nov. 17, 1835"
-  start: 50
-  end: 50
-  locations:
-    -label: "Vicksburg, Mississippi"
-    longitude: 32.3525
-    latitude: -90.8775
-    # -label: "Dr. George Smith's plantation"
-  -label: "Thursday, Nov. 19, 1835"
-  start: 51
-  end: 52 
-  locations: 
-    # -label: "Dr. George Smith's plantation"
-    # -label: "Ridge Road"
-    # -label: "Chambers'"
-  -label: "Friday, Nov. 20, 1835"
-  start: 52
-  end: 53
-  locations:
-    # -label: "Chambers'"
-    # -label: "Ridge Road"
-    # -label: "Stamply's"
-  -label: "Saturday, Nov. 21, 1835"
-  start: 53
-  end: 54
-  locations: 
-    # -label: "Stamply's"
-    # -label: "Dr. Clarkson's"
-    # -label: "Cullen's"
-  -label: "Monday, Nov. 23, 1835"
-  start: 54
-  end: 54
-  locations: 
-    # -label: "Cullen's"
-    -label: "Yazoo City, Mississippi"
-    longitude: 32.866667
-    latitude: -90.403333
-    # -label: "Cullen's"
-  -label: "Tuesday, Nov. 24, 1835"
-  start: 54
-  end: 56
-  locations:
-    # -label: "Cullen's"
-    -label: "Yazoo City, Mississippi"
-    longitude: 32.866667
-    latitude: -90.403333
-    # -label: "Joseph J. B. White's"
-  -label: "Wednesday, Nov. 25, 1835"
-  start: 56
-  end: 57
-  locations: 
-    # -label: "Joseph J. B. White's"
-    -label: "Panther Creek"
-    longitude: 32.724303935253495
-    latitude: -89.99210370447642
-    # -label: "Lee's plantation"
-    # -label: "George Callahan's, on the plantation of Mr. Hughes"
-  -label: "Thursday, Nov. 26, 1835"
-  start: 57
-  end: 58
-  locations:
-    # -label: "George Callahan's, on the plantation of Mr. Hughes"
-    -label: "Near Silver Creek"
-    longitude: 31.52640039697558 
-    latitude: -90.04213656237795
-  -label: "Saturday, Dec. 5, 1835"
-  start: 62
-  end: 62
-  locations: 
-    -label: "Near Silver Creek"
-    longitude: 31.52640039697558 
-    latitude: -90.04213656237795
-    # -label: "George Callahan's, on the plantation of Mr. Hughes"
-  -label: "Sunday, Dec. 6, 1835"
-  start: 62
-  end: 63
-  locations: 
-    # -label: "George Callahan's, on the plantation of Mr. Hughes"
-    -label: "Panther Creek"
-    longitude: 32.724303935253495
-    latitude: -89.99210370447642 
-    # -label: "Joseph J. B. White's"
-  -label: "Monday, Dec. 7, 1835"
-  start: 63
-  end: 63
-  locations: 
-    # -label: "Joseph J. B. White's"
-    -label: "Liverpool, Mississippi"
-    longitude: 32.713056
-    latitude: -90.501389
-  -label: "Tuesday, Dec. 8, 1835"
-  start: 63
-  end: 64
-  locations:
-    -label: "Liverpool, Mississippi"
-    longitude: 32.713056
-    latitude: -90.501389 
-    -label: "Vicksburg, Mississippi"
-    longitude: 32.3525
-    latitude: -90.8775
+  Wednesday, Nov. 11, 1835:
+    start: 45
+    end: 46
+    locations:
+      Vicksburg, Mississippi:
+        longitude: 32.3525
+        latitude: -90.8775
+      #  Cowan's:
+  Thursday, Nov. 12, 1835:
+    start: 46
+    end: 47
+    locations: 
+      #  Cowan's:
+      #  Moore's:
+      Clinton, Mississippi:
+        longitude: 32.358333
+        latitude: -90.355556
+  Friday, Nov. 13th, 1835:
+    start: 47
+    end: 47
+    locations: 
+      Clinton, Mississippi:
+        longitude: 32.358333
+        latitude: -90.355556
+      Jackson, Mississippi:
+        longitude: 32.298889
+        latitude: -90.184722
+  Saturday, Nov. 14, 1835:
+    start: 47
+    end: 49
+    locations:
+      Jackson, Mississippi:
+        longitude: 32.298889
+        latitude: -90.184722
+      # William Morrison's:
+      Clinton, Mississippi:
+        longitude: 32.358333
+        latitude: -90.355556
+  Sunday, Nov. 15, 1835:
+    start: 49
+    end: 50
+    locations: 
+      Clinton, Mississippi:
+        longitude: 32.358333
+        latitude: -90.355556
+      # Peebles':
+      # Hensley's:
+  Monday, Nov. 16, 1835:
+    start: 50
+    end: 50
+    locations: 
+      # Hensley's:
+      Vicksburg, Mississippi:
+        longitude: 32.3525
+        latitude: -90.8775
+  Tuesday, Nov. 17, 1835:
+    start: 50
+    end: 50
+    locations:
+      Vicksburg, Mississippi:
+        longitude: 32.3525
+        latitude: -90.8775
+      # Dr. George Smith's plantation:
+  Thursday, Nov. 19, 1835:
+    start: 51
+    end: 52 
+    locations: 
+      # Dr. George Smith's plantation:
+      # Ridge Road:
+      # Chambers':
+  Friday, Nov. 20, 1835:
+    start: 52
+    end: 53
+    locations:
+      # Chambers':
+      # Ridge Road:
+      # Stamply's:
+  Saturday, Nov. 21, 1835:
+    start: 53
+    end: 54
+    locations: 
+      # Stamply's:
+      # Dr. Clarkson's:
+      # Cullen's:
+  Monday, Nov. 23, 1835:
+    start: 54
+    end: 54
+    locations: 
+      # Cullen's:
+      Yazoo City, Mississippi:
+        longitude: 32.866667
+        latitude: -90.403333
+      # Cullen's:
+  Tuesday, Nov. 24, 1835:
+    start: 54
+    end: 56
+    locations:
+      # Cullen's:
+      Yazoo City, Mississippi:
+        longitude: 32.866667
+        latitude: -90.403333
+      # Joseph J. B. White's:
+  Wednesday, Nov. 25, 1835:
+    start: 56
+    end: 57
+    locations: 
+      # Joseph J. B. White's:
+      Panther Creek:
+        longitude: 32.724303935253495
+        latitude: -89.99210370447642
+      # Lee's plantation:
+      # George Callahan's, on the plantation of Mr. Hughes:
+  Thursday, Nov. 26, 1835:
+    start: 57
+    end: 58
+    locations:
+      # George Callahan's, on the plantation of Mr. Hughes:
+      Near Silver Creek:
+        longitude: 31.52640039697558 
+        latitude: -90.04213656237795
+  Saturday, Dec. 5, 1835:
+    start: 62
+    end: 62
+    locations: 
+      Near Silver Creek:
+        longitude: 31.52640039697558 
+        latitude: -90.04213656237795
+      # George Callahan's, on the plantation of Mr. Hughes:
+  Sunday, Dec. 6, 1835:
+    start: 62
+    end: 63
+    locations: 
+      # George Callahan's, on the plantation of Mr. Hughes:
+      Panther Creek:
+        longitude: 32.724303935253495
+        latitude: -89.99210370447642 
+      # Joseph J. B. White's:
+  Monday, Dec. 7, 1835:
+    start: 63
+    end: 63
+    locations: 
+      # Joseph J. B. White's:
+      Liverpool, Mississippi:
+        longitude: 32.713056
+        latitude: -90.501389
+  Tuesday, Dec. 8, 1835:
+    start: 63
+    end: 64
+    locations:
+      Liverpool, Mississippi:
+        longitude: 32.713056
+        latitude: -90.501389 
+      Vicksburg, Mississippi:
+        longitude: 32.3525
+        latitude: -90.8775
 Vol 4:
-  -label: "Monday, Dec. 21, 1835"
-  start: 67
-  end: 67
-  locations: 
-    -label: "Vicksburg, Mississippi"
-    longitude: 32.3525
-    latitude: -90.8775
-    -label: "Bridgeport, Mississippi"
-    longitude: 32.86009953758176
-    latitude: -89.83202209027436
-  -label: "Tuesday, Dec. 22, 1835"
-  start: 67
-  end: 68
-  locations:
-    -label: "Bridgeport, Mississippi"
-    longitude: 32.86009953758176
-    latitude: -89.83202209027436
-    -label: "Clinton, Mississippi"
-    longitude: 32.358333
-    latitude: -90.355556
-  -label: "Thursday, Dec. 24, 1835"
-  start: 68
-  end: 69
-  locations:
-    -label: "Clinton, Mississippi"
-    longitude: 32.358333
-    latitude: -90.355556
-    -label: "Vicksburg, Mississippi"
-    longitude: 32.3525
-    latitude: -90.8775
-  -label: "Saturday, Dec. 26, 1835"
-  start: 69
-  end: 70
-  locations: 
-    -label: "Vicksburg, Mississippi"
-    longitude: 32.3525
-    latitude: -90.8775
-    -label: "Warrenton, Mississippi"
-    longitude: 32.2475
-    latitude: -90.928333
-    -label: "Grand Gulph, Mississippi"
-    longitude: 32.033333
-    latitude: -91.0525
-  -label: "Sunday, Dec. 27, 1835"
-  start: 70
-  end: 70
-  locations:
-    -label: "Natchez, Mississippi"
-    longitude: 31.554444
-    latitude: -91.3875
-    -label: "Fort Adams, Mississippi"
-    longitude: 31.086667
-    latitude: -91.548056
-    -label: "St. Francisville, Louisiana"
-    longitude: 30.784722
-    latitude: -91.380556
-    -label: "Pointe Coupee Parish, Louisiana"
-    longitude: 30.71
-    latitude: -91.6
-    -label: "Port Hudson, Louisiana"
-    longitude: 30.678056
-    latitude: -91.268889
-    -label: "Baton Rouge, Louisiana"
-    longitude: 30.4475
-    latitude: -91.178611
-    # -label: "Iberville Parish, Louisiana"
-    # longitude: 30.26
-    # latitude: -91.35
-    -label: "Placquemine, Louisiana"
-    longitude: 30.281389
-    latitude: -91.248889
-  -label: "Monday, Dec. 28, 1835"
-  start: 70
-  end: 72
-  locations: 
-    -label: "Donaldsonville, Louisiana"
-    longitude: 30.1
-    latitude: -90.994167
-    # -label: "Madame Toureau's plantation"
-    -label: "New Orleans, Louisiana"
-    longitude: 29.976111
-    latitude: -90.078333
+  Monday, Dec. 21, 1835:
+    start: 67
+    end: 67
+    locations: 
+      Vicksburg, Mississippi:
+        longitude: 32.3525
+        latitude: -90.8775
+      Bridgeport, Mississippi:
+        longitude: 32.86009953758176
+        latitude: -89.83202209027436
+  Tuesday, Dec. 22, 1835:
+    start: 67
+    end: 68
+    locations:
+      Bridgeport, Mississippi:
+        longitude: 32.86009953758176
+        latitude: -89.83202209027436
+      Clinton, Mississippi:
+        longitude: 32.358333
+        latitude: -90.355556
+  Thursday, Dec. 24, 1835:
+    start: 68
+    end: 69
+    locations:
+      Clinton, Mississippi:
+        longitude: 32.358333
+        latitude: -90.355556
+      Vicksburg, Mississippi:
+        longitude: 32.3525
+        latitude: -90.8775
+  Saturday, Dec. 26, 1835:
+    start: 69
+    end: 70
+    locations: 
+      Vicksburg, Mississippi:
+        longitude: 32.3525
+        latitude: -90.8775
+      Warrenton, Mississippi:
+        longitude: 32.2475
+        latitude: -90.928333
+      Grand Gulph, Mississippi:
+        longitude: 32.033333
+        latitude: -91.0525
+  Sunday, Dec. 27, 1835:
+    start: 70
+    end: 70
+    locations:
+      Natchez, Mississippi:
+        longitude: 31.554444
+        latitude: -91.3875
+      Fort Adams, Mississippi:
+        longitude: 31.086667
+        latitude: -91.548056
+      St. Francisville, Louisiana:
+        longitude: 30.784722
+        latitude: -91.380556
+      Pointe Coupee Parish, Louisiana:
+        longitude: 30.71
+        latitude: -91.6
+      Port Hudson, Louisiana:
+        longitude: 30.678056
+        latitude: -91.268889
+      Baton Rouge, Louisiana:
+        longitude: 30.4475
+        latitude: -91.178611
+      # Iberville Parish, Louisiana:
+      # longitude: 30.26
+      # latitude: -91.35
+      Placquemine, Louisiana:
+        longitude: 30.281389
+        latitude: -91.248889
+  Monday, Dec. 28, 1835:
+    start: 70
+    end: 72
+    locations: 
+      Donaldsonville, Louisiana:
+        longitude: 30.1
+        latitude: -90.994167
+      # Madame Toureau's plantation:
+      New Orleans, Louisiana:
+        longitude: 29.976111
+        latitude: -90.078333
 Vol 5:
-  -label: "Tuesday, January 19, 1836"
-  start: 91
-  end: 92
-  locations: 
-    -label: "New Orleans, Louisiana"
-    longitude: 29.976111
-    latitude: -90.078333
-  -label: "Wednesday, January 20, 1836"
-  start: 92
-  end: 93
-  locations:
-    -label: "Donaldsonville, Louisiana"
-    longitude: 30.1
-    latitude: -90.994167
-    -label: "Placquemine, Louisiana"
-    longitude: 30.281389
-    latitude: -91.248889
-    -label: "Baton Rouge, Louisiana"
-    longitude: 30.4475
-    latitude: -91.178611
-    -label: "Pointe Coupee Parish, Louisiana"
-    longitude: 30.71
-    latitude: -91.6
-    -label: "St. Francisville, Louisiana"
-    longitude: 30.784722
-    latitude: -91.380556
-  -label: "Thursday, January 21, 1836"
-  start: 93
-  end: 95
-  locations: 
-    -label: "Avoyelles Parish"
-    longitude: 31
-    latitude: -92
-  -label: "Friday, January 22, 1836"
-  start: 95
-  end: 96
-  locations:
-    -label: "Alexandria, Lousiana"  
-    longitude: 31.291667
-    latitude: -92.47
-  -label: "Saturday, January 23, 1836"
-  start: 96
-  end: 96
-  locations:
-    -label: "Natchitoches, Louisiana"
-    longitude: 31.747222
-    latitude: -93.113889
-  -label: "Tuesday, January 26, 1836"
-  start: 98
-  end: 98
-  locations:
-    -label: "Natchitoches, Louisiana"
-    longitude: 31.747222
-    latitude: -93.113889
-    -label: "Fort Jesup"
-    longitude: 31.611389
-    latitude: -93.400833
-  -label: "Thursday, January 28, 1836"
-  start: 98
-  end: 99
-  locations: 
-    -label: "Fort Jesup"
-    longitude: 31.611389
-    latitude: -93.400833
-    -label: "Gaines' Ferry"
-    longitude: 31.347222
-    latitude: -93.952778
-  -label: "Friday, January 29, 1836"
-  start: 99
-  end: 100
-  locations:
-    -label: "Gaines' Ferry"
-    longitude: 31.347222
-    latitude: -93.952778
-    # -label: "Maximillian's"
-    -label: "Robert's"
-    longitude: 31.537622492953286
-    latitude: -94.02923506813532
-  -label: "Saturday, January 30, 1836"
-  start: 100
-  end: 100
-  locations: 
-    -label: "Robert's"
-    longitude: 31.537622492953286
-    latitude: -94.02923506813532
-    -label: "San Augustine, Texas"
-    longitude: 31.53
-    latitude: -94.111389
-    -label: "General McFarland's"
-    longitude: 31.515718841328454
-    latitude: -94.33340383549468
-    # -label: "Dr. Lawhon's"
-  -label: "Sunday, January 31, 1836"
-  start: 101
-  end: 101
-  locations:
-    # -label: "Dr. Lawhon's"
-    -label: "Ayish Bayou"
-    longitude: 31.066667
-    latitude: -94.083333
-    -label: "Attoyac River"
-    longitude: 31.711
-    latitude: -94.4145
-    # -label: "Morel"
-    -label: "Nacogdoches, Texas"
-    longitude: 31.63
-    latitude: -94.628611
+  Tuesday, January 19, 1836:
+    start: 91
+    end: 92
+    locations: 
+      New Orleans, Louisiana:
+        longitude: 29.976111
+        latitude: -90.078333
+  Wednesday, January 20, 1836:
+    start: 92
+    end: 93
+    locations:
+      Donaldsonville, Louisiana:
+        longitude: 30.1
+        latitude: -90.994167
+      Placquemine, Louisiana:
+        longitude: 30.281389
+        latitude: -91.248889
+      Baton Rouge, Louisiana:
+        longitude: 30.4475
+        latitude: -91.178611
+      Pointe Coupee Parish, Louisiana:
+        longitude: 30.71
+        latitude: -91.6
+      St. Francisville, Louisiana:
+        longitude: 30.784722
+        latitude: -91.380556
+  Thursday, January 21, 1836:
+    start: 93
+    end: 95
+    locations: 
+      Avoyelles Parish:
+        longitude: 31
+        latitude: -92
+  Friday, January 22, 1836:
+    start: 95
+    end: 96
+    locations:
+      Alexandria, Lousiana:  
+        longitude: 31.291667
+        latitude: -92.47
+  Saturday, January 23, 1836:
+    start: 96
+    end: 96
+    locations:
+      Natchitoches, Louisiana:
+        longitude: 31.747222
+        latitude: -93.113889
+  Tuesday, January 26, 1836:
+    start: 98
+    end: 98
+    locations:
+      Natchitoches, Louisiana:
+        longitude: 31.747222
+        latitude: -93.113889
+      Fort Jesup:
+        longitude: 31.611389
+        latitude: -93.400833
+  Thursday, January 28, 1836:
+    start: 98
+    end: 99
+    locations: 
+      Fort Jesup:
+        longitude: 31.611389
+        latitude: -93.400833
+      Gaines' Ferry:
+        longitude: 31.347222
+        latitude: -93.952778
+  Friday, January 29, 1836:
+    start: 99
+    end: 100
+    locations:
+      Gaines' Ferry:
+        longitude: 31.347222
+        latitude: -93.952778
+      # Maximillian's:
+      Robert's:
+        longitude: 31.537622492953286
+        latitude: -94.02923506813532
+  Saturday, January 30, 1836:
+    start: 100
+    end: 100
+    locations: 
+      Robert's:
+        longitude: 31.537622492953286
+        latitude: -94.02923506813532
+      San Augustine, Texas:
+        longitude: 31.53
+        latitude: -94.111389
+      General McFarland's:
+        longitude: 31.515718841328454
+        latitude: -94.33340383549468
+      # Dr. Lawhon's:
+  Sunday, January 31, 1836:
+    start: 101
+    end: 101
+    locations:
+      # Dr. Lawhon's:
+      Ayish Bayou:
+        longitude: 31.066667
+        latitude: -94.083333
+      Attoyac River:
+        longitude: 31.711
+        latitude: -94.4145
+      # Morel:
+      Nacogdoches, Texas:
+        longitude: 31.63
+        latitude: -94.628611
 Vol 6:
-  -label: "Sunday, February 7, 1836"
-  start: 109
-  end: 111
-  locations:
-    -label: "Nacogdoches, Texas"
-    longitude: 31.63
-    latitude: -94.628611
-    -label: "Col. John Durst's"
-    longitude: 31.523640176132467
-    latitude: -94.86014610665234
-  -label: "Monday, February 8, 1836"
-  start: 111
-  end: 113
-  locations: 
-    -label: "Col. John Durst's"
-    longitude: 31.523640176132467
-    latitude: -94.86014610665234
-    -label: "Angelina River"
-    longitude: 30.894644
-    latitude: -94.197693
-    -label: "Col. Peter Ellis Bean's"
-    longitude: 31.440856319489647
-    latitude: -95.08194695613054
-    -label: "McLean's"
-    longitude: 31.304149764266455
-    latitude: -95.22410207767813
-  -label: "Tuesday, February 9, 1836"
-  start: 113
-  end: 114
-  locations:
-    -label: "McLean's"
-    longitude: 31.304149764266455
-    latitude: -95.22410207767813
-    -label: "Jacob Master's"
-    longitude: 31.21633006635656
-    latitude: -95.28837461267464
-    -label: "Hurricane Bayou"
-    longitude: 31.35304769495766
-    latitude: -95.51101643980655
-    -label: "Henry Master's"
-    longitude: 31.147055025057817
-    latitude: -95.44121167660421
-    -label: "Colin Aldridge's"
-    longitude: 30.999232738408335
-    latitude: -95.55150153467501
-  -label: "Wednesday, February 10, 1836"
-  start: 114
-  end: 116
-  locations: 
-    -label: "Colin Aldridge's"
-    longitude: 30.999232738408335
-    latitude: -95.55150153467501
-    -label: Robbins' Ferry
-    longitude: 30.944268708676656
-    latitude: -95.6645400312465
-    -label: "Larrison's"
-    longitude: 30.965898166469337
-    latitude: -95.7624740397834
-  -label: "Thursday, February 11, 1836"
-  start: 116
-  end: 117
-  locations:
-    -label: "Larrison's"
-    longitude: 30.965898166469337
-    latitude: -95.7624740397834
-    -label: "Sims'"
-    longitude: 30.857708719505347
-    latitude: -95.96357986876778
-    -label: "Anderson, Texas"
-    longitude: 30.487222
-    latitude: -95.99
-  -label: "Friday, February 12, 1836"
-  start: 117
-  end: 118
-  locations: 
-    -label: "Anderson, Texas"
-    longitude: 30.487222
-    latitude: -95.99
-    -label: "Boatwright's" 
-    longitude: 30.39524409205761
-    latitude: -95.99383959338775
-  -label: "Saturday, February 13, 1836"
-  start: 118
-  end: 120
-  locations: 
-    -label: "Boatwright's" 
-    longitude: 30.39524409205761
-    latitude: -95.99383959338775
-    # -label: "Lot's"
-    -label: "Washington-on-the-Brazos, Texas"
-    longitude: 30.325278
-    latitude: -96.156667
-  -label: "Sunday, February 14, 1836"
-  start: 120
-  end: 120
-  locations:
-    -label: "Washington-on-the-Brazos, Texas"
-    longitude: 30.325278
-    latitude: -96.156667
-    -label: "Lakey's"
-    longitude: 30.154810697286866
-    latitude: -96.2897047083157
-  -label: "Monday, February 15, 1836"
-  start: 121
-  end: 122
-  locations:
-    -label: "Lakey's"
-    longitude: 30.154810697286866
-    latitude: -96.2897047083157
-    -label: "Colonel Edwards'" 
-    longitude: 30.075035608303526
-    latitude: -96.26285863633964
-    -label: "Cummins'"
-    longitude: 29.860253622688166
-    latitude: -96.12188473143945
-  -label: "Tuesday, February 16, 1836"
-  start: 122
-  end: 124
-  locations: 
-    -label: "Cummins'"
-    longitude: 29.860253622688166
-    latitude: -96.12188473143945
-    -label: "San Felipe, Texas"
-    longitude: 29.794444
-    latitude: -96.104722
-  -label: "Thursday, February 18, 1836"
-  start: 125
-  end: 126
-  locations: 
-    -label: "San Felipe, Texas"
-    longitude: 29.794444
-    latitude: -96.104722
-    -label: "Cummins'"
-    longitude: 29.860253622688166
-    latitude: -96.12188473143945
-  -label: "Friday, February 19, 1836"
-  start: 126
-  end: 127
-  locations: 
-    -label: "Cummins'"
-    longitude: 29.860253622688166
-    latitude: -96.12188473143945
-    -label: "Colonel Edwards'" 
-    longitude: 30.075035608303526
-    latitude: -96.26285863633964
-  -label: "Sunday, February 21, 1836"
-  start: 128
-  end: 128
-  locations:  
-    -label: "Colonel Edwards'" 
-    longitude: 30.075035608303526
-    latitude: -96.26285863633964 
-    # -label: "Harry Davis Gary's"
+  Sunday, February 7, 1836:
+    start: 109
+    end: 111
+    locations:
+      Nacogdoches, Texas:
+        longitude: 31.63
+        latitude: -94.628611
+      Col. John Durst's:
+        longitude: 31.523640176132467
+        latitude: -94.86014610665234
+  Monday, February 8, 1836:
+    start: 111
+    end: 113
+    locations: 
+      Col. John Durst's:
+        longitude: 31.523640176132467
+        latitude: -94.86014610665234
+      Angelina River:
+        longitude: 30.894644
+        latitude: -94.197693
+      Col. Peter Ellis Bean's:
+        longitude: 31.440856319489647
+        latitude: -95.08194695613054
+      McLean's:
+        longitude: 31.304149764266455
+        latitude: -95.22410207767813
+  Tuesday, February 9, 1836:
+    start: 113
+    end: 114
+    locations:
+      McLean's:
+        longitude: 31.304149764266455
+        latitude: -95.22410207767813
+      Jacob Master's:
+        longitude: 31.21633006635656
+        latitude: -95.28837461267464
+      Hurricane Bayou:
+        longitude: 31.35304769495766
+        latitude: -95.51101643980655
+      Henry Master's:
+        longitude: 31.147055025057817
+        latitude: -95.44121167660421
+      Colin Aldridge's:
+        longitude: 30.999232738408335
+        latitude: -95.55150153467501
+  Wednesday, February 10, 1836:
+    start: 114
+    end: 116
+    locations: 
+      Colin Aldridge's:
+        longitude: 30.999232738408335
+        latitude: -95.55150153467501
+      Robbins' Ferry:
+        longitude: 30.944268708676656
+        latitude: -95.6645400312465
+      Larrison's:
+        longitude: 30.965898166469337
+        latitude: -95.7624740397834
+  Thursday, February 11, 1836:
+    start: 116
+    end: 117
+    locations:
+      Larrison's:
+        longitude: 30.965898166469337
+        latitude: -95.7624740397834
+      Sims':
+        longitude: 30.857708719505347
+        latitude: -95.96357986876778
+      Anderson, Texas:
+        longitude: 30.487222
+        latitude: -95.99
+  Friday, February 12, 1836:
+    start: 117
+    end: 118
+    locations: 
+      Anderson, Texas:
+        longitude: 30.487222
+        latitude: -95.99
+      Boatwright's: 
+        longitude: 30.39524409205761
+        latitude: -95.99383959338775
+  Saturday, February 13, 1836:
+    start: 118
+    end: 120
+    locations: 
+      Boatwright's: 
+        longitude: 30.39524409205761
+        latitude: -95.99383959338775
+      # Lot's:
+      Washington-on-the-Brazos, Texas:
+        longitude: 30.325278
+        latitude: -96.156667
+  Sunday, February 14, 1836:
+    start: 120
+    end: 120
+    locations:
+      Washington-on-the-Brazos, Texas:
+        longitude: 30.325278
+        latitude: -96.156667
+      Lakey's:
+        longitude: 30.154810697286866
+        latitude: -96.2897047083157
+  Monday, February 15, 1836:
+    start: 121
+    end: 122
+    locations:
+      Lakey's:
+        longitude: 30.154810697286866
+        latitude: -96.2897047083157
+      Colonel Edwards': 
+        longitude: 30.075035608303526
+        latitude: -96.26285863633964
+      Cummins':
+        longitude: 29.860253622688166
+        latitude: -96.12188473143945
+  Tuesday, February 16, 1836:
+    start: 122
+    end: 124
+    locations: 
+      Cummins':
+        longitude: 29.860253622688166
+        latitude: -96.12188473143945
+      San Felipe, Texas:
+        longitude: 29.794444
+        latitude: -96.104722
+  Thursday, February 18, 1836:
+    start: 125
+    end: 126
+    locations: 
+      San Felipe, Texas:
+        longitude: 29.794444
+        latitude: -96.104722
+      Cummins':
+        longitude: 29.860253622688166
+        latitude: -96.12188473143945
+  Friday, February 19, 1836:
+    start: 126
+    end: 127
+    locations: 
+      Cummins':
+        longitude: 29.860253622688166
+        latitude: -96.12188473143945
+      Colonel Edwards': 
+        longitude: 30.075035608303526
+        latitude: -96.26285863633964
+  Sunday, February 21, 1836:
+    start: 128
+    end: 128
+    locations:  
+      Colonel Edwards': 
+        longitude: 30.075035608303526
+        latitude: -96.26285863633964 
+      # Harry Davis Gary's:
 Vol 7:
-  -label: "Tuesday, February 23, 1836"
-  start: 129
-  end: 130
-  locations: 
-    # -label: "Harry Davis Gary's"
-    -label: "Walker's"
-    longitude: 29.884421305557087
-    latitude: -96.16112789972867
-    -label: "Washington-on-the-Brazos, Texas"
-    longitude: 30.325278
-    latitude: -96.156667
-  -label: "Wednesday, February 24, 1836"
-  start: 130
-  end: 130
-  locations: 
-    -label: "Washington-on-the-Brazos, Texas"
-    longitude: 30.325278
-    latitude: -96.156667
-    # -label: "Foster's"
-  -label: "Thursday, February 25, 1836"
-  start: 130
-  end: 131
-  locations: 
-    # -label: "Foster's"
-    -label: "Colonel Edwards'" 
-    longitude: 30.075035608303526
-    latitude: -96.26285863633964
-    -label: "Cummins'"
-    longitude: 29.860253622688166
-    latitude: -96.12188473143945
-    # -label: "Gail Borden's"
-  -label: "Friday, February 26, 1836"
-  start: 131
-  end: 131
-  locations:
-    # -label: "Gail Borden's"
-    -label: "Cummins'"
-    longitude: 29.860253622688166
-    latitude: -96.12188473143945
-    -label: "Dr. Peebles' plantation"
-    longitude: 30.187821293021564
-    latitude: -96.17609640174446
-    -label: "Colonel Edwards'" 
-    longitude: 30.075035608303526
-    latitude: -96.26285863633964
-  -label: "Saturday, February 27, 1836"
-  start: 132
-  end: 132
-  locations:
-    -label: "Colonel Edwards'" 
-    longitude: 30.075035608303526
-    latitude: -96.26285863633964
-    # -label: "Mrs. Panky's"
-    -label: "Washington-on-the-Brazos, Texas"
-    longitude: 30.325278
-    latitude: -96.156667
-  -label: "Thursday, March 17, 1836"
-  start: 145
-  end: 147
-  locations:
-    -label: "Washington-on-the-Brazos, Texas"
-    longitude: 30.325278
-    latitude: -96.156667
-    -label: "Whiteside's"
-    longitude: 30.32817020981637
-    latitude: -96.099944233889
-  -label: "Friday, March 17, 1836"
-  start: 147
-  end: 148
-  locations: 
-    -label: "Whiteside's"
-    longitude: 30.32817020981637
-    latitude: -96.099944233889
-    -label: "Groce's plantation"
-    longitude: 30.132366907102696
-    latitude: -96.10486627910444
+  Tuesday, February 23, 1836:
+    start: 129
+    end: 130
+    locations: 
+      # Harry Davis Gary's:
+      Walker's:
+        longitude: 29.884421305557087
+        latitude: -96.16112789972867
+      Washington-on-the-Brazos, Texas:
+        longitude: 30.325278
+        latitude: -96.156667
+  Wednesday, February 24, 1836:
+    start: 130
+    end: 130
+    locations: 
+      Washington-on-the-Brazos, Texas:
+        longitude: 30.325278
+        latitude: -96.156667
+      # Foster's:
+  Thursday, February 25, 1836:
+    start: 130
+    end: 131
+    locations: 
+      # Foster's:
+      Colonel Edwards': 
+        longitude: 30.075035608303526
+        latitude: -96.26285863633964
+      Cummins':
+        longitude: 29.860253622688166
+        latitude: -96.12188473143945
+      # Gail Borden's:
+  Friday, February 26, 1836:
+    start: 131
+    end: 131
+    locations:
+      # Gail Borden's:
+      Cummins':
+        longitude: 29.860253622688166
+        latitude: -96.12188473143945
+      Dr. Peebles' plantation:
+        longitude: 30.187821293021564
+        latitude: -96.17609640174446
+      Colonel Edwards': 
+        longitude: 30.075035608303526
+        latitude: -96.26285863633964
+  Saturday, February 27, 1836:
+    start: 132
+    end: 132
+    locations:
+      Colonel Edwards': 
+        longitude: 30.075035608303526
+        latitude: -96.26285863633964
+      # Mrs. Panky's:
+      Washington-on-the-Brazos, Texas:
+        longitude: 30.325278
+        latitude: -96.156667
+  Thursday, March 17, 1836:
+    start: 145
+    end: 147
+    locations:
+      Washington-on-the-Brazos, Texas:
+        longitude: 30.325278
+        latitude: -96.156667
+      Whiteside's:
+        longitude: 30.32817020981637
+        latitude: -96.099944233889
+  Friday, March 17, 1836:
+    start: 147
+    end: 148
+    locations: 
+      Whiteside's:
+        longitude: 30.32817020981637
+        latitude: -96.099944233889
+      Groce's plantation:
+        longitude: 30.132366907102696
+        latitude: -96.10486627910444
 Vol 8:
-  -label: "Monday, March 21, 1836"
-  start: 154
-  end: 155
-  locations: 
-    -label: "Groce's plantation"
-    longitude: 30.132366907102696
-    latitude: -96.10486627910444
-    -label: "McEarly's"
-    longitude: 29.933775925184996
-    latitude: -95.86375441007462
-  -label: "Tuesday, March 22, 1836"
-  start: 155
-  end: 156
-  locations:
-    -label: "McEarly's"
-    longitude: 29.933775925184996
-    latitude: -95.86375441007462
-    -label: "Roberts'"
-    longitude: 29.826097843845243
-    latitude: -95.55188165325332
-    label: "Harrisburg, Texas"
-    longitude: 29.7162
-    latitude: 95.2776
-  -label: "Wednesday, March 23, 1836"
-  start: 156
-  end: 158
-  locations:
-    label: "Harrisburg, Texas"
-    longitude: 29.7162
-    latitude: 95.2776
-    -label: "Atkins'"
-    longitude: 29.876121498192774
-    latitude: -95.07071760101105
-    -label: "Lorenzo de Zavala's"
-    longitude: 29.73740767679599
-    latitude: -95.28951072883515
-  -label: "Thursday, March 24, 1836"
-  start: 158
-  end: 159
-  locations:
-    -label: "House of Lorenzo de Zavala"
-    longitude: 29.73740767679599
-    latitude: -95.28951072883515
-    -label: "Lynchburg, Texas"
-    longitude: 29.78717
-    latitude: -95.055485
-    -label: "Atkins'"
-    longitude: 29.876121498192774
-    latitude: -95.07071760101105
-    -label: "Earle's"
-    longitude: 29.822946570735013
-    latitude: -95.11560408851852
-  -label: "Friday, March 25, 1836"
-  start: 159
-  end: 160
-  locations:
-    -label: "Earle's"
-    longitude: 29.822946570735013
-    latitude: -95.11560408851852
-    -label: "William Vince's"
-    longitude: 29.667057288027806
-    latitude: -95.14735306748723
-    label: "Harrisburg, Texas"
-    longitude: 29.7162
-    latitude: 95.2776
-  -label: "Monday, April 4, 1836"
-  start: 164
-  end: 165
-  locations:
-    -label: "Earle's"
-    longitude: 29.822946570735013
-    latitude: -95.11560408851852
-    -label: "Atkins'"
-    longitude: 29.876121498192774
-    latitude: -95.07071760101105
-    -label: "Lynchburg, Texas"
-    longitude: 29.78717
-    latitude: -95.055485
-    -label: "Morgan's Point, Texas"
-    longitude: 29.676389
-    latitude: -94.999444
-  -label: "Thursday, April 7, 1936"
-  start: 166
-  end: 167
-  locations:
-    -label: "Morgan's Point, Texas"
-    longitude: 29.676389
-    latitude: -94.999444
-    -label: "Galveston, Texas"
-    longitude: 29.301389
-    latitude: -94.797778
-  -label: "Saturday, April 9, 1836"
-  start: 169
-  end: 170
-  locations: 
-    -label: "Galveston, Texas"
-    longitude: 29.301389
-    latitude: -94.797778
-    -label: "Point Bolivar, Texas"
-    longitude: 29.380833
-    latitude: -94.764444
-  -label: "Sunday, April 10, 1836"
-  start: 170
-  end: 171
-  locations: 
-    -label: "Point Bolivar, Texas"
-    longitude: 29.380833
-    latitude: -94.764444
-    -label: "Clear Creek"
-    longitude: 29.5547
-    latitude: -95.018
-  -label: "Monday, April 11, 1836"
-  start: 171
-  end: 171
-  locations: 
-    -label: "Clear Creek"
-    longitude: 29.5547
-    latitude: -95.018
-    -label: "Morgan's Point, Texas"
-    longitude: 29.676389
-    latitude: -94.999444
-  -label: "Tuesday, April 12, 1836"
-  start: 171
-  end: 172
-  locations: 
-    -label: "Morgan's Point, Texas"
-    longitude: 29.676389
-    latitude: -94.999444
-    # -label: "Routh's"
-  -label: "Wednesday, April 13, 1836"
-  start: 172
-  end: 173
-  locations: 
-    # -label: "Routh's"
-    -label: "Lynchburg, Texas"
-    longitude: 29.78717
-    latitude: -95.055485
+  Monday, March 21, 1836:
+    start: 154
+    end: 155
+    locations: 
+      Groce's plantation:
+        longitude: 30.132366907102696
+        latitude: -96.10486627910444
+      McEarly's:
+        longitude: 29.933775925184996
+        latitude: -95.86375441007462
+  Tuesday, March 22, 1836:
+    start: 155
+    end: 156
+    locations:
+      McEarly's:
+        longitude: 29.933775925184996
+        latitude: -95.86375441007462
+      Roberts':
+        longitude: 29.826097843845243
+        latitude: -95.55188165325332
+      Harrisburg, Texas:
+        longitude: 29.7162
+        latitude: 95.2776
+  Wednesday, March 23, 1836:
+    start: 156
+    end: 158
+    locations:
+      Harrisburg, Texas:
+        longitude: 29.7162
+        latitude: 95.2776
+      Atkins':
+        longitude: 29.876121498192774
+        latitude: -95.07071760101105
+      Lorenzo de Zavala's:
+        longitude: 29.73740767679599
+        latitude: -95.28951072883515
+  Thursday, March 24, 1836:
+    start: 158
+    end: 159
+    locations:
+      Lorenzo de Zavala's:
+        longitude: 29.73740767679599
+        latitude: -95.28951072883515
+      Lynchburg, Texas:
+        longitude: 29.78717
+        latitude: -95.055485
+      Atkins':
+        longitude: 29.876121498192774
+        latitude: -95.07071760101105
+      Earle's:
+        longitude: 29.822946570735013
+        latitude: -95.11560408851852
+  Friday, March 25, 1836:
+    start: 159
+    end: 160
+    locations:
+      Earle's:
+        longitude: 29.822946570735013
+        latitude: -95.11560408851852
+      William Vince's:
+        longitude: 29.667057288027806
+        latitude: -95.14735306748723
+      Harrisburg, Texas:
+        longitude: 29.7162
+        latitude: 95.2776
+  Monday, April 4, 1836:
+    start: 164
+    end: 165
+    locations:
+      Earle's:
+        longitude: 29.822946570735013
+        latitude: -95.11560408851852
+      Atkins':
+        longitude: 29.876121498192774
+        latitude: -95.07071760101105
+      Lynchburg, Texas:
+        longitude: 29.78717
+        latitude: -95.055485
+      Morgan's Point, Texas:
+        longitude: 29.676389
+        latitude: -94.999444
+  Thursday, April 7, 1936:
+    start: 166
+    end: 167
+    locations:
+      Morgan's Point, Texas:
+        longitude: 29.676389
+        latitude: -94.999444
+      Galveston, Texas:
+        longitude: 29.301389
+        latitude: -94.797778
+  Saturday, April 9, 1836:
+    start: 169
+    end: 170
+    locations: 
+      Galveston, Texas:
+        longitude: 29.301389
+        latitude: -94.797778
+      Point Bolivar, Texas:
+        longitude: 29.380833
+        latitude: -94.764444
+  Sunday, April 10, 1836:
+    start: 170
+    end: 171
+    locations: 
+      Point Bolivar, Texas:
+        longitude: 29.380833
+        latitude: -94.764444
+      Clear Creek:
+        longitude: 29.5547
+        latitude: -95.018
+  Monday, April 11, 1836:
+    start: 171
+    end: 171
+    locations: 
+      Clear Creek:
+        longitude: 29.5547
+        latitude: -95.018
+      Morgan's Point, Texas:
+        longitude: 29.676389
+        latitude: -94.999444
+  Tuesday, April 12, 1836:
+    start: 171
+    end: 172
+    locations: 
+      Morgan's Point, Texas:
+        longitude: 29.676389
+        latitude: -94.999444
+      # Routh's:
+  Wednesday, April 13, 1836:
+    start: 172
+    end: 173
+    locations: 
+      # Routh's:
+      Lynchburg, Texas:
+        longitude: 29.78717
+        latitude: -95.055485
 Vol 9:
-  -label: "Saturday, April 16, 1836"
-  start: 175
-  end: 176
-  locations: 
-    -label: "Lynchburg, Texas"
-    longitude: 29.78717
-    latitude: -95.055485
-    # -label: Twelve miles from Jacob Winfree's
-  -label: "Sunday, April 17, 1836"
-  start: 176
-  end: 177
-  locations: 
-    -label: "Jacob Winfree's"
-    longitude: 29.846047549782458
-    latitude: -94.76644238034162
-    # -label: "Barrow's"
-    -label: "Wallace's"
-    longitude: 29.83417959733029
-    latitude: -94.74614014637305
-  -label:  "Monday, April 18, 1836"
-  start: 177
-  end: 178
-  locations:
-    -label: "Wallace's"
-    longitude: 29.83417959733029
-    latitude: -94.74614014637305
-    -label: "Anahauc, Texas"
-    longitude: 29.756944
-    latitude: -94.681389
-    -label: "Taylor White's"
-    longitude: 29.836476730436072
-    latitude: -94.64992521147855
-  -label: "Tuesday, April 19, 1836"
-  start: 178
-  end: 178
-  locations:
-    -label: "Pine Island, Texas"
-    longitude: 30.063333
-    latitude: -96.023056
-    # -label: "Shoats'"
-    # -label: "Williams'"
-  -label: "Wednesday, April 20, 1836"
-  start: 178
-  end: 179
-  locations: 
-    # -label: "Williams'"
-    -label: "Joseph Grigsby's"
-    longitude: 29.998433155897743
-    latitude: -94.05270417464799
-  -label: "Thursday, April 21, 1836"
-  start: 179
-  end: 180
-  locations:
-    -label: "Joseph Grigsby's"
-    longitude: 29.998433155897743
-    latitude: -94.05270417464799
-    -label: "Beaumont, Texas"
-    longitude: 30.08
-    latitude: -94.126667
-  -label: "Friday, April 22, 1836"
-  start: 180
-  end: 181
-  locations: 
-    -label: "Beaumont, Texas"
-    longitude: 30.08
-    latitude: -94.126667
-    -label: "Ashworth's ferry"
-    longitude: 29.973719462075326
-    latitude: -93.88863993258455
-  -label: "Saturday, April 23, 1836"
-  start: 181
-  end: 182
-  locations: 
-    -label: "Ashworth's ferry"
-    longitude: 29.973719462075326
-    latitude: -93.88863993258455
-    -label: "Hatton's"
-    longitude: 30.015911756009533
-    latitude: -93.77742449639949
-    -label: "Cow Bayou"
-    longitude: 30.021944
-    latitude: -93.745278
-    -label: "Patillo's"
-    longitude: 30.03832364691818
-    latitude: -93.74379577069934
-    -label: "Adams' Bayou"
-    longitude: 30.11219635374182
-    latitude: -93.76602133730434
-    # -label: "Cypress Bayou"
-    -label: "Ballow's ferry"
-    longitude: 30.108782355976537
-    latitude: -93.71758666464609
-  -label: "Monday, April 25, 1836"
-  start: 182
-  end: 183
-  locations: 
-    -label: "Ballow's ferry"
-    longitude: 30.108782355976537
-    latitude: -93.71758666464609
-    # -label: "James Lyons'"
-    # -label: "Hardy Cowherd's"
-  -label: "Tuesday, April 26, 1836"
-  start: 183
-  end: 183
-  locations:
-    # -label: "Hardy Cowherd's"
-    # -label: "Dr. R. Neblett's"
-    # -label: "Rees Perkins'"
-    # -label: "Arsen Le Blue Comarsac's"
-  -label: "Wednesday, April 27, 1836"
-  start: 183
-  end: 184
-  locations: 
-    # -label: "Arsen Le Blue Comarsac's"
-    # -label: "Miles Welch's"
-    -label: "Mermentau, Louisiana"
-    longitude: 30.1875
-    latitude: -92.583889
-  -label: "Thursday, April 28, 1836"
-  start: 184
-  end: 184
-  locations:
-    -label: "Mermentau, Louisiana"
-    longitude: 30.1875
-    latitude: -92.583889
-    # -label: "Asa Abshear's"
-  -label: "Friday, April 29, 1836"
-  start: 184
-  end: 184
-  locations:
-    # -label: "Asa Abshear's"
-    # -label: "Sebastian Nunez's"
-  -label: "Saturday, April 30, 1836"
-  start: 185
-  end: 185
-  locations: 
-    # -label: "Sebastian Nunez's"
-    # -label: "Perry's ferry"
-    # -label: "Madame Cigout's plantation"
-    # -label: "Caesar Dublanc's plantation"
-    # -label: "St. Mark Darby's mansion"
-    -label: "New Iberia, Louisiana"
-    longitude: 30.003611
-    latitude: -91.818333
-  -label: "Sunday, May 1, 1836"
-  start: 186
-  end: 186
-  locations:  
-    -label: "New Iberia, Louisiana"
-    longitude: 30.003611
-    latitude: -91.818333
-    # -label: John D. Wilkins'"
-  -label: "Monday, May 2, 1836"
-  start: 186
-  end: 187
-  locations:
-    # -label: John D. Wilkins'"
-    -label: "New Iberia, Louisiana"
-    longitude: 30.003611
-    latitude: -91.818333
-  -label: "Tuesday, May 3, 1836"
-  start: 187
-  end: 188
-  locations:
-    -label: "New Iberia, Louisiana"
-    longitude: 30.003611
-    latitude: -91.818333
-    # -label: "Baron Bayard's"
-    # -label: "Major Fusillier's"
-    # -label: "Winthrop Hardin's"
-    # -label: "Monsieur Preyeaur's"
-    -label: Franklin, Louisiana
-    longitude: 29.791667
-    latitude: -91.508333
-  -label: "Wednesday, May 4, 1836"
-  start: 188
-  end: 189
-  locations:
-    -label: Franklin, Louisiana
-    longitude: 29.791667
-    latitude: -91.508333
-    -label: "Bayou Teche"
-    longitude: 29.721667
-    latitude: -91.299167
-  -label: "Thursday, May 5, 1836"
-  start: 189
-  end: 190
-  locations:
-    -label: "Placquemine, Louisiana"
-    longitude: 30.281389
-    latitude: -91.248889
-    -label: "New Orleans, Louisiana"
-    longitude: 29.976111
-    latitude: -90.078333
-  -label: "Saturday, May 21, 1836"
-  start: 194
-  end: 194
-  locations:
-    -label: "New Orleans, Louisiana"
-    longitude: 29.976111
-    latitude: -90.078333
-    -label: "Lake Pontchartrain"
-    longitude: 30.188889
-    latitude: -90.101389
-    -label: "The Rigolets"
-    longitude: 30.154444
-    latitude: -89.625278
-    -label: "Lake Borgne"
-    longitude: 30.028056
-    latitude: -89.6175
-    -label: "Biloxi, Mississippi"
-    longitude: 30.411944
-    latitude: -88.927778
-  -label: "Sunday, May 22, 1836"
-  start: 194
-  end: 195
-  locations:
-    -label: "Mississippi Sound"
-    longitude: 30.266667
-    latitude: -88.516667
-    -label: "Mobile Bay"
-    longitude: 30.442778
-    latitude: -88.009167
-    -label: "Mobile, Alabama"
-    longitude: 30.6675
-    latitude: -88.101111
-  -label: "Tuesday, May 24, 1836"
-  start: 195
-  end: 196
-  locations:
-    -label: "Mobile, Alabama"
-    longitude: 30.6675
-    latitude: -88.101111
-    # -label: "Labuzan's"
-    -label: "Mobile, Alabama"
-    longitude: 30.6675
-    latitude: -88.101111
-  -label: "Wednesday, May 25, 1836"
-  start: 196
-  end: 196
-  locations:
-    -label: "Lake Borgne"
-    longitude: 30.028056
-    latitude: -89.6175
-    -label: "New Orleans, Louisiana"
-    longitude: 29.976111
-    latitude: -90.078333
-  -label: "Monday, May 30, 1836"
-  start: 197
-  end: 197
-  locations:
-    -label: "New Orleans, Louisiana"
-    longitude: 29.976111
-    latitude: -90.078333
-  -label: "Tuesday, May 31, 1836"
-  start: 197
-  end: 198
-  locations:
-    -label: "Bonnet Carre Spillway"
-    longitude: 30.002222
-    latitude: -90.441389
-    # -label: "General Hampton's"
-    -label: "Donaldsonville, Louisiana"
-    longitude: 30.1
-    latitude: -90.994167
-  -label: "Wednesday, June 1, 1836"
-  start: 198
-  end: 198
-  locations:
-    -label: "Port Hudson, Louisiana"
-    longitude: 30.678056
-    latitude: -91.268889
-    -label: "Pointe Coupee Parish, Louisiana"
-    longitude: 30.71
-    latitude: -91.6
-    -label: "St. Francisville, Louisiana"
-    longitude: 30.784722
-    latitude: -91.380556
-    -label: "Tunica Bend"
-    longitude: 30.92140342219356
-    latitude: -91.53540205459458
-    -label: "Fort Adams, Mississippi"
-    longitude: 31.086667
-    latitude: -91.548056
+  Saturday, April 16, 1836:
+    start: 175
+    end: 176
+    locations: 
+      Lynchburg, Texas:
+        longitude: 29.78717
+        latitude: -95.055485
+      # -label: Twelve miles from Jacob Winfree's
+  Sunday, April 17, 1836:
+    start: 176
+    end: 177
+    locations: 
+      Jacob Winfree's:
+        longitude: 29.846047549782458
+        latitude: -94.76644238034162
+      # Barrow's:
+      Wallace's:
+        longitude: 29.83417959733029
+        latitude: -94.74614014637305
+  Monday, April 18, 1836:
+    start: 177
+    end: 178
+    locations:
+      Wallace's:
+        longitude: 29.83417959733029
+        latitude: -94.74614014637305
+      Anahauc, Texas:
+        longitude: 29.756944
+        latitude: -94.681389
+      Taylor White's:
+        longitude: 29.836476730436072
+        latitude: -94.64992521147855
+  Tuesday, April 19, 1836:
+    start: 178
+    end: 178
+    locations:
+      Pine Island, Texas:
+        longitude: 30.063333
+        latitude: -96.023056
+      # Shoats':
+      # Williams':
+  Wednesday, April 20, 1836:
+    start: 178
+    end: 179
+    locations: 
+      # Williams':
+      Joseph Grigsby's:
+        longitude: 29.998433155897743
+        latitude: -94.05270417464799
+  Thursday, April 21, 1836:
+    start: 179
+    end: 180
+    locations:
+      Joseph Grigsby's:
+        longitude: 29.998433155897743
+        latitude: -94.05270417464799
+      Beaumont, Texas:
+        longitude: 30.08
+        latitude: -94.126667
+  Friday, April 22, 1836:
+    start: 180
+    end: 181
+    locations: 
+      Beaumont, Texas:
+        longitude: 30.08
+        latitude: -94.126667
+      Ashworth's ferry:
+        longitude: 29.973719462075326
+        latitude: -93.88863993258455
+  Saturday, April 23, 1836:
+    start: 181
+    end: 182
+    locations: 
+      Ashworth's ferry:
+        longitude: 29.973719462075326
+        latitude: -93.88863993258455
+      Hatton's:
+        longitude: 30.015911756009533
+        latitude: -93.77742449639949
+      Cow Bayou:
+        longitude: 30.021944
+        latitude: -93.745278
+      Patillo's:
+        longitude: 30.03832364691818
+        latitude: -93.74379577069934
+      Adams' Bayou:
+        longitude: 30.11219635374182
+        latitude: -93.76602133730434
+      # Cypress Bayou:
+      Ballow's ferry:
+        longitude: 30.108782355976537
+        latitude: -93.71758666464609
+  Monday, April 25, 1836:
+    start: 182
+    end: 183
+    locations: 
+      Ballow's ferry:
+        longitude: 30.108782355976537
+        latitude: -93.71758666464609
+      # James Lyons':
+      # Hardy Cowherd's:
+  Tuesday, April 26, 1836:
+    start: 183
+    end: 183
+    locations:
+      # Hardy Cowherd's:
+      # Dr. R. Neblett's:
+      # Rees Perkins':
+      # Arsen Le Blue Comarsac's:
+  Wednesday, April 27, 1836:
+    start: 183
+    end: 184
+    locations: 
+      # Arsen Le Blue Comarsac's:
+      # Miles Welch's:
+      Mermentau, Louisiana:
+        longitude: 30.1875
+        latitude: -92.583889
+  Thursday, April 28, 1836:
+    start: 184
+    end: 184
+    locations:
+      Mermentau, Louisiana:
+        longitude: 30.1875
+        latitude: -92.583889
+      # Asa Abshear's:
+  Friday, April 29, 1836:
+    start: 184
+    end: 184
+    locations:
+      # Asa Abshear's:
+      # Sebastian Nunez's:
+  Saturday, April 30, 1836:
+    start: 185
+    end: 185
+    locations: 
+      # Sebastian Nunez's:
+      # Perry's ferry:
+      # Madame Cigout's plantation:
+      # Caesar Dublanc's plantation:
+      # St. Mark Darby's mansion:
+      New Iberia, Louisiana:
+        longitude: 30.003611
+        latitude: -91.818333
+  Sunday, May 1, 1836:
+    start: 186
+    end: 186
+    locations:  
+      New Iberia, Louisiana:
+        longitude: 30.003611
+        latitude: -91.818333
+      # -label: John D. Wilkins':
+  Monday, May 2, 1836:
+    start: 186
+    end: 187
+    locations:
+      # -label: John D. Wilkins':
+      New Iberia, Louisiana:
+        longitude: 30.003611
+        latitude: -91.818333
+  Tuesday, May 3, 1836:
+    start: 187
+    end: 188
+    locations:
+      New Iberia, Louisiana:
+        longitude: 30.003611
+        latitude: -91.818333
+      # Baron Bayard's:
+      # Major Fusillier's:
+      # Winthrop Hardin's:
+      # Monsieur Preyeaur's:
+      Franklin, Louisiana:
+        longitude: 29.791667
+        latitude: -91.508333
+  Wednesday, May 4, 1836:
+    start: 188
+    end: 189
+    locations:
+      Franklin, Louisiana:
+        longitude: 29.791667
+        latitude: -91.508333
+      Bayou Teche:
+        longitude: 29.721667
+        latitude: -91.299167
+  Thursday, May 5, 1836:
+    start: 189
+    end: 190
+    locations:
+      Placquemine, Louisiana:
+        longitude: 30.281389
+        latitude: -91.248889
+      New Orleans, Louisiana:
+        longitude: 29.976111
+        latitude: -90.078333
+  Saturday, May 21, 1836:
+    start: 194
+    end: 194
+    locations:
+      New Orleans, Louisiana:
+        longitude: 29.976111
+        latitude: -90.078333
+      Lake Pontchartrain:
+        longitude: 30.188889
+        latitude: -90.101389
+      The Rigolets:
+        longitude: 30.154444
+        latitude: -89.625278
+      Lake Borgne:
+        longitude: 30.028056
+        latitude: -89.6175
+      Biloxi, Mississippi:
+        longitude: 30.411944
+        latitude: -88.927778
+  Sunday, May 22, 1836:
+    start: 194
+    end: 195
+    locations:
+      Mississippi Sound:
+        longitude: 30.266667
+        latitude: -88.516667
+      Mobile Bay:
+        longitude: 30.442778
+        latitude: -88.009167
+      Mobile, Alabama:
+        longitude: 30.6675
+        latitude: -88.101111
+  Tuesday, May 24, 1836:
+    start: 195
+    end: 196
+    locations:
+      Mobile, Alabama:
+        longitude: 30.6675
+        latitude: -88.101111
+      # Labuzan's:
+      Mobile, Alabama:
+        longitude: 30.6675
+        latitude: -88.101111
+  Wednesday, May 25, 1836:
+    start: 196
+    end: 196
+    locations:
+      Lake Borgne:
+        longitude: 30.028056
+        latitude: -89.6175
+      New Orleans, Louisiana:
+        longitude: 29.976111
+        latitude: -90.078333
+  Monday, May 30, 1836:
+    start: 197
+    end: 197
+    locations:
+      New Orleans, Louisiana:
+        longitude: 29.976111
+        latitude: -90.078333
+  Tuesday, May 31, 1836:
+    start: 197
+    end: 198
+    locations:
+      Bonnet Carre Spillway:
+        longitude: 30.002222
+        latitude: -90.441389
+      # General Hampton's:
+      Donaldsonville, Louisiana:
+        longitude: 30.1
+        latitude: -90.994167
+  Wednesday, June 1, 1836:
+    start: 198
+    end: 198
+    locations:
+      Port Hudson, Louisiana:
+        longitude: 30.678056
+        latitude: -91.268889
+      Pointe Coupee Parish, Louisiana:
+        longitude: 30.71
+        latitude: -91.6
+      St. Francisville, Louisiana:
+        longitude: 30.784722
+        latitude: -91.380556
+      Tunica Bend:
+        longitude: 30.92140342219356
+        latitude: -91.53540205459458
+      Fort Adams, Mississippi:
+        longitude: 31.086667
+        latitude: -91.548056
 Vol 10:
-  -label: "Thursday, June 2, 1836"
-  start: 198
-  end: 198
-  locations:
-    -label: "Natchez, Mississippi"
-    longitude: 31.554444
-    latitude: -91.3875
-    -label: "Rodney, Mississippi"
-    longitude: 31.861278
-    latitude: -91.199833
-    -label: "Bruinsburg, Mississippi"
-    longitude: 31.9425
-    latitude: -91.157222
-  -label: "Friday, June 3, 1836"
-  start: 198
-  end: 198
-  locations:
-    -label: "Vicksburg, Mississippi"
-    longitude: 32.3525
-    latitude: -90.8775
-  -label: "Saturday, June 4, 1836"
-  start: 198
-  end: 199
-  locations:
-    -label: "Vicksburg, Mississippi"
-    longitude: 32.3525
-    latitude: -90.8775
-  -label: "Monday, June 6, 1836"
-  start: 199
-  end: 199
-  locations:
-    -label: "Memphis, Tennessee"
-    longitude: 35.146111
-    latitude: -90.051944
-  -label: "Tuesday, June 7, 1836"
-  start: 199
-  end: 200
-  locations:
-    -label: "Randolph, Tennessee"
-    longitude: 35.516389
-    latitude: -89.888611
-  -label: "Wednesday, June 8, 1836"
-  start: 200
-  end: 200
-  locations:
-    -label: "New Madrid, Missouri"
-    longitude: 36.587778
-    latitude: -89.550556
-    -label: "Hickman, Kentucky"
-    longitude: 36.567222
-    latitude: -89.186389
-    -label: "Paducah, Kentucky"
-    longitude: 37.072222
-    latitude: -88.6275
-    -label: "Smithland, Kentucky"
-    longitude: 37.138611
-    latitude: -88.403889
-  -label: "Thursday, June 9, 1836"
-  start: 200
-  end: 200
-  locations:
-    -label: "Livingston County, Kentucky"
-    longitude: 37.21
-    latitude: -88.35
-    -label: "Pope County, Illinois"
-    longitude: 37.41
-    latitude: -88.57
-    -label: "Cave in Rock State Park"
-    longitude: 37.468611
-    latitude: -88.155833
-  -label: "Friday, June 10, 1836"
-  start: 200
-  end: 200
-  locations:
-    -label: "Rockport, Indiana"
-    longitude: 37.889444
-    latitude: -87.054167
-    -label: "Troy, Indiana"
-    longitude: 37.999444
-    latitude: -86.793889
-    -label: "Cloverport, Kentucky"
-    longitude: 37.834167
-    latitude: -86.631944
-    -label: "Stephensport, Kentucky"
-    longitude: 37.9125
-    latitude: -86.527222
-    -label: "Rome, Indiana"
-    longitude: 37.923333
-    latitude: -86.523611
-    -label: "Leavenworth, Indiana"
-    longitude: 38.199722
-    latitude: -86.345556
-  -label: "Saturday, June 11, 1836"
-  start: 200
-  end: 201
-  locations:
-    -label: "Portland, Kentucky"
-    longitude: 38.2692
-    latitude: -85.8108
-    -label: "Louisville, Kentucky"
-    longitude: 38.256111
-    latitude: -85.751389
-  -label: "Tuesday, June 14, 1836"
-  start: 201
-  end: 201
-  locations:
-    -label: "Louisville, Kentucky"
-    longitude: 38.256111
-    latitude: -85.751389
-  -label: "Wednesday, June 15, 1836"
-  start: 201
-  end: 202
-  locations:
-    -label: "Cincinnati, Ohio"
-    longitude: 39.102438
-    latitude: -84.513301
-  -label: "Thursday, June 16, 1836"
-  start: 202
-  end: 202
-  locations:
-    -label: "Maysville, Kentucky"
-    longitude: 38.643889
-    latitude: -83.775833
-    -label: "Alexandria, Ohio"
-    longitude: 40.09
-    latitude: -82.611944
-    -label: "Manchester, Ohio"
-    longitude: 38.684722
-    latitude: -83.614722
-    -label: "Vanceburg, Kentucky"
-    longitude: 38.594444
-    latitude: -83.324444 
-    -label: "Portsmouth, Ohio"
-    longitude: 38.739444
-    latitude: -82.944444
-    # -label: "Greenupsburg"
-  -label: "Friday, June 17, 1836"
-  start: 202
-  end: 202
-  locations:
-    -label: "Guyandotte, West Virginia"
-    longitude: 38.426944
-    latitude: -82.385278
-    -label: "Gallipolis, Ohio"
-    longitude: 38.818611
-    latitude: -82.193333
-    -label: Point Pleasant, West Virginia
-    longitude: 38.8575
-    latitude: -82.128611
-  -label: "Saturday, June 18, 1836"
-  start: 202
-  end: 202
-  locations:
-    -label: "Marietta, Ohio"
-    longitude: 39.424167
-    latitude: -81.446389
-    -label: "Moundsville, West Virginia"
-    longitude: 39.916667
-    latitude: -80.733333
-    -label: "Wheeling, West Virginia"
-    longitude: 40.070278
-    latitude: -80.698611
-  -label: "Sunday, June 19, 1836"
-  start: 202
-  end: 203
-  locations:
-    -label: "Wheeling, West Virginia"
-    longitude: 40.070278
-    latitude: -80.698611
-    -label: "Warren, Ohio"
-    longitude: 41.238333
-    latitude: -80.814444
-    -label: "Wellsburg, West Virginia"
-    longitude: 40.27737
-    latitude: -80.609349
-    -label: "Steubenville, Ohio"
-    longitude: 40.365278
-    latitude: -80.633333
-    -label: "Wellsville, Ohio"
-    longitude: 40.604167
-    latitude: -80.655
-    -label: "East Liverpool, Ohio"
-    longitude: 40.628611
-    latitude: -80.571944
-    -label: "Beaver, Pennsylvania"
-    longitude: 40.694722
-    latitude: -80.3075
-    # -label: "New Philadelphia"
-    -label: "Freedom, Pennsylvania"
-    longitude: 40.684444
-    latitude: -80.251667
-    # -label: "Shaw's Town, Pennsylvania"
-  -label: "Monday, June 20, 1836"
-  start: 203
-  end: 203
-  locations:
-    -label: "Pittsburgh, Pennsylvania"
-    longitude: 40.439722
-    latitude: -79.976389
-  -label: "Tuesday, June 21, 1836"
-  start: 203
-  end: 204
-  locations: 
-    -label: "Pittsburgh, Pennsylvania"
-    longitude: 40.439722
-    latitude: -79.976389
-  -label: "Wednesday, June 22, 1836"
-  start: 204
-  end: 204
-  locations:
-    # -label: "Natton's"
-    # -label: "John Lambert's"
-    -label: "Bedford, Pennsylvania"
-    longitude: 40.016389
-    latitude: -78.504167
-  -label: "Thursday, June 23, 1836"
-  start: 204
-  end: 204
-  locations:
-    -label: "Bedford, Pennsylvania"
-    longitude: 40.016389
-    latitude: -78.504167
-    -label: "Chambersburg, Pennsylvania"
-    longitude: 39.9375
-    latitude: -77.661111
-  -label: "Friday, June 24, 1836"
-  start: 204
-  end: 205
-  locations:
-    -label: "Gettysburg, Pennsylvania"
-    longitude: 39.828333
-    latitude: -77.232222
-    -label: "Baltimore, Maryland"
-    longitude: 39.289444
-    latitude: -76.615278
-  -label: "Saturday, June 25, 1836"
-  start: 205
-  end: 205
-  locations:
-    -label: "Baltimore, Maryland"
-    longitude: 39.289444
-    latitude: -76.615278
-    -label: "Washington, DC"
-    longitude: 38.904722
-    latitude: -77.016389
-  -label: "Sunday, June 26, 1836"
-  start: 205
-  end: 205
-  locations:
-    -label: "Potomac Creek"
-    longitude: 38.347347
-    latitude: -77.286369
-    -label: "Fredericksburg, Virginia"
-    longitude: 38.301829
-    latitude: -77.470778
+  Thursday, June 2, 1836:
+    start: 198
+    end: 198
+    locations:
+      Natchez, Mississippi:
+        longitude: 31.554444
+        latitude: -91.3875
+      Rodney, Mississippi:
+        longitude: 31.861278
+        latitude: -91.199833
+      Bruinsburg, Mississippi:
+        longitude: 31.9425
+        latitude: -91.157222
+  Friday, June 3, 1836:
+    start: 198
+    end: 198
+    locations:
+      Vicksburg, Mississippi:
+        longitude: 32.3525
+        latitude: -90.8775
+  Saturday, June 4, 1836:
+    start: 198
+    end: 199
+    locations:
+      Vicksburg, Mississippi:
+        longitude: 32.3525
+        latitude: -90.8775
+  Monday, June 6, 1836:
+    start: 199
+    end: 199
+    locations:
+      Memphis, Tennessee:
+        longitude: 35.146111
+        latitude: -90.051944
+  Tuesday, June 7, 1836:
+    start: 199
+    end: 200
+    locations:
+      Randolph, Tennessee:
+        longitude: 35.516389
+        latitude: -89.888611
+  Wednesday, June 8, 1836:
+    start: 200
+    end: 200
+    locations:
+      New Madrid, Missouri:
+        longitude: 36.587778
+        latitude: -89.550556
+      Hickman, Kentucky:
+        longitude: 36.567222
+        latitude: -89.186389
+      Paducah, Kentucky:
+        longitude: 37.072222
+        latitude: -88.6275
+      Smithland, Kentucky:
+        longitude: 37.138611
+        latitude: -88.403889
+  Thursday, June 9, 1836:
+    start: 200
+    end: 200
+    locations:
+      Livingston County, Kentucky:
+        longitude: 37.21
+        latitude: -88.35
+      Pope County, Illinois:
+        longitude: 37.41
+        latitude: -88.57
+      Cave in Rock State Park:
+        longitude: 37.468611
+        latitude: -88.155833
+  Friday, June 10, 1836:
+    start: 200
+    end: 200
+    locations:
+      Rockport, Indiana:
+        longitude: 37.889444
+        latitude: -87.054167
+      Troy, Indiana:
+        longitude: 37.999444
+        latitude: -86.793889
+      Cloverport, Kentucky:
+        longitude: 37.834167
+        latitude: -86.631944
+      Stephensport, Kentucky:
+        longitude: 37.9125
+        latitude: -86.527222
+      Rome, Indiana:
+        longitude: 37.923333
+        latitude: -86.523611
+      Leavenworth, Indiana:
+        longitude: 38.199722
+        latitude: -86.345556
+  Saturday, June 11, 1836:
+    start: 200
+    end: 201
+    locations:
+      Portland, Kentucky:
+        longitude: 38.2692
+        latitude: -85.8108
+      Louisville, Kentucky:
+        longitude: 38.256111
+        latitude: -85.751389
+  Tuesday, June 14, 1836:
+    start: 201
+    end: 201
+    locations:
+      Louisville, Kentucky:
+        longitude: 38.256111
+        latitude: -85.751389
+  Wednesday, June 15, 1836:
+    start: 201
+    end: 202
+    locations:
+      Cincinnati, Ohio:
+        longitude: 39.102438
+        latitude: -84.513301
+  Thursday, June 16, 1836:
+    start: 202
+    end: 202
+    locations:
+      Maysville, Kentucky:
+        longitude: 38.643889
+        latitude: -83.775833
+      Alexandria, Ohio:
+        longitude: 40.09
+        latitude: -82.611944
+      Manchester, Ohio:
+        longitude: 38.684722
+        latitude: -83.614722
+      Vanceburg, Kentucky:
+        longitude: 38.594444
+        latitude: -83.324444 
+      Portsmouth, Ohio:
+        longitude: 38.739444
+        latitude: -82.944444
+      # Greenupsburg:
+  Friday, June 17, 1836:
+    start: 202
+    end: 202
+    locations:
+      Guyandotte, West Virginia:
+        longitude: 38.426944
+        latitude: -82.385278
+      Gallipolis, Ohio:
+        longitude: 38.818611
+        latitude: -82.193333
+      Point Pleasant, West Virginia:
+        longitude: 38.8575
+        latitude: -82.128611
+  Saturday, June 18, 1836:
+    start: 202
+    end: 202
+    locations:
+      Marietta, Ohio:
+        longitude: 39.424167
+        latitude: -81.446389
+      Moundsville, West Virginia:
+        longitude: 39.916667
+        latitude: -80.733333
+      Wheeling, West Virginia:
+        longitude: 40.070278
+        latitude: -80.698611
+  Sunday, June 19, 1836:
+    start: 202
+    end: 203
+    locations:
+      Wheeling, West Virginia:
+        longitude: 40.070278
+        latitude: -80.698611
+      Warren, Ohio:
+        longitude: 41.238333
+        latitude: -80.814444
+      Wellsburg, West Virginia:
+        longitude: 40.27737
+        latitude: -80.609349
+      Steubenville, Ohio:
+        longitude: 40.365278
+        latitude: -80.633333
+      Wellsville, Ohio:
+        longitude: 40.604167
+        latitude: -80.655
+      East Liverpool, Ohio:
+        longitude: 40.628611
+        latitude: -80.571944
+      Beaver, Pennsylvania:
+        longitude: 40.694722
+        latitude: -80.3075
+      # New Philadelphia:
+      Freedom, Pennsylvania:
+        longitude: 40.684444
+        latitude: -80.251667
+      # Shaw's Town, Pennsylvania:
+  Monday, June 20, 1836:
+    start: 203
+    end: 203
+    locations:
+      Pittsburgh, Pennsylvania:
+        longitude: 40.439722
+        latitude: -79.976389
+  Tuesday, June 21, 1836:
+    start: 203
+    end: 204
+    locations: 
+      Pittsburgh, Pennsylvania:
+        longitude: 40.439722
+        latitude: -79.976389
+  Wednesday, June 22, 1836:
+    start: 204
+    end: 204
+    locations:
+      # Natton's:
+      # John Lambert's:
+      Bedford, Pennsylvania:
+        longitude: 40.016389
+        latitude: -78.504167
+  Thursday, June 23, 1836:
+    start: 204
+    end: 204
+    locations:
+      Bedford, Pennsylvania:
+        longitude: 40.016389
+        latitude: -78.504167
+      Chambersburg, Pennsylvania:
+        longitude: 39.9375
+        latitude: -77.661111
+  Friday, June 24, 1836:
+    start: 204
+    end: 205
+    locations:
+      Gettysburg, Pennsylvania:
+        longitude: 39.828333
+        latitude: -77.232222
+      Baltimore, Maryland:
+        longitude: 39.289444
+        latitude: -76.615278
+  Saturday, June 25, 1836:
+    start: 205
+    end: 205
+    locations:
+      Baltimore, Maryland:
+        longitude: 39.289444
+        latitude: -76.615278
+      Washington, DC:
+        longitude: 38.904722
+        latitude: -77.016389
+  Sunday, June 26, 1836:
+    start: 205
+    end: 205
+    locations:
+      Potomac Creek:
+        longitude: 38.347347
+        latitude: -77.286369
+      Fredericksburg, Virginia:
+        longitude: 38.301829
+        latitude: -77.470778
     
