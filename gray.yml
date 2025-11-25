@@ -48,7 +48,7 @@ Vol 1:
     -label: "Hot Springs, Virginia"
     longitude: 37.999722
     latitude: -79.832222
-#   -label: "Pat Callahan's at the east foot of the Alleghanys"
+    # -label: "Pat Callahan's at the east foot of the Alleghanys"
     -label: "White Sulphur Springs, West Virginia"
     latitude: 37.798333
     longitude: -80.300278
@@ -568,26 +568,32 @@ Vol 5:
     longitude: 31.611389
     latitude: -93.400833
     -label: "Gaines' Ferry"
-    longitude: 31.34
-    latitude: -93.85
+    longitude: 31.347222
+    latitude: -93.952778
   -label: "Friday, January 29, 1836"
   start: 99
   end: 100
   locations:
     -label: "Gaines' Ferry"
-    longitude: 31.34
-    latitude: -93.85
+    longitude: 31.347222
+    latitude: -93.952778
     # -label: "Maximillian's"
-    # -label: "Robert's"
+    -label: "Robert's"
+    longitude: 31.537622492953286
+    latitude: -94.02923506813532
   -label: "Saturday, January 30, 1836"
   start: 100
   end: 100
   locations: 
-    # -label: "Robert's"
+    -label: "Robert's"
+    longitude: 31.537622492953286
+    latitude: -94.02923506813532
     -label: "San Augustine, Texas"
     longitude: 31.53
     latitude: -94.111389
-    # -label: "General McFarland's"
+    -label: "General McFarland's"
+    longitude: 31.515718841328454
+    latitude: -94.33340383549468
     # -label: "Dr. Lawhon's"
   -label: "Sunday, January 31, 1836"
   start: 101
@@ -612,40 +618,67 @@ Vol 6:
     -label: "Nacogdoches, Texas"
     longitude: 31.63
     latitude: -94.628611
-    # -label: "Col. John Durst's"
+    -label: "Col. John Durst's"
+    longitude: 31.523640176132467
+    latitude: -94.86014610665234
   -label: "Monday, February 8, 1836"
   start: 111
   end: 113
   locations: 
-    # -label: "Col. John Durst's"
+    -label: "Col. John Durst's"
+    longitude: 31.523640176132467
+    latitude: -94.86014610665234
     -label: "Angelina River"
     longitude: 30.894644
     latitude: -94.197693
-    # -label: "Col. Peter Ellis Bean's"
-    # -label: "McLean's"
+    -label: "Col. Peter Ellis Bean's"
+    longitude: 31.440856319489647
+    latitude: -95.08194695613054
+    -label: "McLean's"
+    longitude: 31.304149764266455
+    latitude: -95.22410207767813
   -label: "Tuesday, February 9, 1836"
   start: 113
   end: 114
   locations:
-    # -label: "McLean's"
-    # -label: "Jacob Master's"
+    -label: "McLean's"
+    longitude: 31.304149764266455
+    latitude: -95.22410207767813
+    -label: "Jacob Master's"
+    longitude: 31.21633006635656
+    latitude: -95.28837461267464
     -label: "Hurricane Bayou"
     longitude: 31.35304769495766
     latitude: -95.51101643980655
-    # -label: "Henry Master's"
-    # -label: "Colin Aldridge's"
+    -label: "Henry Master's"
+    longitude: 31.147055025057817
+    latitude: -95.44121167660421
+    -label: "Colin Aldridge's"
+    longitude: 30.999232738408335
+    latitude: -95.55150153467501
   -label: "Wednesday, February 10, 1836"
   start: 114
   end: 116
   locations: 
-    # -label: "Colin Aldridge's"
-    # -label: "Larrison's"
+    -label: "Colin Aldridge's"
+    longitude: 30.999232738408335
+    latitude: -95.55150153467501
+    -label: Robbins' Ferry
+    longitude: 30.944268708676656
+    latitude: -95.6645400312465
+    -label: "Larrison's"
+    longitude: 30.965898166469337
+    latitude: -95.7624740397834
   -label: "Thursday, February 11, 1836"
   start: 116
   end: 117
   locations:
-    # -label: "Larrison's"
-    # -label: "Sims'"
+    -label: "Larrison's"
+    longitude: 30.965898166469337
+    latitude: -95.7624740397834
+    -label: "Sims'"
+    longitude: 30.857708719505347
+    latitude: -95.96357986876778
     -label: "Anderson, Texas"
     longitude: 30.487222
     latitude: -95.99
@@ -656,12 +689,16 @@ Vol 6:
     -label: "Anderson, Texas"
     longitude: 30.487222
     latitude: -95.99
-    # -label: "Boatwright's" 
+    -label: "Boatwright's" 
+    longitude: 30.39524409205761
+    latitude: -95.99383959338775
   -label: "Saturday, February 13, 1836"
   start: 118
   end: 120
   locations: 
-    # -label: "Boatwright's"
+    -label: "Boatwright's" 
+    longitude: 30.39524409205761
+    latitude: -95.99383959338775
     # -label: "Lot's"
     -label: "Washington-on-the-Brazos, Texas"
     longitude: 30.325278
@@ -673,19 +710,29 @@ Vol 6:
     -label: "Washington-on-the-Brazos, Texas"
     longitude: 30.325278
     latitude: -96.156667
-    # -label: "Lakey's"
+    -label: "Lakey's"
+    longitude: 30.154810697286866
+    latitude: -96.2897047083157
   -label: "Monday, February 15, 1836"
   start: 121
   end: 122
   locations:
-    # -label: "Lakey's"
-    # -label: "Colonel Edwards'" 
-    # -label: "Cummins'"
+    -label: "Lakey's"
+    longitude: 30.154810697286866
+    latitude: -96.2897047083157
+    -label: "Colonel Edwards'" 
+    longitude: 30.075035608303526
+    latitude: -96.26285863633964
+    -label: "Cummins'"
+    longitude: 29.860253622688166
+    latitude: -96.12188473143945
   -label: "Tuesday, February 16, 1836"
   start: 122
   end: 124
   locations: 
-    # -label: "Cummins'"
+    -label: "Cummins'"
+    longitude: 29.860253622688166
+    latitude: -96.12188473143945
     -label: "San Felipe, Texas"
     longitude: 29.794444
     latitude: -96.104722
@@ -696,18 +743,26 @@ Vol 6:
     -label: "San Felipe, Texas"
     longitude: 29.794444
     latitude: -96.104722
-    # -label: "Cummins'"
+    -label: "Cummins'"
+    longitude: 29.860253622688166
+    latitude: -96.12188473143945
   -label: "Friday, February 19, 1836"
   start: 126
   end: 127
   locations: 
-    # -label: "Cummins'"
-    # -label: "Colonel Edwards'" 
+    -label: "Cummins'"
+    longitude: 29.860253622688166
+    latitude: -96.12188473143945
+    -label: "Colonel Edwards'" 
+    longitude: 30.075035608303526
+    latitude: -96.26285863633964
   -label: "Sunday, February 21, 1836"
   start: 128
   end: 128
   locations:  
-    # -label: "Colonel Edwards'" 
+    -label: "Colonel Edwards'" 
+    longitude: 30.075035608303526
+    latitude: -96.26285863633964 
     # -label: "Harry Davis Gary's"
 Vol 7:
   -label: "Tuesday, February 23, 1836"
@@ -715,8 +770,9 @@ Vol 7:
   end: 130
   locations: 
     # -label: "Harry Davis Gary's"
-    # -label: "Gideon Walker's"
-    # -label: "James Walker's"
+    -label: "Walker's"
+    longitude: 29.884421305557087
+    latitude: -96.16112789972867
     -label: "Washington-on-the-Brazos, Texas"
     longitude: 30.325278
     latitude: -96.156667
@@ -733,22 +789,34 @@ Vol 7:
   end: 131
   locations: 
     # -label: "Foster's"
-    # -label: "Col. Edwards'"
-    # -label: "Cummins'"
+    -label: "Colonel Edwards'" 
+    longitude: 30.075035608303526
+    latitude: -96.26285863633964
+    -label: "Cummins'"
+    longitude: 29.860253622688166
+    latitude: -96.12188473143945
     # -label: "Gail Borden's"
   -label: "Friday, February 26, 1836"
   start: 131
   end: 131
   locations:
     # -label: "Gail Borden's"
-    # -label: "Cummins'"
-    # -label: "Dr. Peebles' plantation"
-    # -label: "Col. Edwards'"
+    -label: "Cummins'"
+    longitude: 29.860253622688166
+    latitude: -96.12188473143945
+    -label: "Dr. Peebles' plantation"
+    longitude: 30.187821293021564
+    latitude: -96.17609640174446
+    -label: "Colonel Edwards'" 
+    longitude: 30.075035608303526
+    latitude: -96.26285863633964
   -label: "Saturday, February 27, 1836"
   start: 132
   end: 132
   locations:
-    # -label: "Col. Edwards'"
+    -label: "Colonel Edwards'" 
+    longitude: 30.075035608303526
+    latitude: -96.26285863633964
     # -label: "Mrs. Panky's"
     -label: "Washington-on-the-Brazos, Texas"
     longitude: 30.325278
@@ -760,26 +828,40 @@ Vol 7:
     -label: "Washington-on-the-Brazos, Texas"
     longitude: 30.325278
     latitude: -96.156667
-    # -label: "Whiteside's"
+    -label: "Whiteside's"
+    longitude: 30.32817020981637
+    latitude: -96.099944233889
   -label: "Friday, March 17, 1836"
   start: 147
   end: 148
   locations: 
-    # -label: "Whiteside's"
-    # -label: "Groce's"
+    -label: "Whiteside's"
+    longitude: 30.32817020981637
+    latitude: -96.099944233889
+    -label: "Groce's plantation"
+    longitude: 30.132366907102696
+    latitude: -96.10486627910444
 Vol 8:
   -label: "Monday, March 21, 1836"
   start: 154
   end: 155
   locations: 
-    # -label: "Groce's"
-    # -label: "McEarly's"
+    -label: "Groce's plantation"
+    longitude: 30.132366907102696
+    latitude: -96.10486627910444
+    -label: "McEarly's"
+    longitude: 29.933775925184996
+    latitude: -95.86375441007462
   -label: "Tuesday, March 22, 1836"
   start: 155
   end: 156
   locations:
-    # -label: "McEarly's"
-    # -label: "Roberts'"
+    -label: "McEarly's"
+    longitude: 29.933775925184996
+    latitude: -95.86375441007462
+    -label: "Roberts'"
+    longitude: 29.826097843845243
+    latitude: -95.55188165325332
     label: "Harrisburg, Texas"
     longitude: 29.7162
     latitude: 95.2776
@@ -790,8 +872,10 @@ Vol 8:
     label: "Harrisburg, Texas"
     longitude: 29.7162
     latitude: 95.2776
-    # -label: "Atkins'"
-    -label: "House of Lorenzo de Zavala"
+    -label: "Atkins'"
+    longitude: 29.876121498192774
+    latitude: -95.07071760101105
+    -label: "Lorenzo de Zavala's"
     longitude: 29.73740767679599
     latitude: -95.28951072883515
   -label: "Thursday, March 24, 1836"
@@ -804,14 +888,22 @@ Vol 8:
     -label: "Lynchburg, Texas"
     longitude: 29.78717
     latitude: -95.055485
-    # -label: "Atkins'"
-    # -label: "Earle's"
+    -label: "Atkins'"
+    longitude: 29.876121498192774
+    latitude: -95.07071760101105
+    -label: "Earle's"
+    longitude: 29.822946570735013
+    latitude: -95.11560408851852
   -label: "Friday, March 25, 1836"
   start: 159
   end: 160
   locations:
-    # -label: "Earle's"
-    # -label: "William Vince's"
+    -label: "Earle's"
+    longitude: 29.822946570735013
+    latitude: -95.11560408851852
+    -label: "William Vince's"
+    longitude: 29.667057288027806
+    latitude: -95.14735306748723
     label: "Harrisburg, Texas"
     longitude: 29.7162
     latitude: 95.2776
@@ -819,8 +911,12 @@ Vol 8:
   start: 164
   end: 165
   locations:
-    # -label: "Earle's"
-    # -label: "Atkins'"
+    -label: "Earle's"
+    longitude: 29.822946570735013
+    latitude: -95.11560408851852
+    -label: "Atkins'"
+    longitude: 29.876121498192774
+    latitude: -95.07071760101105
     -label: "Lynchburg, Texas"
     longitude: 29.78717
     latitude: -95.055485
@@ -896,18 +992,26 @@ Vol 9:
   start: 176
   end: 177
   locations: 
-    # -label: "Jacob Winfree's"
+    -label: "Jacob Winfree's"
+    longitude: 29.846047549782458
+    latitude: -94.76644238034162
     # -label: "Barrow's"
-    # -label: "Wallace's"
+    -label: "Wallace's"
+    longitude: 29.83417959733029
+    latitude: -94.74614014637305
   -label:  "Monday, April 18, 1836"
   start: 177
   end: 178
   locations:
-    # -label: "Wallace's"
+    -label: "Wallace's"
+    longitude: 29.83417959733029
+    latitude: -94.74614014637305
     -label: "Anahauc, Texas"
     longitude: 29.756944
     latitude: -94.681389
-    # -label: "Taylor White's"
+    -label: "Taylor White's"
+    longitude: 29.836476730436072
+    latitude: -94.64992521147855
   -label: "Tuesday, April 19, 1836"
   start: 178
   end: 178
@@ -922,12 +1026,16 @@ Vol 9:
   end: 179
   locations: 
     # -label: "Williams'"
-    # -label: "Joseph Grigsby's"
+    -label: "Joseph Grigsby's"
+    longitude: 29.998433155897743
+    latitude: -94.05270417464799
   -label: "Thursday, April 21, 1836"
   start: 179
   end: 180
   locations:
-    # -label: "Joseph Grigsby's"
+    -label: "Joseph Grigsby's"
+    longitude: 29.998433155897743
+    latitude: -94.05270417464799
     -label: "Beaumont, Texas"
     longitude: 30.08
     latitude: -94.126667
@@ -938,27 +1046,39 @@ Vol 9:
     -label: "Beaumont, Texas"
     longitude: 30.08
     latitude: -94.126667
-    # -label: "Ashworth's ferry"
+    -label: "Ashworth's ferry"
+    longitude: 29.973719462075326
+    latitude: -93.88863993258455
   -label: "Saturday, April 23, 1836"
   start: 181
   end: 182
   locations: 
-    # -label: "Ashworth's ferry"
-    # -label: "Hatton's"
-    # -label: "Patillo's"
+    -label: "Ashworth's ferry"
+    longitude: 29.973719462075326
+    latitude: -93.88863993258455
+    -label: "Hatton's"
+    longitude: 30.015911756009533
+    latitude: -93.77742449639949
     -label: "Cow Bayou"
     longitude: 30.021944
     latitude: -93.745278
+    -label: "Patillo's"
+    longitude: 30.03832364691818
+    latitude: -93.74379577069934
     -label: "Adams' Bayou"
     longitude: 30.11219635374182
     latitude: -93.76602133730434
     # -label: "Cypress Bayou"
-    # -label: "Ballow's ferry"
+    -label: "Ballow's ferry"
+    longitude: 30.108782355976537
+    latitude: -93.71758666464609
   -label: "Monday, April 25, 1836"
   start: 182
   end: 183
   locations: 
-    # -label: "Ballow's ferry"
+    -label: "Ballow's ferry"
+    longitude: 30.108782355976537
+    latitude: -93.71758666464609
     # -label: "James Lyons'"
     # -label: "Hardy Cowherd's"
   -label: "Tuesday, April 26, 1836"
