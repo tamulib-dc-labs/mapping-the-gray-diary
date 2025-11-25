@@ -1477,14 +1477,14 @@ Vol 10:
   locations:
     # -label: "Natton's"
     # -label: "John Lambert's"
-    -label: "Beford, Pennsylvania"
+    -label: "Bedford, Pennsylvania"
     longitude: 40.016389
     latitude: -78.504167
   -label: "Thursday, June 23, 1836"
   start: 204
   end: 204
   locations:
-    -label: "Beford, Pennsylvania"
+    -label: "Bedford, Pennsylvania"
     longitude: 40.016389
     latitude: -78.504167
     -label: "Chambersburg, Pennsylvania"
